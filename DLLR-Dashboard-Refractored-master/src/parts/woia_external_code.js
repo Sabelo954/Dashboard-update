@@ -726,7 +726,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           ${showLbldRecordEdu('High school', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, 1)}
           ${showLbldRecordEdu('Some College', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, 2)}
           ${showLbldRecordEdu("Bachelor's or Higher", esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, 3)}
-          ${showLbldRecordEdu('NR', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, 4)}
+          ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, 4)}
        </tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Age</th> 
