@@ -49,7 +49,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart15 = new dimple.chart(svg11,mAppData);
-    chart15.setBounds("11%", "21%", "80%", "65%")
+    chart15.setBounds(400, 30, 600,300)
     var mAppx = chart15.addCategoryAxis("x", "Time")
     mAppx.title = " ";
     mAppx.addOrderRule(["FY15", "FY16"]);
@@ -112,7 +112,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.aprogChart = new dimple.chart(svg81,aprog3);
-    aprogChart.setBounds("9%", "12%", "80%", "60%")
+    aprogChart.setBounds(500, 40, 260, 300)
     var px2 = aprogChart.addCategoryAxis("x", ["Time", "Indicator Value"]);
     px2.title = "Year";
     var py2 = aprogChart.addMeasureAxis("y", "Amount");
@@ -182,13 +182,13 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.aNewChart = new dimple.chart(svg91,aNew3);
-    aNewChart.setBounds("10%", "12%", "80%", "60%")
+    aNewChart.setBounds(500, 40, 260, 300)
     var px2 = aNewChart.addCategoryAxis("x", ["Time", "Indicator_Value"]);
     var py2 = aNewChart.addMeasureAxis("y", "Amount");
     py2.tickFormat = ',.0f';
 
     window.paNewChart = new dimple.chart(print91,aNew3);
-    paNewChart.setBounds("9%", "12%", "50%", "50%")
+    paNewChart.setBounds(500, 40, 260, 300)
     var px2 = paNewChart.addCategoryAxis("x", ["Time", "Indicator_Value"]);
     var py2 = paNewChart.addMeasureAxis("y", "Amount");
     py2.tickFormat = ',.0f';
@@ -230,7 +230,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart1 = new dimple.chart(svg1,longTermLocation);
-    chart1.setBounds("9%", "12%", "85%", "70%")
+    chart1.setBounds(500, 40, 260, 300)
     var x1 = chart1.addCategoryAxis("x", ["Time", "Location"]);
     var y1 = chart1.addMeasureAxis("y", "Amount");
     y1.tickFormat = ',.0f';
@@ -285,7 +285,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart18 = new dimple.chart(svg17,SnapData2);
-    chart18.setBounds("10%", "12%", "80%", "60%")
+    chart18.setBounds(500, 40, 260, 300)
     var workX = chart18.addCategoryAxis("x", "Time")
     var workY = chart18.addMeasureAxis("y", "Amount");
     workY.tickFormat = ',.2%';

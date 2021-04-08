@@ -83,6 +83,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
     // Tab 6 - SNAP
     let snap_Data1 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers")
     let snap_Data2 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers by Percentage")
+    console.log("this is snapData1:",snap_Data1)
+    console.log("this is snapData2:",snap_Data2)
 
     console.log(window)
 
@@ -505,10 +507,10 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         document.getElementById('tanf_table').innerHTML = `
             <tr class="HeadRow" style="background-color: white;">
               <th>${CountyName4}:</th>
-              <th>TANF Recipient Workers (count)</th>
-              <th>TANF Participants in Workforce Service (count)</th>
-              <th>Percent of Workers in TANF (percent)</th>
-              <th>Service participants in TANF (percent)</th>
+              <th>TANF Workers</th>
+              <th>TANF Workforce Service (WFS) Participants</th>
+              <th>TANF <br> (Workers/Employment) </th>
+              <th>TANF <br> (WFS/ WFS)</th>
             </tr>
             <tr>
               <th>${lbl}Q1</th>
@@ -804,104 +806,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "lineMarkers": false,
         "colors": false
     }, {
-        "chart": tanf_attainment_chart,
-        "bounds": ["8%", "12%", "20%", "65%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Workers receiving TANF benefits",
-        "tickFormat": ',.0f',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": tanf_data,
-        "bounds": ["30%", "12%", "20%", "65%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Recipients amongst MD Workers",
-        "tickFormat": ',.0f',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": tanf_rate_chart,
-        "bounds": ["52%", "12%", "20%", "65%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Workforce/Service in TANF (%)",
-        "tickFormat": ',.0f',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": tanf_perc_chart,
-        "bounds": ["78%", "12%", "20%", "65%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Unemployment_Rate"],
-        "ytitle": "Percent of Workers in TANF (%)",
-        "tickFormat": '.1%',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": ptanf_data,
-        "bounds": ["74%", "12%", "22%", "60%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Unemployment_Rate"],
-        "ytitle": "Recipients amongst MD Workers",
-        "tickFormat": '.1%',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": ptanf_rate_chart,
-        "bounds": ["51%", "12%", "22%", "60%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Workforce/Service in TANF (%)",
-        "tickFormat": ',.0f',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": ptanf_perc_chart,
-        "bounds": ["30%", "12%", "22%", "60%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Unemployment_Rate"],
-        "ytitle": "Percent of Workers in TANF (%)",
-        "tickFormat": '.1%',
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    }, {
-        "chart": ptanf_attainment_chart,
-        "bounds": ["7%", "12%", "22%", "60%"],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": " ",
-        "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Workers receiving TANF benefits",
-        "tickFormat": ",.0f",
-        "series": "Indicator",
-        "lineMarkers": true,
-        "colors": false
-    },{
         "chart": snap_chart,
-        "bounds": ["11%", "12%", "35%", "65%"],
+        "bounds": ["780", "50", "300", "240"],
         "categoryAxis": ["x", "Time"],
         "xtitle": "Year",
         "order": false,
@@ -913,7 +819,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": false
     }, {
         "chart": snap_chart2,
-        "bounds": ["58%", "12%", "35%", "65%"],
+        "bounds": ["150", "50", "200", "240"],
         "categoryAxis": ["x", "Time"],
         "xtitle": "Year",
         "order": false,
@@ -924,34 +830,58 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "lineMarkers": false,
         "colors": false
     }, {
-        "chart": psnap_chart,
-        "bounds": ["14%", "12%", "32%", 250],
-        "categoryAxis": ["x", "Year"],
-        "xtitle": "Year",
-        "order": false,
+        "chart": tanf_attainment_chart,
+        "bounds": [80, 30, 200, 300],
+        "categoryAxis": ["x", "Time"],
+        "xtitle": " ",
+        "order": orderedQtr,
         "measureAxis": ["y", "Amount"],
-        "ytitle": "Amount",
-        "tickFormat": ',',
+        "ytitle": "Workers receiving TANF benefits",
+        "tickFormat": ',.0f',
         "series": "Indicator",
-        "lineMarkers": false,
+        "lineMarkers": true,
         "colors": false
     }, {
-        "chart": psnap_chart2,
-        "bounds": ["62%", "12%", "32%", 300],
-        "categoryAxis": ["x", "Year"],
-        "xtitle": "Year",
-        "order": false,
+        "chart": tanf_data,
+        "bounds": [330, 30 , 300, 300],
+        "categoryAxis": ["x", "Time"],
+        "xtitle": " ",
+        "order": orderedQtr,
         "measureAxis": ["y", "Amount"],
-        "ytitle": "Percent",
-        "tickFormat": '.2%',
+        "ytitle": "Recipients amongst MD Workers",
+        "tickFormat": ',.0f',
         "series": "Indicator",
-        "lineMarkers": false,
+        "lineMarkers": true,
+        "colors": false
+    }, {
+        "chart": tanf_rate_chart,
+        "bounds": [700, 30, 300, 300],
+        "categoryAxis": ["x", "Time"],
+        "xtitle": " ",
+        "order": orderedQtr,
+        "measureAxis": ["y", "Amount"],
+        "ytitle": "Workforce/Service in TANF (%)",
+        "tickFormat": ',.0f',
+        "series": "Indicator",
+        "lineMarkers": true,
+        "colors": false
+    }, {
+        "chart": tanf_perc_chart,
+        "bounds": [1080, 30, 300, 300],
+        "categoryAxis": ["x", "Time"],
+        "xtitle": " ",
+        "order": orderedQtr,
+        "measureAxis": ["y", "Unemployment_Rate"],
+        "ytitle": "Percent of Workers in TANF (%)",
+        "tickFormat": '.1%',
+        "series": "Indicator",
+        "lineMarkers": true,
         "colors": false
     }]
     if (!emplStatusCounties.includes(CountyName)) {
         createThese.push({
             "chart": window.work_exp_pov_chart,
-            "bounds": ["11%", "12%", "80%", "60%"],
+            "bounds": [1080, 30, 300, 300],
             "categoryAxis": ["x", "Indicator_Status"],
             "xtitle": " ",
             "order": ["N/A", "No School", "Nursery", "Kindergarten", "Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7", "Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12", "GED", "Highschool", "Professional", "Some College", "Associate", "Bachlor's", "Master's", "Doctoral", "1 or More", "0-25", "26-50", "51-75", "76-100", "100-500", "501"],

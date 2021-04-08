@@ -863,7 +863,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     ]
     var createThese = [ {
         "chart": wChart,
-        "bounds": ["11%", "12%", "35%", "65%"],
+        "bounds": [130, 20 ,500, 300],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": ageGender,
@@ -888,7 +888,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": tab1chart1colors
     } , {
         "chart": avgChart,
-        "bounds": ["56%", "12%", "35%", "65%"],
+        "bounds": [780, 20 ,500, 300,],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": ageGender,
@@ -912,7 +912,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": assignColorTab1chart2
       }, {
         "chart": newHireChart,
-        "bounds": ["11%", "8%", "35%", "45%"],
+        "bounds": [130, 20 ,500, 300],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
@@ -936,7 +936,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": assignColorTab2chart1
       }, {
         "chart": jc,
-        "bounds": ["56%", "8%", "35%", "45%"],
+        "bounds": [780, 20 ,500, 300,],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
@@ -960,7 +960,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": assignColorTab2chart1
       }, {
         "chart": turnChart,
-        "bounds": ["12%", "12%", "80%", "45%"],
+        "bounds": [330, 20 ,500, 300],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
@@ -985,7 +985,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       },
       {
 	    "chart": chart8,
-	    "bounds": ["9%", "12%", "55%", "55%"],
+	    "bounds": [780, 20 ,500, 300,],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,
@@ -1013,7 +1013,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       },
       {
 	    "chart": chart61,
-	    "bounds": ["9%", "12%", "55%", "55%"],
+	    "bounds": [280, 20 ,500, 300,],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,

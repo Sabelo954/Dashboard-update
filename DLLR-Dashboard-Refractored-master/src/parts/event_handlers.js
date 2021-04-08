@@ -491,8 +491,11 @@ window.onload = function() {
             let tabInfo = lookup.filter(obj=>obj['tab'] == whichTab)[0]; 
             title.innerHTML = tabInfo['lbl']
 
+            console.log("You have clicked")
             console.log( {whichTab} )
+            console.log("getting data for:")
             console.log( {'viewing' :localStorage.getItem('viewing') } )
+            console.log("Which looks like")
             console.log( {tabInfo} )
 
             // see if the current selected dropdown year is available
