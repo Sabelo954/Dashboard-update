@@ -874,33 +874,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "lineMarkers": false,
         "colors": tab1chart1colors
     },
-    {
-        "chart": pwChart,
-        "bounds": ["13%", "12%", "35%", 250],
-        "categoryAxis": ["x", "Indicator_Value"],
-        "xtitle": " ",
-        "order": ageGender,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Number of Workers",
-        "tickFormat":',.0f',
-        "series": "Indicator_Value",
-        "lineMarkers": false,
-        "colors": tab1chart1colors
-    } , {
+       {
         "chart": avgChart,
         "bounds": [780, 20 ,500, 300,],
-        "categoryAxis": ["x", "Indicator_Value"],
-        "xtitle": " ",
-        "order": ageGender,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Average Monthly Earnings",
-        "tickFormat":',.0f',
-        "series": "Indicator_Value",
-        "lineMarkers": false,
-        "colors": assignColorTab1chart2
-      }, {
-        "chart": pavgChart,
-        "bounds": ["61%", "12%", "35%", 250],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": ageGender,
@@ -923,32 +899,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "lineMarkers": false,
         "colors": assignColorTab2chart1
       }, {
-        "chart": pnewHireChart,
-        "bounds": ["11%", "8%", "35%", 175],
-        "categoryAxis": ["x", "Indicator_Value"],
-        "xtitle": " ",
-        "order": eduGender,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "New Hires",
-        "tickFormat":',.0f',
-        "series": "Indicator_Value",
-        "lineMarkers": false,
-        "colors": assignColorTab2chart1
-      }, {
         "chart": jc,
         "bounds": [780, 20 ,500, 300,],
-        "categoryAxis": ["x", "Indicator_Value"],
-        "xtitle": " ",
-        "order": eduGender,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Job Net Change",
-        "tickFormat":',.0f',
-        "series": "Indicator_Value",
-        "lineMarkers": false,
-        "colors": assignColorTab2chart1
-      }, {
-        "chart": pjc,
-        "bounds": ["59%", "8%", "35%", 175],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
@@ -970,42 +922,16 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "series": "Indicator_Value",
         "lineMarkers": false,
         "colors": assignColorTab3chart1
-      }, {
-        "chart": pturnChart,
-        "bounds": ["12%", "12%", "75%", 175],
-        "categoryAxis": ["x", "Indicator_Value"],
-        "xtitle": " ",
-        "order": eduGender,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Turnover Rate",
-        "tickFormat":'.1%',
-        "series": "Indicator_Value",
-        "lineMarkers": false,
-        "colors": assignColorTab3chart1
-      },
+      }, 
       {
 	    "chart": chart8,
-	    "bounds": [780, 20 ,500, 300,],
+	    "bounds": [180, 20 ,500, 300,],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,
 	    "measureAxis": ["y", "Amount"],
 	    "ytitle": 'Total by Industry',
 	    "tickFormat": ',.0f',
-	    "series": "Indicator_Value",
-	    "lineMarkers": false,
-	    "colors": tab4chart1colors,
-	    "legend": true
-      },
-      {
-	    "chart": pchart8,
-	    "bounds": ["14%", "12%", "45%", 250],
-	    "categoryAxis": ["x", "Indicator_Value"],
-	    "xtitle": " ",
-	    "order": false,
-	    "measureAxis": ["y", "Amount"],
-	    "ytitle": 'Total by Industry',
-	    "tickFormat":',.1f',
 	    "series": "Indicator_Value",
 	    "lineMarkers": false,
 	    "colors": tab4chart1colors,
@@ -1013,7 +939,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       },
       {
 	    "chart": chart61,
-	    "bounds": [280, 20 ,500, 300,],
+	    "bounds": [180, 20 ,500, 300,],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,
@@ -1025,20 +951,6 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    "colors": tab5chart1colors,
 	    "legend": true
       },
-      {
-	    "chart": pchart61,
-	    "bounds": ["12%", "12%", "50%", 3000],
-	    "categoryAxis": ["x", "Indicator_Value"],
-	    "xtitle": " ",
-	    "order": false,
-	    "measureAxis": ["y", "Amount"],
-	    "ytitle": 'Separations',
-	    "tickFormat":',.0f',
-	    "series": "Indicator_Value",
-	    "lineMarkers": false,
-	    "colors": tab5chart1colors,
-	    "legend": true
-      }
     ]
     createChart(createThese) 
  

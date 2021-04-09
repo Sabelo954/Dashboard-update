@@ -601,17 +601,6 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "series": "Indicator",
         "lineMarkers": true,
     }, {
-        "chart": ppop_chart,
-        "bounds": ["14%", "12%", "32%", 300],
-        "categoryAxis": ["x", "Time"],
-        "xtitle": 'Years',
-        "order": fullYears,
-        "measureAxis": m,
-        "ytitle": "Total Population",
-        "tickFormat": ',.0f',
-        "series": "Indicator",
-        "lineMarkers": true
-    }, {
         "chart": mhhi_chart,
         "bounds": ["56%", "12%", "35%", "65%"],
         "categoryAxis": ["x", "Time"],
@@ -646,19 +635,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "lineMarkers": false,
         "colors": false
 
-    }, {
-        "chart": pempl_edu_chart,
-        "bounds": ["14%", "12%", "32%", 250],
-        "categoryAxis": ["x", "Employment_Status"],
-        "xtitle": 'Employment Status',
-        "order": orderRuleEdu,
-        "measureAxis": ["y", "Amount"],
-        "ytitle": "Totals",
-        "tickFormat": ',',
-        "series": "Indicator_Status",
-        "lineMarkers": false,
-        "colors": false
-    }, {
+    },  {
         "chart": empl_edu_gend_chart,
         "bounds": ["58%", "12%", "35%", "65%"],
         "categoryAxis": ["x", "Indicator_Status"],
@@ -707,31 +684,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "series": "Indicator_Status",
         "lineMarkers": false,
         "colors": [["White", "#99ccff", "black", .7], ["Hispanic", "#a366ff", "black", 0.7]]
-    }, {
-        "chart": pchart5,
-        "bounds": ["62%", "12%", "32%", 300],
-        "categoryAxis": ["x", "Indicator_Status"],
-        "xtitle": " ",
-        "order": ["White", "Hispanic"],
-        "measureAxis": ["y", "Unemployment_Rate"],
-        "ytitle": " ",
-        "tickFormat": '.1%',
-        "series": "Indicator_Status",
-        "lineMarkers": false,
-        "colors": [["White", "#99ccff", "black", 0.7], ["Hispanic", "#a366ff", "black", 0.7]]
-    }, {
-        "chart": pempl_race_ethn_chart,
-        "bounds": ["14%", "12%", "32%", 250],
-        "categoryAxis": ["x", "Indicator_Status"],
-        "xtitle": " ",
-        "order": ["White", "Black", "Asian", "Hispanic"],
-        "measureAxis": ["y", "Unemployment_Rate"],
-        "ytitle": " ",
-        "tickFormat": '.1%',
-        "series": "Indicator_Status",
-        "lineMarkers": false,
-        "colors": [["Black", "#ff8566", "black", 0.7], ["White", "#99ccff", "black", 0.7], ["Asian", "#4dffa6", "black", 0.7], ["Hispanic", "#a366ff", "black", 0.7]]
-    }, {
+    }, , {
         "chart": empl_vet_chart,
         "bounds": ["9%", "12%", "80%", "65%"],
         "categoryAxis": ["x", "Indicator_Status"],
@@ -881,7 +834,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
     if (!emplStatusCounties.includes(CountyName)) {
         createThese.push({
             "chart": window.work_exp_pov_chart,
-            "bounds": [1080, 30, 300, 300],
+            "bounds": ["11%", "12%", "80%", "60%"],
             "categoryAxis": ["x", "Indicator_Status"],
             "xtitle": " ",
             "order": ["N/A", "No School", "Nursery", "Kindergarten", "Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7", "Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12", "GED", "Highschool", "Professional", "Some College", "Associate", "Bachlor's", "Master's", "Doctoral", "1 or More", "0-25", "26-50", "51-75", "76-100", "100-500", "501"],
