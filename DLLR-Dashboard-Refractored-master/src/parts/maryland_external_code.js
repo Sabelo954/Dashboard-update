@@ -1,4 +1,5 @@
 import * as d3 from 'd3';
+import { text } from 'd3';
 import * as dimple from 'dimple';
 /*
  * Outline
@@ -230,7 +231,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart1 = new dimple.chart(svg1,longTermLocation);
-    chart1.setBounds(500, 40, 260, 300)
+    chart1.setBounds(500, 40, 800, 300)
     var x1 = chart1.addCategoryAxis("x", ["Time", "Location"]);
     var y1 = chart1.addMeasureAxis("y", "Amount");
     y1.tickFormat = ',.0f';
