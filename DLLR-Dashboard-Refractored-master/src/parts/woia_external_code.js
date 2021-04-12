@@ -917,7 +917,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "xtitle": " ",
         "order": eduGender,
         "measureAxis": ["y", "Amount"],
-        "ytitle": "Job Net Change",
+        "ytitle": "Turnover Rate",
         "tickFormat":'.1%',
         "series": "Indicator_Value",
         "lineMarkers": false,
