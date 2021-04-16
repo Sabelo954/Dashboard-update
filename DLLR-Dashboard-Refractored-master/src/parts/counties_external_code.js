@@ -508,9 +508,9 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
             <tr class="HeadRow" style="background-color: white;">
               <th>${CountyName4}:</th>
               <th>TANF Workers</th>
-              <th>TANF Workforce Service (WFS) Participants</th>
-              <th>TANF <br> (Workers/Employment) </th>
-              <th>TANF <br> (WFS/ WFS)</th>
+              <th>TANF Workforce Service (WFS) <br> Participants</th>
+              <th>TANF Workers/<br> Employment </th>
+              <th>TANF WFS/<br> WFS</th>
             </tr>
             <tr>
               <th>${lbl}Q1</th>
