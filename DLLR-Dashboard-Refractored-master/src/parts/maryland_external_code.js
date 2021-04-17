@@ -41,7 +41,11 @@ import * as dimple from 'dimple';
 	<tr>
 	  <th>2017</th>
 	  <td>${mAppData[2]['Amount']}</td>
-	</tr>
+  </tr>
+  <tr>
+    <th>2018</th>
+    <td>${mAppData[3]['Amount']}</td>
+  </tr>
 	`
 
     // Retrieve Elements
@@ -53,7 +57,7 @@ import * as dimple from 'dimple';
     chart15.setBounds(400, 30, 600,300)
     var mAppx = chart15.addCategoryAxis("x", "Time")
     mAppx.title = " ";
-    mAppx.addOrderRule(["FY15", "FY16"]);
+    mAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18"]);
     var mAppY = chart15.addMeasureAxis("y", "Amount");
     mAppY.title = "Totals";
     mAppY.tickFormat = ',.0f';
@@ -62,7 +66,7 @@ import * as dimple from 'dimple';
     pchart15.setBounds("11%", "21%", "80%", 250)
     var pmAppx = pchart15.addCategoryAxis("x", "Time")
     pmAppx.title = " ";
-    pmAppx.addOrderRule(["FY15", "FY16"]);
+    pmAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18"]);
     var pmAppY = pchart15.addMeasureAxis("y", "Amount");
     pmAppY.title = "Totals";
     pmAppY.tickFormat = ',.0f';
