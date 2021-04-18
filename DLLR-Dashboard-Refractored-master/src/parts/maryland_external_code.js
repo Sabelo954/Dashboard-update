@@ -22,7 +22,7 @@ import * as dimple from 'dimple';
     // 
     // Filter Data
 
-    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY15", "FY16", "FY17", "FY18"]);
+    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY15", "FY16", "FY17", "FY18", "FY19"]);
 
     // Create Table
     document.getElementById('table11').innerHTML = `
@@ -46,6 +46,10 @@ import * as dimple from 'dimple';
     <th>2018</th>
     <td>${mAppData[3]['Amount']}</td>
   </tr>
+  <tr>
+    <th>2019</th>
+    <td>${mAppData[4]['Amount']}</td>
+  </tr>
 	`
 
     // Retrieve Elements
@@ -57,7 +61,7 @@ import * as dimple from 'dimple';
     chart15.setBounds(400, 30, 600,300)
     var mAppx = chart15.addCategoryAxis("x", "Time")
     mAppx.title = " ";
-    mAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18"]);
+    mAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18", "FY19"]);
     var mAppY = chart15.addMeasureAxis("y", "Amount");
     mAppY.title = "Totals";
     mAppY.tickFormat = ',.0f';
@@ -66,7 +70,7 @@ import * as dimple from 'dimple';
     pchart15.setBounds("11%", "21%", "80%", 250)
     var pmAppx = pchart15.addCategoryAxis("x", "Time")
     pmAppx.title = " ";
-    pmAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18"]);
+    pmAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18", "FY19"]);
     var pmAppY = pchart15.addMeasureAxis("y", "Amount");
     pmAppY.title = "Totals";
     pmAppY.tickFormat = ',.0f';
