@@ -58,7 +58,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart15 = new dimple.chart(svg11,mAppData);
-    chart15.setBounds(400, 30, 600,300)
+    chart15.setBounds(350, 30, 600, 300)
     var mAppx = chart15.addCategoryAxis("x", "Time")
     mAppx.title = " ";
     mAppx.addOrderRule(["FY15", "FY16", "FY17", "FY18", "FY19"]);
@@ -125,7 +125,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.aprogChart = new dimple.chart(svg81,aprog3);
-    aprogChart.setBounds(500, 40, 260, 300)
+    aprogChart.setBounds(350, 30, 600, 300)
     var px2 = aprogChart.addCategoryAxis("x", ["Time", "Indicator Value"]);
     px2.title = "Year";
     var py2 = aprogChart.addMeasureAxis("y", "Amount");
@@ -202,14 +202,18 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.aNewChart = new dimple.chart(svg91,aNew1);
-    aNewChart.setBounds(500, 40, 260, 300)
+    aNewChart.setBounds(350, 30, 600, 300)
     var px2 = aNewChart.addCategoryAxis("x", ["Time", "Indicator_Value"]);
+    px2.title = "Year";
+    py2.tickFormat = ',.0f';
     var py2 = aNewChart.addMeasureAxis("y", "Amount");
     py2.tickFormat = ',.0f';
 
-    window.paNewChart = new dimple.chart(print91,aNew3);
-    paNewChart.setBounds(500, 40, 260, 300)
+    window.paNewChart = new dimple.chart(print91,aNew1);
+    paNewChart.setBounds(350, 30, 600, 300)
     var px2 = paNewChart.addCategoryAxis("x", ["Time", "Indicator_Value"]);
+    px2.title = "Year";
+    py2.tickFormat = ',.0f';
     var py2 = paNewChart.addMeasureAxis("y", "Amount");
     py2.tickFormat = ',.0f';
 
@@ -260,7 +264,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart1 = new dimple.chart(svg1,longTermLocation);
-    chart1.setBounds(200, 40, 800, 300)
+    chart1.setBounds(300, 40, 800, 300)
     var x1 = chart1.addCategoryAxis("x", ["Time", "Location"]);
     var y1 = chart1.addMeasureAxis("y", "Amount");
     y1.tickFormat = ',.0f';
