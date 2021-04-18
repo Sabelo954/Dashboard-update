@@ -109,10 +109,14 @@ import * as dimple from 'dimple';
 	    <td>2017</td>
 	    <td> ${aprog3[1]['Amount']}</td>
 	  </tr>
-	  <tr class="FootRow">
+	  <tr>
 	    <td>2018</td>
 	    <td> ${aprog3[2]['Amount']}</td>
-	  </tr>
+    </tr>
+    <tr class="FootRow">
+      <td>2019</td>
+      <td> ${aprog3[3]['Amount']}</td>
+    </tr>
 	</tbody>
 	`
     // Retrieve Elements
