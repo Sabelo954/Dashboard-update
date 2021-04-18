@@ -152,9 +152,11 @@ import * as dimple from 'dimple';
     // New/Active Apprentices
     // 
     // Filter Data
-    window.aNew1 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2016");
-    window.aNew2 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2017");
-    window.aNew3 = dimple.filterData(data, "Indicator", "Maryland Apprentices")
+    window.aNew1 = dimple.filterData(data, "Indicator", "Maryland Apprentices")
+    window.aNew2 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2016");
+    window.aNew3 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2017");
+    window.aNew4 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2018");
+    window.aNew5 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2019");
 
     // Create Table
     console.log(aNew1);
@@ -174,18 +176,23 @@ import * as dimple from 'dimple';
 	<tbody>
 	  <tr>
 	    <td>2016</td>
-	    <td> ${aNew1[0]['Amount']}</td>
-	    <td> ${aNew1[1]['Amount']}</td>
-	  </tr>
-	  <tr>
-	    <td>2017</td>
 	    <td> ${aNew2[0]['Amount']}</td>
 	    <td> ${aNew2[1]['Amount']}</td>
 	  </tr>
-	  <tr class="FootRow">
-	    <td>2018</td>
+	  <tr>
+	    <td>2017</td>
 	    <td> ${aNew3[0]['Amount']}</td>
 	    <td> ${aNew3[1]['Amount']}</td>
+    </tr>
+    <tr>
+    <td>2018</td>
+      <td> ${aNew4[0]['Amount']}</td>
+      <td> ${aNew4[1]['Amount']}</td>
+    </tr>  
+	  <tr class="FootRow">
+	    <td>2019</td>
+	    <td> ${aNew5[0]['Amount']}</td>
+	    <td> ${aNew5[1]['Amount']}</td>
 	  </tr>
 	</tbody>
 	`
@@ -194,7 +201,7 @@ import * as dimple from 'dimple';
     var print91 = dimple.newSvg("#Print19", 750, 400);
 
     // Configure Chart
-    window.aNewChart = new dimple.chart(svg91,aNew3);
+    window.aNewChart = new dimple.chart(svg91,aNew1);
     aNewChart.setBounds(500, 40, 260, 300)
     var px2 = aNewChart.addCategoryAxis("x", ["Time", "Indicator_Value"]);
     var py2 = aNewChart.addMeasureAxis("y", "Amount");
