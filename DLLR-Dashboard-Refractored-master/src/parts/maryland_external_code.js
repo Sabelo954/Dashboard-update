@@ -226,7 +226,7 @@ import * as dimple from 'dimple';
     // Long Term Unemployed
     // 
     // Filter Data
-    let years = dimple.filterData(data, "Time", ["2013", "2014", "2015"]);
+    let years = dimple.filterData(data, "Time", ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"]);
     window.longTermLocation = dimple.filterData(years, "Indicator", "Long Term Unemployed");
 
     // Create Table
@@ -235,13 +235,23 @@ import * as dimple from 'dimple';
 	  <th> </th>
 	  <th>2013</th>
 	  <th>2014</th>
-	  <th>2015</th>
+    <th>2015</th>
+    <th>2016</th>
+    <th>2017</th>
+    <th>2018</th>
+    <th>2019</th>
+    <th>2020</th>
 	</tr>
 	<tr class="FootRow">
 	  <th>Maryland</th>
-	  <td> ${longTermLocation[2]['Amount']}</td>
-	  <td> ${longTermLocation[1]['Amount']}</td>
-	  <td> ${longTermLocation[0]['Amount']}</td>
+    <td> ${longTermLocation[0]['Amount']}</td>
+    <td> ${longTermLocation[1]['Amount']}</td>
+    <td> ${longTermLocation[2]['Amount']}</td>
+    <td> ${longTermLocation[3]['Amount']}</td>
+    <td> ${longTermLocation[4]['Amount']}</td>
+    <td> ${longTermLocation[5]['Amount']}</td>
+    <td> ${longTermLocation[6]['Amount']}</td>
+    <td> ${longTermLocation[7]['Amount']}</td>
 	</tr>
 	`
     // Retrieve Elements
@@ -250,7 +260,7 @@ import * as dimple from 'dimple';
 
     // Configure Chart
     window.chart1 = new dimple.chart(svg1,longTermLocation);
-    chart1.setBounds(500, 40, 800, 300)
+    chart1.setBounds(200, 40, 800, 300)
     var x1 = chart1.addCategoryAxis("x", ["Time", "Location"]);
     var y1 = chart1.addMeasureAxis("y", "Amount");
     y1.tickFormat = ',.0f';
