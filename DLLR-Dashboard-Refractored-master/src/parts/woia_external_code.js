@@ -560,7 +560,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    <td>${cma(findIndustry(y11, pos))}</td> 
 	    <td>${cma(findIndustry(y12, pos))}</td> 
 	    <td>${cma(findIndustry(y13, pos))}</td> 
-	    <td>${cma(findIndustry(y14, pos))}</td>  
+        <td>${cma(findIndustry(y14, pos))}</td>  
+        <td>${cma(findIndustry(y15, pos))}</td> 
+	    <td>${cma(findIndustry(y16, pos))}</td>  
       </tr>`
     }
     //
@@ -583,7 +585,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    <td>${cma(findGender(y11, pos))}</td> 
 	    <td>${cma(findGender(y12, pos))}</td> 
 	    <td>${cma(findGender(y13, pos))}</td> 
-	    <td>${cma(findGender(y14, pos))}</td>  
+        <td>${cma(findGender(y14, pos))}</td>  
+        <td>${cma(findGender(y15, pos))}</td> 
+	    <td>${cma(findGender(y16, pos))}</td>  
 	    </tr>
   `
     }
@@ -607,7 +611,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    <td>${cma(findEdu(y11, pos))}</td> 
 	    <td>${cma(findEdu(y12, pos))}</td> 
 	    <td>${cma(findEdu(y13, pos))}</td> 
-	    <td>${cma(findEdu(y14, pos))}</td>  
+        <td>${cma(findEdu(y14, pos))}</td>  
+        <td>${cma(findEdu(y15, pos))}</td> 
+	    <td>${cma(findEdu(y16, pos))}</td> 
 	    </tr>
   `
     }
@@ -631,7 +637,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    <td>${cma(findAge(y11, pos))}</td> 
 	    <td>${cma(findAge(y12, pos))}</td> 
 	    <td>${cma(findAge(y13, pos))}</td> 
-	    <td>${cma(findAge(y14, pos))}</td>  
+        <td>${cma(findAge(y14, pos))}</td>  
+        <td>${cma(findAge(y15, pos))}</td> 
+        <td>${cma(findAge(y16, pos))}</td>        
 	    </tr>
   `
     }
@@ -654,6 +662,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2018Q4</th>
           <th class="HeadRow">2019Q1</th>
           <th class="HeadRow">2019Q2</th> 
+          <th class="HeadRow">2019Q3</th>
+          <th class="HeadRow">2019Q4</th> 
         </tr>
        </thead>
        <tbody>
@@ -697,6 +707,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2018Q4</th>
           <th class="HeadRow">2019Q1</th>
           <th class="HeadRow">2019Q2</th> 
+          <th class="HeadRow">2019Q3</th>
+          <th class="HeadRow">2019Q4</th> 
         </tr>
        </thead>
        <tbody>
@@ -719,6 +731,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2018Q4</th>
           <th class="HeadRow">2019Q1</th>
           <th class="HeadRow">2019Q2</th> 
+          <th class="HeadRow">2019Q3</th>
+          <th class="HeadRow">2019Q4</th> 
         </tr>
        </thead>
        <tbody>
@@ -744,6 +758,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           <th class="HeadRow">2018Q4</th>
           <th class="HeadRow">2019Q1</th>
           <th class="HeadRow">2019Q2</th> 
+          <th class="HeadRow">2019Q3</th>
+          <th class="HeadRow">2019Q4</th> 
         </tr>
        </thead>
        <tbody>
