@@ -1104,6 +1104,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         'pcharts': [pchart61],
         'svgName': '#Chart17',
         'data': {
+            data20q1: [isepdata2020Q1, asepdata2020Q1, gsepdata2020Q1, esepdata2020Q1],
             data19q4: [isepdata2019Q4, asepdata2019Q4, gsepdata2019Q4, esepdata2019Q4],
             data19q3: [isepdata2019Q3, asepdata2019Q3, gsepdata2019Q3, esepdata2019Q3],
             data19q2: [isepdata2019Q2, asepdata2019Q2, gsepdata2019Q2, esepdata2019Q2],
