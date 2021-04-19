@@ -45,7 +45,7 @@ export let mdApprenticeshipCompleters = `
       <table id="table11"></table>
       <div class="Footer">
         <div class="FootLeft">
-          <p>Source: United States Department of Labor (Date Last Accessed: May 01, 2020)</p>
+          <p>Source: United States Department of Labor (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
     </div>
@@ -63,7 +63,7 @@ export let mdNewApprenticeShipPrograms = `
       <div id="scrollTable">
         <div class="Footer">
           <p class="FootLeft">
-            Source: United States Department of Labor (Date Last Accessed: May 01, 2020) 
+            Source: United States Department of Labor (Date Last Accessed: April 19, 2021) 
           </p>
           <p class="FootLeft">
             Service participants means individuals who received SNAP benefits
@@ -84,7 +84,7 @@ export let mdNewAndACtivePrograms = `
       <table id="table19"></table>
       <div class="Footer">
         <div class="FootLeft">
-          <p>Source: United States Department of Labor (Date Last Accessed: May 01, 2020)</p>
+          <p>Source: United States Department of Labor (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
     </div>
@@ -101,7 +101,7 @@ export let mdLongTermUnemployment = `
       <table id="table20"></table>
       <div class="Footer">
         <div class="FootLeft">
-          <p>Source: Current Population Survey, Latest Data Available as of Summer 2019 is 2015</p>
+          <p>Source: Current Population Survey, Latest Data Available is 2020</p>
         </div>
       </div>
     </div>

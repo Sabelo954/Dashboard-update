@@ -28,7 +28,7 @@ export let wdaDropdowns = `
 let wdaFooter = `
 <div class="Footer">
   <p>"S" Represents suppressed counts that are less than 3.</p>
-  <p>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on May 01, 2020</p>
+  <p>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on April 19, 2021</p>
 </div>
 `
 
