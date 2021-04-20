@@ -58,7 +58,7 @@ table#table15 {
 }
 
 svg {
-    height: 800px;
+    height: 897px;
 }
 
 
@@ -317,10 +317,65 @@ div.tooltip {
 	float:right;
 }
 
-.Table{
-	margin:auto;
-	width:80%;
+.Table {
+    position: relative;
+    bottom: 372px;
+    margin: auto;
+    width: 80%;
 }
+
+table#snap_table {
+    position: relative;
+    top: -202px;
+}
+
+table#table155 {
+    position: relative;
+    top: -141px;
+}
+
+div#Service_Participants_SNAP_Footer {
+    position: relative;
+    top: -140px;
+}
+
+table#tanf_table {
+    position: relative;
+    top: -123px;
+}
+
+p#tanf_chart_footer {
+    position: relative;
+    top: -126px;
+}
+
+p#snap_chart_footer {
+    position: relative;
+    top: -196px;
+}
+
+
+table#table20 {
+    position: relative;
+    top: -121px;
+}
+
+div#Long_Term_Uneployment_Footer {
+    position: relative;
+    top: -117px;
+}
+
+p#NewApprenticeship_Footer {
+    position: relative;
+    top: -144px;
+    right: 21px;
+}
+
+table#table55 {
+    position: relative;
+    bottom: 153px;
+}
+
 
 
 #scrollTable{
@@ -354,51 +409,43 @@ div.tooltip {
 
 .FootLeft{
 	position: relative;
-    bottom: 308px;
 	float:left;
 }
 
 table#pop_table {
     position: relative;
-    bottom: 303px;
 }
 
 table#empl_edu_gend_table {
     position: relative;
-    bottom: 336px;
 }
 
 table#empl_vet_table {
 	position: relative;
-    bottom: 336px;
 }
+
 
 table#disabl_pov_table{
 	position: relative;
-    bottom: 300px;
 }
 
 p#empl_race_ethn_footer {
     position: relative;
-    bottom: 303px;
 }
 
 
 
 p#empl_vet_chart_footer {
 	position: relative;
-    bottom: 303px;
 }
 
 
 table#empl_race_ethn_table {
     position: relative;
-    bottom: 297px;
 }
 
 p#bottom\ part1 {
     position: relative;
-    top: -238px;
 }
 
 a {
@@ -408,6 +455,71 @@ a {
 table {
 	border-collapse: collapse;
 	width: 100%;
+}
+
+p#wda_footer {
+    position: relative;
+    bottom: 7px;
+}
+
+table#table11 {
+    position: relative;
+    bottom: 154px;
+}
+
+table#table4 {
+    position: relative;
+    top: 65px;
+}
+
+p#table4_footer {
+    position: relative;
+    top: 221px;
+}
+
+table#table5 {
+    position: relative;
+    bottom: -67px;
+}
+
+table#table19 {
+    position: relative;
+    top: -160px;
+}
+
+p#table5_footer {
+    position: relative;
+    top: 214px;
+}
+
+div#New_Active_Programs_Footer {
+    position: relative;
+    top: -153px;
+}
+
+p#Apprenticeship_Completers_Footer {
+    position: relative;
+    bottom: 151px;
+}
+
+table#table3 {
+    position: relative;
+    bottom: 87px;
+    left: -7px;
+}
+
+div#Chart6 {
+    position: relative;
+    height: 1082px;
+    left: 50px;
+    top: 72px;
+}
+
+
+div#Chart3 {
+    position: relative;
+    right: -66px;
+    top: 71px;
 }
 
 

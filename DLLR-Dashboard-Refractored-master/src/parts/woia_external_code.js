@@ -963,7 +963,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       },
       {
 	    "chart": chart61,
-	    "bounds": [180, 20 ,500, 300,],
+	    "bounds": [420, 20 ,400, 220],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,

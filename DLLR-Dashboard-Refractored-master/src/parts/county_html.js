@@ -82,13 +82,7 @@ export let counties_empl_edu_gend = `
       <table id ="empl_edu_gend_table">
       </table>
     <div class="Footer">
-<<<<<<< HEAD
       <p id ="bottom part1">Note: NIL are individuals who are not in the labor force; this includes retirees and others who are not looking for work <br> <br> Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
-=======
-      <p>Note: NIL are individuals who are not in the labor force; this includes retirees and others who are not looking for work </p>
-      <p>Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021)</p>
-      <p>"S" Represents suppressed counts that are less than 3.</p>
->>>>>>> cc41be5e8072e35137bcacecb247c5bb93fff64d
     </div>
     </div>
   </div>
@@ -107,12 +101,7 @@ export let counties_empl_race_ethn = `
       <table id="empl_race_ethn_table">
       </table>
     <div class="Footer">
-<<<<<<< HEAD
       <p id="empl_race_ethn_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021) <br> <br>"S" Represents suppressed counts that are less than 3.</p>
-=======
-      <p>Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021)</p>
-      <p>"S" Represents suppressed counts that are less than 3.</p>
->>>>>>> cc41be5e8072e35137bcacecb247c5bb93fff64d
     </div>
     </div>
   </div>
@@ -131,12 +120,7 @@ export let counties_empl_vet = `
       <table id="empl_vet_table">
       </table>
       <div class="Footer">
-<<<<<<< HEAD
         <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021)<br><br>"S" Represents suppressed counts that are less than 3.</p>
-=======
-        <p>Source: American Community Survey 5-Year Estimates (Date Last Accessed: April 19, 2021)</p>
-        <p>"S" Represents suppressed counts that are less than 3.</p>
->>>>>>> cc41be5e8072e35137bcacecb247c5bb93fff64d
       </div>
     </div>
   </div>
@@ -156,11 +140,7 @@ export let counties_disabl_pov = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-<<<<<<< HEAD
           <p id="disabl_pov_chart_footer">Source: American Community Survey <span id='acsyearagg'>1</span>-Year Estimates (Date Last Accessed: April 19, 2021)</p>
-=======
-          <p>Source: American Community Survey <span id='acsyearagg'>1</span>-Year Estimates (Date Last Accessed: April 19, 2021)</p>
->>>>>>> cc41be5e8072e35137bcacecb247c5bb93fff64d
         </div>
       </div>
     </div>
@@ -186,12 +166,7 @@ export let counties_tanf = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-<<<<<<< HEAD
           <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021)<br?<br>"S" Represents suppressed counts that are less than 3.</p>
-=======
-          <p>Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021)</p>
-          <p>"S" Represents suppressed counts that are less than 3.</p>
->>>>>>> cc41be5e8072e35137bcacecb247c5bb93fff64d
         </div>
       </div>
     </div>

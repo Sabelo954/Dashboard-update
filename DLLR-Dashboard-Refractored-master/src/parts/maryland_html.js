@@ -45,7 +45,7 @@ export let mdApprenticeshipCompleters = `
       <table id="table11"></table>
       <div class="Footer">
         <div class="FootLeft">
-          <p>Source: United States Department of Labor (Date Last Accessed: April 19, 2021)</p>
+          <p id="Apprenticeship_Completers_Footer">Source: United States Department of Labor (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
     </div>
@@ -62,10 +62,8 @@ export let mdNewApprenticeShipPrograms = `
       <table id="table55"></table>
       <div id="scrollTable">
         <div class="Footer">
-          <p class="FootLeft">
-            Source: United States Department of Labor (Date Last Accessed: April 19, 2021) 
-          </p>
-          <p class="FootLeft">
+          <p id="NewApprenticeship_Footer">
+            Source: United States Department of Labor (Date Last Accessed: April 19, 2021) <br><br>
             Service participants means individuals who received SNAP benefits
           </p>
         </div>
@@ -83,7 +81,7 @@ export let mdNewAndACtivePrograms = `
     <div class="Table">
       <table id="table19"></table>
       <div class="Footer">
-        <div class="FootLeft">
+        <div id="New_Active_Programs_Footer">
           <p>Source: United States Department of Labor (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
@@ -100,7 +98,7 @@ export let mdLongTermUnemployment = `
     <div class="Table">
       <table id="table20"></table>
       <div class="Footer">
-        <div class="FootLeft">
+        <div id="Long_Term_Uneployment_Footer">
           <p>Source: Current Population Survey, Latest Data Available is 2020</p>
         </div>
       </div>
@@ -119,10 +117,8 @@ export let mdServiceParticipantsInSnap = `
     <div class="Table">
       <table id="table155"></table>
       <div class="Footer">
-        <div class="FootLeft">
-          <p>SNAP (Supplemental Nutrition Assistance Program) is available available from January 2014 to October 2016. </p>
-        </div>
-        <div class="FootLeft">
+        <div id="Service_Participants_SNAP_Footer">
+          <p>SNAP (Supplemental Nutrition Assistance Program) is available available from January 2014 to October 2016. <br><br>
           <p>Source: Jacob France Institute, accessed 4/15/2019</p>
         </div>
       </div>

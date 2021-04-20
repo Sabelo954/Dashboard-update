@@ -27,8 +27,7 @@ export let wdaDropdowns = `
 
 let wdaFooter = `
 <div class="Footer">
-  <p>"S" Represents suppressed counts that are less than 3.</p>
-  <p>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on April 19, 2021</p>
+  <p id= "wda_footer">"S" Represents suppressed counts that are less than 3.<br><br>Data source: Longitudinal Employer-Household Dynamics (LEHD), last accessed on April 19, 2021</p>
 </div>
 `
 
@@ -80,10 +79,8 @@ export let wdaCollapse2 = `
   <div class="Table">
     <table id="table4">
     </table>
-    <div class="Footer" >
-      <p>New Hires and Job Net Change since previous quarter.</p>
-      <p">New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters. </p>
-      <p>Job Net Change: Difference between firm job gain and firm job loss.</p>
+    <div class="Footer">
+      <p id= "table4_footer">New Hires and Job Net Change since previous quarter.<br><br>New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters.<br><br>Job Net Change: Difference between firm job gain and firm job loss.</p>
     </div>
     ${wdaFooter}
   </div>
@@ -111,8 +108,7 @@ export let wdaCollapse3 = `
       <table id="table5">
       </table>
       <div class="Footer" >
-        <p>Job Turnover Rate in previous quarter.</p>
-        <p>Turnover Rate: The rate at which stable jobs begin and end. It is calculated by summing the number of stable hires in the reference quarter and stable separations in the next quarter, and dividing by the average full-quarter employment.</p>
+        <p id= "table5_footer">Job Turnover Rate in previous quarter.<br><br>Turnover Rate: The rate at which stable jobs begin and end. It is calculated by summing the number of stable hires in the reference quarter and stable separations in the next quarter, and dividing by the average full-quarter employment.</p>
       </div>
       ${wdaFooter}
     </div>
@@ -148,9 +144,7 @@ export function wdaCollapse4(CountyName) {
          <table id="table6" >
          </table>
          <div class="Footer" >
-            <p>New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters. </p>
-            <p>Job Net Change: Difference between firm job gain and firm job loss.</p>
-            <p>Turnover Rate: The rate at which stable jobs begin and end. It is calculated by summing the number of stable hires in the reference quarter and stable separations in the next quarter, and dividing by the average full-quarter employment.</p>
+            <p id= "table6_footer">New Hires: Estimated number of workers who started a new job.  More specifically, total hires that, while they worked for an employer in the specified quarter, were not employed by that employer in any of the previous four quarters.<br><br>Job Net Change: Difference between firm job gain and firm job loss.<br><br>Turnover Rate: The rate at which stable jobs begin and end. It is calculated by summing the number of stable hires in the reference quarter and stable separations in the next quarter, and dividing by the average full-quarter employment.</p>
          </div>
          ${wdaFooter}
       </div>
@@ -182,7 +176,7 @@ export let wdaCollapse5 = `
    <div class="Table">
       <table id="table15"> </table>
       <div class="Footer" >
-        <p>Estimated number of workers whose job with a given employer ended in the specified quarter.</p>
+        <pid= "table15_footer">Estimated number of workers whose job with a given employer ended in the specified quarter.</p>
       </div>
       ${wdaFooter}
    </div>
