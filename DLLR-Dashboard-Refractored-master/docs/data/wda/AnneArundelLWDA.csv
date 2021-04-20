@@ -3450,13 +3450,11 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2020Q1,1,Male,-773
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High school or equivalent, no college",0.08
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.077
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.074
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2020Q1,0,All,5873
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.077
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.077
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.085
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.097
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High school or equivalent, no college",0.083
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.085
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.099
@@ -3528,30 +3526,10 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q4,1,Male,-930
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2017Q4,1,Male,-634
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q4,1,Male,-2710
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2018Q4,1,Male,-1443
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2015Q1,0,All,4780
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2016Q1,0,All,4751
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,4960
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2018Q1,0,All,5095
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2019Q1,0,All,5324
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2015Q2,0,All,4625
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,0,All,4738
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2016Q2,0,All,4719
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,5171
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,4943
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4703
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,4907
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,4711
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2018Q3,0,All,4898
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2020Q1,2,Female,15197
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,11982
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2019Q3,0,All,5144
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2015Q4,0,All,5234
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2016Q4,0,All,5180
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2018Q4,0,All,5280
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2017Q4,0,All,5178
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender All,2019Q4,0,All,5691
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.088
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.087
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.09
@@ -3613,9 +3591,7 @@ New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2016Q4,2,
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q4,2,Female,20342
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2017Q4,2,Female,19668
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Female,21383
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2020Q2,0,All Sexes,233483
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q4,2,Female,19603
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2020Q1,0,All Sexes,253021
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2015Q1,E5,Educational attainment not available (workers aged 24 or younger),8114
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),9254
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2020Q1,2,Female,-10883
@@ -3638,47 +3614,8 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Education,2019Q3,E5,Educational
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2017Q4,E5,Educational attainment not available (workers aged 24 or younger),12505
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2019Q4,E5,Educational attainment not available (workers aged 24 or younger),13162
 New Hires,Anne Arundel WIA,Maryland New Hires by Education,2018Q4,E5,Educational attainment not available (workers aged 24 or younger),12031
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2016Q1,0,All Sexes,258920
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2018Q1,0,All Sexes,259789
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2017Q1,0,All Sexes,258503
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2015Q1,0,All Sexes,249181
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2019Q1,0,All Sexes,263568
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2017Q2,0,All Sexes,261602
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2019Q2,0,All Sexes,267067
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2015Q2,0,All Sexes,257896
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2016Q2,0,All Sexes,264931
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2018Q2,0,All Sexes,265353
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2015Q3,0,All Sexes,264422
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2019Q3,0,All Sexes,273087
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2018Q3,0,All Sexes,271183
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2016Q3,0,All Sexes,269086
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2017Q3,0,All Sexes,267545
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2015Q4,0,All Sexes,263159
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2017Q4,0,All Sexes,266841
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2016Q4,0,All Sexes,268535
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2018Q4,0,All Sexes,270680
-Workers,Anne Arundel WIA,Maryland Workers by Gender All,2019Q4,0,All Sexes,260176
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2015Q1,A00,All Ages,249181
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2016Q1,A00,All Ages,258920
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2017Q1,A00,All Ages,258503
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2020Q1,0,All,-18641
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2018Q1,A00,All Ages,259789
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2019Q1,A00,All Ages,263568
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2020Q1,A00,All Ages,253021
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2015Q2,A00,All Ages,257896
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2017Q2,A00,All Ages,261602
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2016Q2,A00,All Ages,264931
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2018Q2,A00,All Ages,265353
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2019Q2,A00,All Ages,267067
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2020Q2,A00,All Ages,233483
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2015Q3,A00,All Ages,264422
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2017Q3,A00,All Ages,267545
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2016Q3,A00,All Ages,269086
 Workers,Anne Arundel WIA,Maryland Workers by Age,2020Q2,A08,65-99,16191
 Workers,Anne Arundel WIA,Maryland Workers by Age,2020Q1,A08,65-99,17664
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2018Q3,A00,All Ages,271183
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2019Q3,A00,All Ages,273087
 Separations,Anne Arundel WIA,Maryland Separations by Age,2020Q1,A08,65-99,3651
 Separations,Anne Arundel WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2020Q1,1,Male,16502
@@ -3694,15 +3631,10 @@ New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q2,2,
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Male,20591
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Male,20392
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Male,21546
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2015Q4,A00,All Ages,263159
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Male,20012
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2016Q4,A00,All Ages,268535
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Male,11982
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q1,A08,65-99,5114
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Male,22006
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2017Q4,A00,All Ages,266841
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2018Q4,A00,All Ages,270680
-Workers,Anne Arundel WIA,Maryland Workers by Age All,2019Q4,A00,All Ages,260176
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Male,21214
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2017Q3,2,Male,20505
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
@@ -3711,7 +3643,6 @@ New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q3,2,
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q1,2,Female,588
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2015Q4,2,Male,20342
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2016Q4,2,Male,20077
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2020Q1,E0,All Education Categories,-18641
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2018Q1,2,Female,-239
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q1,2,Female,-295
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-284
@@ -3720,7 +3651,6 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2017Q1,2,Female,13
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q2,2,Female,3763
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-532
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-1098
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q3,2,Female,-10958
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2015Q4,2,Female,1888
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2016Q4,2,Female,1351
@@ -3732,26 +3662,8 @@ Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,37
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2018Q4,2,Female,186
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2018Q3,2,Female,-550
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2018Q4,2,Male,19603
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2015Q1,0,All,-771
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender,2019Q4,2,Female,-1565
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2016Q1,0,All,1297
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2017Q1,0,All,381
 New Hires,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2019Q4,2,Male,21383
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2019Q1,0,All,-379
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2015Q2,0,All,8614
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2017Q2,0,All,7882
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2016Q2,0,All,8781
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2020Q1,E0,All Education Categories,54299
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,8570
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-436
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2017Q3,0,All,-2299
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-1252
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2019Q3,0,All,-13956
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2018Q3,0,All,-1811
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2016Q4,0,All,1351
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2015Q4,0,All,1888
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2019Q4,0,All,-1565
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2018Q4,0,All,186
 Workers,Anne Arundel WIA,Maryland Workers by Age,2015Q1,A08,65-99,14107
 Workers,Anne Arundel WIA,Maryland Workers by Age,2016Q1,A08,65-99,15117
 Workers,Anne Arundel WIA,Maryland Workers by Age,2017Q1,A08,65-99,15722
@@ -3784,9 +3696,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Age,2018Q2,A08,65-99,2320
 Separations,Anne Arundel WIA,Maryland Separations by Age,2019Q2,A08,65-99,2416
 Separations,Anne Arundel WIA,Maryland Separations by Age,2015Q3,A08,65-99,1826
 Separations,Anne Arundel WIA,Maryland Separations by Age,2017Q3,A08,65-99,1984
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,7910
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2017Q4,0,All,1046
 Separations,Anne Arundel WIA,Maryland Separations by Age,2018Q3,A08,65-99,2150
 Separations,Anne Arundel WIA,Maryland Separations by Age,2015Q4,A08,65-99,2319
 Separations,Anne Arundel WIA,Maryland Separations by Age,2019Q3,A08,65-99,2982
@@ -3805,7 +3714,6 @@ New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2019Q2,1,Male,22770
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2015Q3,1,Male,21757
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2016Q3,1,Male,22410
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2017Q3,1,Male,21601
-Job Change,Anne Arundel WIA,Maryland Job Net Change by Gender All,2018Q1,0,All,122
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2016Q2,1,Male,22173
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2018Q3,1,Male,21705
 New Hires,Anne Arundel WIA,Maryland New Hires by Gender,2019Q1,1,Male,16590
@@ -3861,57 +3769,18 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2016Q4,A08,65
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2017Q4,A08,65-99,4763
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2018Q4,A08,65-99,4889
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q4,A08,65-99,5267
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2015Q1,E0,All Education Categories,-771
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2016Q1,E0,All Education Categories,1297
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2017Q1,E0,All Education Categories,381
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q1,E0,All Education Categories,122
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2019Q1,E0,All Education Categories,-379
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2015Q2,E0,All Education Categories,8614
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2016Q2,E0,All Education Categories,8781
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2017Q2,E0,All Education Categories,7882
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q2,E0,All Education Categories,7910
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,8570
 Separations,Anne Arundel WIA,Maryland Separations by Education,2020Q1,E4,Bachelor's degree or advanced degree,9361
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,-436
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2016Q3,E0,All Education Categories,-1252
 Separations,Anne Arundel WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
 Separations,Anne Arundel WIA,Maryland Separations by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),14493
 Separations,Anne Arundel WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2017Q3,E0,All Education Categories,-2299
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-1811
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2019Q3,E0,All Education Categories,-13956
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2015Q4,E0,All Education Categories,2009
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2016Q4,E0,All Education Categories,436
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,4527
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,3997
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2019Q1,A08,65-99,4475
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2017Q4,E0,All Education Categories,424
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2018Q4,E0,All Education Categories,-1245
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),-4302
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2015Q1,E0,All Education Categories,32412
-Job change,Anne Arundel WIA,Maryland Job Net Change by Education All,2019Q4,E0,All Education Categories,-4271
 Job Change,Anne Arundel WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2016Q1,E0,All Education Categories,33533
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2016Q2,E0,All Education Categories,41145
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2015Q2,E0,All Education Categories,39553
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2017Q2,E0,All Education Categories,41887
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2017Q1,E0,All Education Categories,36174
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2018Q1,E0,All Education Categories,36216
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2019Q1,E0,All Education Categories,36471
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2018Q2,E0,All Education Categories,42129
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2018Q3,E0,All Education Categories,49355
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2019Q2,E0,All Education Categories,42827
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,46821
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2016Q3,E0,All Education Categories,50181
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2019Q3,E0,All Education Categories,63005
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2016Q4,E0,All Education Categories,44140
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2017Q4,E0,All Education Categories,44139
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2018Q4,E0,All Education Categories,46205
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2019Q4,E0,All Education Categories,51421
 Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q1,E1,Less than High school,3904
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2020Q1,A00,All Ages,5873
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q1,E1,Less than High school,4138
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q1,E1,Less than High school,4578
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q1,E1,Less than High school,4610
@@ -3919,7 +3788,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q2,E1,Less th
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q1,E1,Less than High school,4776
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q2,E1,Less than High school,5359
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q2,E1,Less than High school,5061
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2017Q3,E0,All Education Categories,48746
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q2,E1,Less than High school,5391
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,5536
 Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,5121
@@ -3947,11 +3815,8 @@ Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q3,E2,"High s
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",8862
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q3,E2,"High school or equivalent, no college",11876
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q3,E2,"High school or equivalent, no college",9024
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2020Q1,A00,All Ages,54299
 Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q4,E2,"High school or equivalent, no college",8975
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q4,E2,"High school or equivalent, no college",9127
-Separations,Anne Arundel WIA,Maryland Separations by Education All,2015Q4,E0,All Education Categories,44124
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q4,E2,"High school or equivalent, no college",9123
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q4,E2,"High school or equivalent, no college",9686
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q1,E3,Some college or Associate degree,7132
@@ -3960,7 +3825,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q1,E3,Some co
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q1,E3,Some college or Associate degree,7765
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q1,E3,Some college or Associate degree,7749
 Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q2,E3,Some college or Associate degree,8485
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q1,E3,Some college or Associate degree,7881
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q2,E3,Some college or Associate degree,8771
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,9346
@@ -3972,7 +3836,6 @@ Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q3,E3,Some co
 Separations,Anne Arundel WIA,Maryland Separations by Education,2018Q3,E3,Some college or Associate degree,9315
 Separations,Anne Arundel WIA,Maryland Separations by Education,2015Q4,E3,Some college or Associate degree,9224
 Separations,Anne Arundel WIA,Maryland Separations by Education,2019Q3,E3,Some college or Associate degree,12920
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
 Separations,Anne Arundel WIA,Maryland Separations by Education,2016Q4,E3,Some college or Associate degree,9399
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q4,E3,Some college or Associate degree,9430
 Separations,Anne Arundel WIA,Maryland Separations by Education,2017Q2,E4,Bachelor's degree or advanced degree,7344
@@ -4052,114 +3915,3 @@ Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educatio
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.217,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),0.215,
 Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),0.229,
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q1,A00,All Ages,4780
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q1,A00,All Ages,4751
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2017Q1,A00,All Ages,4960
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q1,A00,All Ages,5095
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2019Q1,A00,All Ages,5324
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4719
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4625
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4738
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4943
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5171
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4943
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5171
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,4907
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4703
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,4711
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4898
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2018Q1,A00,All Ages,36216
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2016Q1,A00,All Ages,33533
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2015Q1,A00,All Ages,32412
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2017Q1,A00,All Ages,36174
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2019Q3,A00,All Ages,5144
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2019Q1,A00,All Ages,36471
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q4,A00,All Ages,5234
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q4,A00,All Ages,5180
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2016Q2,A00,All Ages,41145
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2015Q2,A00,All Ages,39553
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2017Q4,A00,All Ages,5178
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2017Q2,A00,All Ages,41887
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2018Q4,A00,All Ages,5280
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2019Q2,A00,All Ages,42827
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2019Q4,A00,All Ages,5691
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,46821
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,42129
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2016Q3,A00,All Ages,50181
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2017Q3,A00,All Ages,48746
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2018Q3,A00,All Ages,49355
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2019Q3,A00,All Ages,63005
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2015Q4,A00,All Ages,44124
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2016Q4,A00,All Ages,44140
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2017Q4,A00,All Ages,44139
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2018Q4,A00,All Ages,46205
-Separations,Anne Arundel WIA,Maryland Separations by Age All,2019Q4,A00,All Ages,51421
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.09
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.092
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.085
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2017Q2,E0,All Education Categories,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.088
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2020Q1,0,All,54299
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2020Q2,0,All,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4738
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.11
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4719
-Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4625
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2019Q3,E0,All Education Categories,0.109
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.094
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Education Categories,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.094
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2015Q4,E0,All Education Categories,0.088
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2016Q4,E0,All Education Categories,0.092
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2018Q4,E0,All Education Categories,0.09
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2017Q4,E0,All Education Categories,0.09
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2015Q1,0,All,32412
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Education All,2019Q4,E0,All Education Categories,0.121
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2016Q1,0,All,33533
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2017Q1,0,All,36174
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2018Q1,0,All,36216
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2019Q1,0,All,36471
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2015Q3,0,All,46821
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2017Q2,0,All,41887
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2015Q2,0,All,39553
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2016Q2,0,All,41145
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2018Q2,0,All,42129
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2019Q2,0,All,42827
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2016Q3,0,All,50181
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2017Q3,0,All,48746
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2019Q3,0,All,63005
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2018Q3,0,All,49355
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2017Q4,0,All,44139
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2016Q4,0,All,44140
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2018Q4,0,All,46205
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2015Q4,0,All,44124
-Separations,Anne Arundel WIA,Maryland Separations by Gender All,2019Q4,0,All,51421
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.092
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2019Q3,0,All,0.109
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2015Q4,0,All,0.088
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2016Q4,0,All,0.092
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.09
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.085
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2018Q4,0,All,0.09
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2019Q4,0,All,0.121
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.089
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.088
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.094
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.096
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.094
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2017Q4,0,All,0.09
-Turnover,Anne Arundel WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.11
