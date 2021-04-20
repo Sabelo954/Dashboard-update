@@ -54,7 +54,8 @@
 
 table#table15 {
     position: relative;
-    left: -85px;
+	left: -85px;
+	font-size: 14.5px;
 }
 
 svg {
