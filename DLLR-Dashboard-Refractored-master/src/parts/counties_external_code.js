@@ -591,7 +591,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
     let orderedQtr = ["2018Q1", "2018Q2", "2018Q3", "2018Q4"]
     var createThese = [{
         "chart": pop_chart,
-        "bounds": ["11%", "12%", "35%", "65%"],
+        "bounds": ["11%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Time"],
         "xtitle": 'Years',
         "order": fullYears,
@@ -602,7 +602,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "lineMarkers": true,
     }, {
         "chart": mhhi_chart,
-        "bounds": ["56%", "12%", "35%", "65%"],
+        "bounds": ["56%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Time"],
         "xtitle": 'Years',
         "order": fullYears,
@@ -624,7 +624,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "lineMarkers": true
     }, {
         "chart": empl_edu_chart,
-        "bounds": ["11%", "12%", "35%", "65%"],
+        "bounds": ["11%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Employment_Status"],
         "xtitle": "Employment Status",
         "order": orderRuleEdu,
@@ -637,7 +637,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
 
     },  {
         "chart": empl_edu_gend_chart,
-        "bounds": ["58%", "12%", "35%", "65%"],
+        "bounds": ["58%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Indicator_Status"],
         "xtitle": 'Gender',
         "order": orderRuleEdu,
@@ -662,7 +662,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": [["Male", "#3366ff", "black", 0.7], ["Female", "pink", "black", 0.7]]
     }, {
         "chart": empl_race_ethn_chart,
-        "bounds": ["11%", "12%", "35%", "65%"],
+        "bounds": ["11%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Indicator_Status"],
         "xtitle": " ",
         "order": ["White", "Black", "Asian", "Hispanic"],
@@ -674,7 +674,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": [["Black", "#ff8566", "black", 0.7], ["White", "#99ccff", "black", 0.7], ["Asian", "#4dffa6", "black", 0.7], ["Hispanic", "#a366ff", "black", 0.7]]
     }, {
         "chart": chart5,
-        "bounds": ["58%", "12%", "35%", "65%"],
+        "bounds": ["58%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Indicator_Status"],
         "xtitle": " ",
         "order": ["White", "Hispanic"],
@@ -686,7 +686,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": [["White", "#99ccff", "black", .7], ["Hispanic", "#a366ff", "black", 0.7]]
     }, , {
         "chart": empl_vet_chart,
-        "bounds": ["9%", "12%", "80%", "65%"],
+        "bounds": ["9%", "12%", "80%", "40%"],
         "categoryAxis": ["x", "Indicator_Status"],
         "xtitle": " ",
         "order": ["Veteran", "Non Veteran"],
@@ -698,7 +698,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": [["Veteran", "#248f24", "black", 0.7], ["Non Veteran", "#33cccc", "black", 0.7]]
     }, {
         "chart": empl_vet_print_chart,
-        "bounds": ["13%", "12%", "80%", "65%"],
+        "bounds": ["13%", "12%", "80%", "40%"],
         "categoryAxis": ["x", "Indicator_Status"],
         "xtitle": " ",
         "order": ["Veteran", "Non Veteran"],
@@ -710,7 +710,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": [["Veteran", "#248f24", "black", 0.7], ["Non Veteran", "#33cccc", "black", 0.7]]
     }, {
         "chart": emp_dis_chart,
-        "bounds": ["10%", "12%", "35%", "65%"],
+        "bounds": ["10%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Employment_Status"],
         "xtitle": "Employment Status",
         "order": false,
@@ -723,7 +723,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": false
     }, {
         "chart": emp_dis_chart_print,
-        "bounds": ["8%", "12%", "35%", "65%"],
+        "bounds": ["8%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Employment_Status"],
         "xtitle": "Employment Status",
         "order": false,
@@ -736,7 +736,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": false
     }, {
         "chart": pempl_status_chart,
-        "bounds": ["58%", "12%", "35%", "65%"],
+        "bounds": ["58%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Employment_Status"],
         "xtitle": "Employment Status",
         "order": false,
@@ -748,7 +748,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "colors": false
     }, {
         "chart": empl_status_chart,
-        "bounds": ["58%", "12%", "35%", "65%"],
+        "bounds": ["58%", "12%", "35%", "40%"],
         "categoryAxis": ["x", "Employment_Status"],
         "xtitle": "Employment Status",
         "order": false,

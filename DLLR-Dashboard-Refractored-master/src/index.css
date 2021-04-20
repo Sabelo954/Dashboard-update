@@ -58,6 +58,11 @@ table#table15 {
 	font-size: 14.5px;
 }
 
+svg {
+    height: 800px;
+}
+
+
 #span{
 	float: right
 }
@@ -252,7 +257,7 @@ div.tooltip {
 	margin:auto;
 	width:95%;
 	border-bottom-style: solid;
-	border-bottom-color: gainsboro;
+	border-bottom-color:white;
 }
 
 #Chart8{
@@ -349,7 +354,52 @@ div.tooltip {
 }
 
 .FootLeft{
+	position: relative;
+    bottom: 308px;
 	float:left;
+}
+
+table#pop_table {
+    position: relative;
+    bottom: 303px;
+}
+
+table#empl_edu_gend_table {
+    position: relative;
+    bottom: 336px;
+}
+
+table#empl_vet_table {
+	position: relative;
+    bottom: 336px;
+}
+
+table#disabl_pov_table{
+	position: relative;
+    bottom: 300px;
+}
+
+p#empl_race_ethn_footer {
+    position: relative;
+    bottom: 303px;
+}
+
+
+
+p#empl_vet_chart_footer {
+	position: relative;
+    bottom: 303px;
+}
+
+
+table#empl_race_ethn_table {
+    position: relative;
+    bottom: 297px;
+}
+
+p#bottom\ part1 {
+    position: relative;
+    top: -238px;
 }
 
 a {
