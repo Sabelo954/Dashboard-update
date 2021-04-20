@@ -537,7 +537,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         ${!iwdata2016Q4[0] ? '' : displayIndustryMetricsTable(iwdata2016Q4, hiredata2016Q4, avgdata2016Q4, netdata2016Q4, turndata2016Q4)} 
         ${!iwdata2016Q3[0] ? '' : displayIndustryMetricsTable(iwdata2016Q3, hiredata2016Q3, avgdata2016Q3, netdata2016Q3, turndata2016Q3)} 
         ${!iwdata2016Q2[0] ? '' : displayIndustryMetricsTable(iwdata2016Q2, hiredata2016Q2, avgdata2016Q2, netdata2016Q2, turndata2016Q2)}
-        ${!iwdata2016Q1[0] ? '' : displayIndustryMetricsTable(iwdata2016Q1, hiredata2016Q1, avgdata2016Q1, netdata2016Q1, turndata2016Q2)}
+        ${!iwdata2016Q1[0] ? '' : displayIndustryMetricsTable(iwdata2016Q1, hiredata2016Q1, avgdata2016Q1, netdata2016Q1, turndata2016Q1)}
       </tbody>
   `
     // Tab 5 Seperations
