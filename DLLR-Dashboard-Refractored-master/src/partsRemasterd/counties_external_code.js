@@ -1436,6 +1436,7 @@ import * as dimple from 'dimple';
     //
     // Whenever a user selects a dropdown option
     //
+
     window.chartChange = function() {
 
         let drpY = document.querySelector("#dropdownMenuY").value
@@ -1494,3 +1495,4 @@ import * as dimple from 'dimple';
 
 }
 )()
+

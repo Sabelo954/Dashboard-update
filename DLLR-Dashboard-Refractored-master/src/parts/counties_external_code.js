@@ -138,7 +138,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         ['tanf_attainment_chart', tanf_svg, tanfAttainment2018], 
         ['ptanf_attainment_chart', tanf_chart_print, tanfAttainment2018], 
         ['tanf_data', tanf_svg, tanfData2018], 
-        ['ptanf_data', tanf_chart_print, tanfData2018], 
+        ['ptanf_data', tanf_chart_print,], 
         ['tanf_rate_chart', tanf_svg, tanfRate2018], 
         ['ptanf_rate_chart', tanf_chart_print, tanfRate2018], 
         ['tanf_perc_chart', tanf_svg, tanfPerc2018], 
@@ -367,8 +367,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
           <td>${cma(findEmpEdu(ds, 1, 1))}</td>
           <td>${cma(findEmpEdu(ds, 2, 1))}</td>
           <td>${cma(findEmpEdu(ds, 3, 1))}</td>
-          ${CountyName == 'Maryland' ? '' : `<td>${cma(findGender(ds2, 0))}</td>`}
-          ${CountyName == 'Maryland' ? '' : `<td>${cma(findGender(ds2, 1))}</td>`}
+          ${CountyName == 'Maryland' ? '' : `<td>${pcnt2(findGender(ds2, 0))}</td>`}
+          ${CountyName == 'Maryland' ? '' : `<td>${pcnt2(findGender(ds2, 1))}</td>`}
         </tr>
         <tr>
           <th>Not In Labor Force (NIL)</th>
