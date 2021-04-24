@@ -542,7 +542,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
             </tr>
         `
     }
-    display_tanf_table('2018', tanfAttainment2018, tanfPerc2018, tanfRate2018, tanfData2018)
+    display_tanf_table('2019', tanfAttainment2019, tanfPerc2019, tanfRate2019, tanfData2019)
     // Tab 5 - EMPL
     if (!emplStatusCounties.includes(CountyName)) {
         var container = d3.select("#empl_status_table")
