@@ -812,9 +812,9 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": orderedQtr,
-        "measureAxis": ["y", "Amount"],
+        "measureAxis": ["y", "Unemployment_Rate"],
         "ytitle": "Workforce/Service in TANF (%)",
-        "tickFormat": ',.0f',
+        "tickFormat": '.1%',
         "series": "Indicator",
         "lineMarkers": true,
         "colors": false
