@@ -29,7 +29,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     let fullYears = ['2015', '2016', '2017', '2018', '2019','2020']
     let fullQuarters = ["2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
-    let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
+    //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
+    let eduGender = ["Less than High school", "High school or equivalent, no college", "Some college or Associate degree", 
+                    "Bachelor's degree or advanced degree", "Educational attainment not reported (workers aged 24 or younger)", "N/A", "Female", "Male"]
     //
     // Filter Data
     //
