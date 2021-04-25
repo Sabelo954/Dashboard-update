@@ -899,10 +899,27 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
 
         // Tanf
         if (lbl == 'Temporary Aid for Needy Families (TANF) Stats') {
-            display_tanf_table(drpY.replace('data', '20'), 
+            if (drpY.replace('data', '20') == "2015") {
+                display_tanf_table('2015', tanfAttainment2015, tanfPerc2015, tanfRate2015, tanfData2015)
+            }
+            if (drpY.replace('data', '20') == "2016") {
+                display_tanf_table('2016', tanfAttainment2016, tanfPerc2016, tanfRate2016, tanfData2016)
+            }
+            if (drpY.replace('data', '20') == "2017") {
+                display_tanf_table('2017', tanfAttainment2017, tanfPerc2017, tanfRate2017, tanfData2017)
+            }
+            if (drpY.replace('data', '20') == "2018") {
+                display_tanf_table('2018', tanfAttainment2018, tanfPerc2018, tanfRate2018, tanfData2018)
+            }
+            if (drpY.replace('data', '20') == "2019") {
+                display_tanf_table('2019', tanfAttainment2019, tanfPerc2019, tanfRate2019, tanfData2019)
+            }
+/*             display_tanf_table(drpY.replace('data', '20'), 
                 tab['charts'][0].data, tab['charts'][1].data, 
                 tab['charts'][2].data, tab['charts'][3].data 
             )
+            console.log("tab['charts'][0]", tab['charts'][0])
+            console.log("tab['charts'][0].data", tab['charts'][0].data) */
         }
         // EMPL
         // This has 4 charts, only show those that have valid data.
