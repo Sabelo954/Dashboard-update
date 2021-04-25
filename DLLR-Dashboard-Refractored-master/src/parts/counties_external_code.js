@@ -1,7 +1,7 @@
 import*as d3 from 'd3';
 import*as dimple from 'dimple';
 
-import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGender, findEmp, findEmpEdu, findDisEmp, createChart, findRace, findVet, createDatasetsUsingQuarters} from './event_handlers.js'
+import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find, findGender, findEmp, findEmpEdu, findDisEmp, createChart, findRace, findVet, createDatasetsUsingQuarters} from './event_handlers.js'
 
 /*
  * Outline
@@ -516,29 +516,29 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
               <th>${lbl}Q1</th>
               <td>${cma(find(tanfAttainment, 0))}</td>
               <td>${cma(find(tanfData, 0))}</td>
-              <td>${pcnt2(find(tanfPerc, 0))}</td>
-              <td>${pcnt2(find(tanfRate, 0))}</td>
+              <td>${pcnt3(find(tanfPerc, 0))}</td>
+              <td>${pcnt3(find(tanfRate, 0))}</td>
             </tr>
             <tr>
               <th>${lbl}Q2</th>
               <td>${cma(find(tanfAttainment, 1))}</td>
               <td>${cma(find(tanfData, 1))}</td>
-              <td>${pcnt2(find(tanfPerc, 1))}</td>
-              <td>${pcnt2(find(tanfRate, 1))}</td>
+              <td>${pcnt3(find(tanfPerc, 1))}</td>
+              <td>${pcnt3(find(tanfRate, 1))}</td>
             </tr>
             <tr>
               <th>${lbl}Q3</th>
               <td>${cma(find(tanfAttainment, 2))}</td>
               <td>${cma(find(tanfData, 2))}</td>
-              <td>${pcnt2(find(tanfPerc, 2))}</td>
-              <td>${pcnt2(find(tanfRate, 2))}</td>
+              <td>${pcnt3(find(tanfPerc, 2))}</td>
+              <td>${pcnt3(find(tanfRate, 2))}</td>
             </tr>
             <tr>
               <th>${lbl}Q4</th>
               <td>${cma(find(tanfAttainment, 3))}</td>
               <td>${cma(find(tanfData, 3))}</td>
-              <td>${pcnt2(find(tanfPerc, 3))}</td>
-              <td>${pcnt2(find(tanfRate, 3))}</td>
+              <td>${pcnt3(find(tanfPerc, 3))}</td>
+              <td>${pcnt3(find(tanfRate, 3))}</td>
             </tr>
         `
     }
@@ -814,7 +814,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "order": orderedQtr,
         "measureAxis": ["y", "Unemployment_Rate"],
         "ytitle": "Workforce/Service in TANF (%)",
-        "tickFormat": '.1%',
+        "tickFormat": '.2%',
         "series": "Indicator",
         "lineMarkers": true,
         "colors": false
@@ -826,7 +826,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, find, findGe
         "order": orderedQtr,
         "measureAxis": ["y", "Unemployment_Rate"],
         "ytitle": "Percent of Workers in TANF (%)",
-        "tickFormat": '.1%',
+        "tickFormat": '.2%',
         "series": "Indicator",
         "lineMarkers": true,
         "colors": false

@@ -112,6 +112,22 @@ export let pcnt2 = (d)=>{
     return d.slice(d.length - 1) != '%' ? (d3.format(".1%")(d * .01)) : (d3.format(".1%")(Number(d.slice(0, -1) * .01)))
 }
 
+export let pcnt3 = (d)=>{
+    if (d == 'N/A') {
+        return d
+    }
+    if (d == 'S') {
+        return d
+    }
+    if (d == 'TBD') {
+        return d
+    }
+    if (d == undefined | d == '--') {
+        return '--'
+    }
+    return d.slice(d.length - 1) != '%' ? (d3.format(".2%")(d * .01)) : (d3.format(".2%")(Number(d.slice(0, -1) * .01)))
+}
+
 export let findGender = (objArr,indx)=>{
     let returnThis = objArr.filter(obj=>{
         let flag = obj['Indicator_Status'] == ["Male", "Female"][indx]
