@@ -124,8 +124,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       ['pchart61', print71, zeronulls(isepdata2017Q4)], 
       ['pchart8', print6, zeronulls(iwdata2017Q4)], 
       ['chart8', svg6, zeronulls(iwdata2017Q4)], 
-      ['pturnChart', print5, zeronulls(turnOverDatg2019Q4)], 
-      ['turnChart', svg5, zeronulls(turnOverDatg2017Q4)], 
+      ['pturnChart', print5, zeronulls(turnOverData2019Q4)], 
+      ['turnChart', svg5, zeronulls(turnOverData2019Q4)], 
       ['pnewHireChart', print4, zeronulls(newHireDatc2017Q4)], 
       ['newHireChart', svg4, zeronulls(newHireDatc2017Q4)], 
       ['pjc', print4, zeronulls(jobDatc2017Q1)], 
@@ -290,8 +290,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		 <td>${pcnt(findEdu(edu, 3))}</td>
 		 <td>${pcnt(findEdu(edu, 4))}</td>
 		 <td>${pcnt(findEdu(edu, 0))}</td>
-		 <td>${pcnt(findGender(gend, 0))}</td>
 		 <td>${pcnt(findGender(gend, 1))}</td>
+		 <td>${pcnt(findGender(gend, 0))}</td>
 	  </tr>`
     }
     document.getElementById('table5').innerHTML = `
