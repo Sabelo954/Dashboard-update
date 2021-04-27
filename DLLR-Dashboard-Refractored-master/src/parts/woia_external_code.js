@@ -120,20 +120,20 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     // Configure Chart
     //
     configCharts([
-      ['chart61', svg71, zeronulls(isepdata2017Q4)], 
-      ['pchart61', print71, zeronulls(isepdata2017Q4)], 
-      ['pchart8', print6, zeronulls(iwdata2017Q4)], 
-      ['chart8', svg6, zeronulls(iwdata2017Q4)], 
+      ['chart61', svg71, zeronulls(isepdata2019Q4)], 
+      ['pchart61', print71, zeronulls(isepdata2019Q4)], 
+      ['pchart8', print6, zeronulls(iwdata2019Q4)], 
+      ['chart8', svg6, zeronulls(iwdata2019Q4)], 
       ['pturnChart', print5, zeronulls(turnOverData2019Q4)], 
       ['turnChart', svg5, zeronulls(turnOverData2019Q4)], 
-      ['pnewHireChart', print4, zeronulls(newHireDatc2017Q4)], 
-      ['newHireChart', svg4, zeronulls(newHireDatc2017Q4)], 
-      ['pjc', print4, zeronulls(jobDatc2017Q1)], 
-      ['jc', svg4, zeronulls(jobDatc2017Q1)], 
-      ['pavgChart', print3, zeronulls(averageDatg2017Q4)], 
-      ['avgChart', svg3, zeronulls(window['averageData2017Q4'])], 
-      ['pwChart', print3, zeronulls(workData2018Q1)], 
-      ['wChart', svg3, zeronulls(window['workData2018Q1'])]
+      ['pnewHireChart', print4, zeronulls(newHireDatc2019Q4)], 
+      ['newHireChart', svg4, zeronulls(newHireDatc2019Q4)], 
+      ['pjc', print4, zeronulls(jobDatc2019Q1)], 
+      ['jc', svg4, zeronulls(jobDatc2019Q1)], 
+      ['pavgChart', print3, zeronulls(averageDatg2019Q4)], 
+      ['avgChart', svg3, zeronulls(window['averageData2019Q4'])], 
+      ['pwChart', print3, zeronulls(workData2019Q4)], 
+      ['wChart', svg3, zeronulls(window['workData2019Q4'])]
       ])
 
     //
