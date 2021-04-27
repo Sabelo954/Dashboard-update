@@ -331,23 +331,45 @@ window.sepchart = ()=>toggleTab(["collapse5", "collapse5"], 5)
 //
 window.drawAll = ()=>{
     if (!wd || md) {
-        // Counties
+        // Counties and Maryland
         pop_chart.draw(0, true);
         mhhi_chart.draw(0, true);
         empl_edu_chart.draw(0, true);
         empl_edu_gend_chart.draw(0, true);
         empl_race_ethn_chart.draw(0, true);
         chart5.draw(0, true);
+
         window.empl_vet_chart.draw(0, true);
         emp_dis_chart.draw(0, true);
         empl_status_chart.draw(0, true);
-        tanf_attainment_chart.draw(0, true);
-        tanf_rate_chart.draw(0, true);
-        tanf_data.draw(0, true);
+    
         if (!emplStatusCounties.includes(CountyName)) {
             window.work_exp_pov_chart.draw(0, true)
             pwork_exp_pov_chart.draw(0, true)
         }
+
+        // add at 4/26/2021 to fix overlapping labels
+        chart15.draw(0, true);             //Apprenticeship Completers
+        wChart.draw(0, true);               //Number of Workers  
+        //pwChart.draw(0, true);              //Number of Workers
+        //pavgChart.draw(0, true);            //Average Monthly Earnings
+        avgChart.draw(0, true);             //Average Monthly Earnings
+        newHireChart.draw(0, true);         //New Hires
+        jc.draw(0, true);                   //Job Net Change
+        turnChart.draw(0, true);            //Turnover Rate
+        chart8.draw(0, true);               //Industry Metrics
+        chart61.draw(0, true);              //Separations
+        aprogChart.draw(0, true);           //New Apprentice Programs
+        aNewChart.draw(0, true);            //New/Active Apprentices
+        chart1.draw(0, true);               //long term unemployed
+        //chart18.draw(0, true);            //Service Partcipants in SNAP
+        //pchart18.draw(0, true);   
+        // end
+
+        tanf_attainment_chart.draw(0, true);
+        tanf_rate_chart.draw(0, true);
+        tanf_data.draw(0, true);
+
         snap_chart.draw(0, true);
         snap_chart2.draw(0, true);
         ppop_chart.draw(0, true);
@@ -355,7 +377,7 @@ window.drawAll = ()=>{
         pempl_edu_chart.draw(0, true);
         pempl_edu_gend_chart.draw(0, true);
         pempl_race_ethn_chart.draw(0, true);
-        pchart5.draw(0, true);
+        pchart5.draw(0, true);  
         empl_vet_print_chart.draw(0, true);
         emp_dis_chart_print.draw(0, true);
         pempl_status_chart.draw(0, true);
@@ -395,6 +417,16 @@ window.drawAll = ()=>{
         aNewChart.draw(0, true);
         chart1.draw(0, true);
         chart18.draw(0, true);
+
+        pchart18.draw(0, true);
+
+        tanf_attainment_chart.draw(0, true);
+        tanf_rate_chart.draw(0, true);
+        tanf_data.draw(0, true);
+        ptanf_attainment_chart.draw(0, true);
+        ptanf_rate_chart.draw(0, true);
+        ptanf_data.draw(0, true);
+
     }
 
 }
