@@ -418,15 +418,6 @@ window.drawAll = ()=>{
         chart1.draw(0, true);
         chart18.draw(0, true);
 
-        pchart18.draw(0, true);
-
-        tanf_attainment_chart.draw(0, true);
-        tanf_rate_chart.draw(0, true);
-        tanf_data.draw(0, true);
-        ptanf_attainment_chart.draw(0, true);
-        ptanf_rate_chart.draw(0, true);
-        ptanf_data.draw(0, true);
-
     }
 
 }
