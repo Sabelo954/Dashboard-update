@@ -349,10 +349,18 @@ window.drawAll = ()=>{
         }
 
         // add at 4/26/2021 to fix overlapping labels
-        chart15.draw(0, true);             //Apprenticeship Completers
+        snap_chart.draw(0, true);           //counties SNAP Recipient Workers
+        snap_chart2.draw(0, true);           //counties SNAP Recipient Workers
+        psnap_chart.draw(0, true);   
+        psnap_chart2.draw(0, true);
+
+        chart18.draw(0, true);               //Maryland Service Partcipants in SNAP
+        pchart18.draw(0, true);  
+
+        chart15.draw(0, true);              //Apprenticeship Completers
         wChart.draw(0, true);               //Number of Workers  
-        //pwChart.draw(0, true);              //Number of Workers
-        //pavgChart.draw(0, true);            //Average Monthly Earnings
+        //pwChart.draw(0, true);            //Number of Workers
+        //pavgChart.draw(0, true);          //Average Monthly Earnings
         avgChart.draw(0, true);             //Average Monthly Earnings
         newHireChart.draw(0, true);         //New Hires
         jc.draw(0, true);                   //Job Net Change
@@ -362,16 +370,17 @@ window.drawAll = ()=>{
         aprogChart.draw(0, true);           //New Apprentice Programs
         aNewChart.draw(0, true);            //New/Active Apprentices
         chart1.draw(0, true);               //long term unemployed
-        //chart18.draw(0, true);            //Service Partcipants in SNAP
-        //pchart18.draw(0, true);   
         // end
 
         tanf_attainment_chart.draw(0, true);
-        tanf_rate_chart.draw(0, true);
         tanf_data.draw(0, true);
+        tanf_rate_chart.draw(0, true);
+        tanf_perc_chart.draw(0, true);
 
-        snap_chart.draw(0, true);
-        snap_chart2.draw(0, true);
+        //tanf_attainment_chart.draw(0, true);
+        //tanf_rate_chart.draw(0, true);
+        //tanf_data.draw(0, true);
+
         ppop_chart.draw(0, true);
         mhhi_chart_print.draw(0, true);
         pempl_edu_chart.draw(0, true);
@@ -381,11 +390,10 @@ window.drawAll = ()=>{
         empl_vet_print_chart.draw(0, true);
         emp_dis_chart_print.draw(0, true);
         pempl_status_chart.draw(0, true);
-        ptanf_attainment_chart.draw(0, true);
-        ptanf_rate_chart.draw(0, true);
-        ptanf_data.draw(0, true);
-        psnap_chart.draw(0, true);
-        psnap_chart2.draw(0, true);
+        //ptanf_attainment_chart.draw(0, true);
+        //ptanf_rate_chart.draw(0, true);
+        //ptanf_data.draw(0, true);
+
     }
     if (wd || md) {
         // WDA
@@ -417,7 +425,6 @@ window.drawAll = ()=>{
         aNewChart.draw(0, true);
         chart1.draw(0, true);
         chart18.draw(0, true);
-
     }
 
 }
