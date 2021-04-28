@@ -784,7 +784,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     }, {
         "chart": tanf_attainment_chart,
-        "bounds": [80, 30, 200, 300],
+        "bounds": [200, 30, 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": orderedQtr,
@@ -796,7 +796,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     }, {
         "chart": tanf_data,
-        "bounds": [330, 30 , 300, 300],
+        "bounds": [800, 30 , 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": orderedQtr,
@@ -806,7 +806,10 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "series": "Indicator",
         "lineMarkers": true,
         "colors": false
-    }, {
+    },
+ 
+// Removed at 4/28/2021: removed the 3rd and 4th graphs from TANF
+/*     {
         "chart": tanf_rate_chart,
         "bounds": [700, 30, 300, 300],
         "categoryAxis": ["x", "Time"],
@@ -830,7 +833,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "series": "Indicator",
         "lineMarkers": true,
         "colors": false
-    }]
+    } */
+]
     if (!emplStatusCounties.includes(CountyName)) {
         createThese.push({
             "chart": window.work_exp_pov_chart,
