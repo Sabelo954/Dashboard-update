@@ -367,20 +367,19 @@ window.drawAll = ()=>{
         turnChart.draw(0, true);            //Turnover Rate
         chart8.draw(0, true);               //Industry Metrics
         chart61.draw(0, true);              //Separations
+
         aprogChart.draw(0, true);           //New Apprentice Programs
         aNewChart.draw(0, true);            //New/Active Apprentices
         chart1.draw(0, true);               //long term unemployed
         // end
 
+        
         tanf_attainment_chart.draw(0, true);
         tanf_data.draw(0, true);
-        tanf_rate_chart.draw(0, true);
-        tanf_perc_chart.draw(0, true);
 
         //tanf_attainment_chart.draw(0, true);
         //tanf_rate_chart.draw(0, true);
         //tanf_data.draw(0, true);
-
         ppop_chart.draw(0, true);
         mhhi_chart_print.draw(0, true);
         pempl_edu_chart.draw(0, true);
@@ -393,7 +392,6 @@ window.drawAll = ()=>{
         //ptanf_attainment_chart.draw(0, true);
         //ptanf_rate_chart.draw(0, true);
         //ptanf_data.draw(0, true);
-
     }
     if (wd || md) {
         // WDA

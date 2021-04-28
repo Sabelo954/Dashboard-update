@@ -223,8 +223,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		  <td>${cma(findEdu(newHireCount, 3))}</td>
 		  <td>${cma(findEdu(newHireCount, 4))}</td>
 		  <td>${cma(findEdu(newHireCount, 0))}</td>
-		  <td>${cma(findGender(newHireGender, 0))}</td>
 		  <td>${cma(findGender(newHireGender, 1))}</td>
+		  <td>${cma(findGender(newHireGender, 0))}</td>
 	   </tr>
 	   <tr class="FootRow">
 		  <th >Job Net Change</th>
@@ -233,8 +233,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		  <td>${cma(findEdu(jobChangeCount, 3))}</td>
 		  <td>${cma(findEdu(jobChangeCount, 4))}</td>
 		  <td>${cma(findEdu(jobChangeCount, 0))}</td>
-		  <td>${cma(findGender(jobChangeGender, 0))}</td>
 		  <td>${cma(findGender(jobChangeGender, 1))}</td>
+		  <td>${cma(findGender(jobChangeGender, 0))}</td>
 	   </tr>`
     }
 
@@ -749,7 +749,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
           ${showLbldRecordEdu('High school', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, 2)}
           ${showLbldRecordEdu('Some College', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, 3)}
           ${showLbldRecordEdu("Bachelor's or Higher", esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, 4)}
-          ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, 0)}
+          ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger)', esepdata2016Q1, esepdata2016Q2, esepdata2016Q3, esepdata2016Q4, esepdata2017Q1, esepdata2017Q2, esepdata2017Q3, esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, 0)}
        </tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Age</th> 
