@@ -223,8 +223,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		  <td>${cma(findEdu(newHireCount, 3))}</td>
 		  <td>${cma(findEdu(newHireCount, 4))}</td>
 		  <td>${cma(findEdu(newHireCount, 0))}</td>
-		  <td>${cma(findGender(newHireGender, 0))}</td>
 		  <td>${cma(findGender(newHireGender, 1))}</td>
+		  <td>${cma(findGender(newHireGender, 0))}</td>
 	   </tr>
 	   <tr class="FootRow">
 		  <th >Job Net Change</th>
@@ -233,8 +233,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		  <td>${cma(findEdu(jobChangeCount, 3))}</td>
 		  <td>${cma(findEdu(jobChangeCount, 4))}</td>
 		  <td>${cma(findEdu(jobChangeCount, 0))}</td>
-		  <td>${cma(findGender(jobChangeGender, 0))}</td>
 		  <td>${cma(findGender(jobChangeGender, 1))}</td>
+		  <td>${cma(findGender(jobChangeGender, 0))}</td>
 	   </tr>`
     }
 
