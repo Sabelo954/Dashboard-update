@@ -127,7 +127,7 @@ export function wdaCollapse4(CountyName) {
                ${CountyName == 'Maryland' ? '' : '<option>Average Monthly Earnings</option>'}
                <option>Job Net Changes</option>
                <option>New Hires</option>
-               <option>Turnover Rate</option>
+               <option>Turnover Rate(%)</option>
                <option selected="selected">Workers</option>
             </select>
          </p>

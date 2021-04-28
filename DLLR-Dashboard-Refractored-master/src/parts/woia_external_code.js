@@ -1216,7 +1216,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 		if (drpI == "Average Monthly Earnings") { tab3['charts'][0].data = tab3Avail && tab3Avail[1] ? zeronulls(tab3['data'][drpQ][1]) : [] } // Tab 3 chart 1
 		if (drpI == "Job Net Changes") {          tab3['charts'][0].data = tab3Avail && tab3Avail[2] ? zeronulls(tab3['data'][drpQ][2]) : [] } // Tab 3 chart 1
 		if (drpI == "New Hires") {                tab3['charts'][0].data = tab3Avail && tab3Avail[4] ? zeronulls(tab3['data'][drpQ][4]) : [] } // Tab 3 chart 1
-		if (drpI == "Turnover Rate") {            tab3['charts'][0].data = tab3Avail && tab3Avail[3] ? zeronulls(tab3['data'][drpQ][3]) : [] } // Tab 3 chart 1
+		if (drpI == "Turnover Rate(%)") {            tab3['charts'][0].data = tab3Avail && tab3Avail[3] ? zeronulls(tab3['data'][drpQ][3]) : [] } // Tab 3 chart 1
 		if (drpI == "Industry") {   
 		  console.log('INDUSTRY', zeronulls(tab4['data'][drpQ][0]) )              
 		  tab4['charts'][0].data = tab4Avail && tab4Avail[0] ? zeronulls(tab4['data'][drpQ][0]) : [] 
