@@ -256,7 +256,7 @@ Maryland,2016Q2,Maryland Turnover Rate by Education,E5,Educational attainment no
 Maryland,2018Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.202,
 Maryland,2017Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.206,
 Maryland,2019Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.203,
-Maryland,2020Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0,
+Maryland,2020Q2,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,TBD,
 Maryland,2019,Unemployment By Race,Hispanic,,,,4.9,0.049
 Maryland,2015Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.225,
 Maryland,2016Q3,Maryland Turnover Rate by Education,E5,Educational attainment not available (workers aged 24 or younger),,Turnover,0.217,
@@ -277,7 +277,7 @@ Maryland,2018Q2,Maryland Average Earnings by Industry,72,Accommodation and Food 
 Maryland,2015Q3,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,1848,
 Maryland,2016Q3,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,1956,
 Maryland,2017Q3,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,1974,
-Maryland,2020Q2,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,0,
+Maryland,2020Q2,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,TBD,
 Maryland,2018Q3,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,2051,
 Maryland,2019Q3,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,2126,
 Maryland,2016Q4,Maryland Average Earnings by Industry,72,Accommodation and Food Services,,Earnings,1883,
@@ -357,12 +357,12 @@ Maryland,2018Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Ser
 Maryland,2017Q3,Maryland Separations by Industry,72,Accommodation and Food Services,,Seperation,80317,
 Maryland,2017Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.156,15.6
 Maryland,2016Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.155,15.5
-Maryland,2020Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,TBD,TBD
 Maryland,2019Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.147,14.7
 Maryland,2015Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.148,14.799999999999999
 Maryland,2015Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.175,17.5
 Maryland,2019Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.146,14.6
-Maryland,2020Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,N/A,N/A
 Maryland,2018Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.149,14.899999999999999
 Maryland,2016Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.169,16.900000000000002
 Maryland,2017Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0.166,16.6
