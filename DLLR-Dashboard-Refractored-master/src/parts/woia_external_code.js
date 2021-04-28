@@ -518,7 +518,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <th>New Hires</th>
             <th>Average Monthly Earnings</th>
             <th>Job Net Change</th>
-            <th>Turnover Rate</th>
+            <th>Turnover Rate (%)</th>
          </tr>
       </thead>
       <tbody>
@@ -957,7 +957,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    "order": false,
 	    "measureAxis": ["y", "Amount"],
 	    "ytitle": 'Total by Industry',
-	    "tickFormat": ',.0f',
+	    "tickFormat": ',.1f',
 	    "series": "Indicator_Value",
 	    "lineMarkers": false,
 	    "colors": tab4chart1colors,
