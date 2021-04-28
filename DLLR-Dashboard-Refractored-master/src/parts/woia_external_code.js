@@ -1,7 +1,7 @@
 import*as d3 from 'd3';
 
 import*as dimple from 'dimple';
-import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, findAge, findGender, findEdu, pcnt, dlr, findIndustry, indsList} from './event_handlers.js'
+import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, findAge, findGender, findEdu, pcnt, pcnt2, dlr, findIndustry, indsList} from './event_handlers.js'
 
 /*
  * Outline
@@ -351,7 +351,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 0)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 0)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 0)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 0)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 0)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 1)["Indicator_Value"]}</th>
@@ -359,7 +359,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 1)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 1)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 1)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 1)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 1)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 2)["Indicator_Value"]}</th>
@@ -367,7 +367,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 2)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 2)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 2)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 2)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 2)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 3)["Indicator_Value"]}</th>
@@ -375,7 +375,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 3)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 3)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 3)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 3)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 3)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 4)["Indicator_Value"]}</th>
@@ -383,7 +383,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 4)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 4)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 4)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 4)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 4)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 5)["Indicator_Value"]}</th>
@@ -391,7 +391,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 5)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 5)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 5)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 5)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 5)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 6)["Indicator_Value"]}</th>
@@ -399,7 +399,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 6)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 6)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 6)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 6)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 6)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 7)["Indicator_Value"]}</th>
@@ -407,7 +407,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 7)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 7)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 7)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 7)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 7)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 8)["Indicator_Value"]}</th>
@@ -415,7 +415,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 8)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 8)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 8)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 8)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 8)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 9)["Indicator_Value"]}</th>
@@ -423,7 +423,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 9)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 9)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 9)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 9)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 9)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 10)["Indicator_Value"]}</th>
@@ -431,7 +431,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 10)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 10)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 10)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 10)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 10)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 11)["Indicator_Value"]}</th>
@@ -439,7 +439,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 11)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 11)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 11)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 11)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 11)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 12)["Indicator_Value"]}</th>
@@ -447,7 +447,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 12)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 12)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 12)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 12)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 12)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 13)["Indicator_Value"]}</th>
@@ -455,7 +455,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 13)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 13)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 13)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 13)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 13)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 14)["Indicator_Value"]}</th>
@@ -463,7 +463,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 14)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 14)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 14)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 14)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 14)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 15)["Indicator_Value"]}</th>
@@ -471,7 +471,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 15)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 15)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 15)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 15)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 15)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 16)["Indicator_Value"]}</th>
@@ -479,7 +479,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 16)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 16)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 16)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 16)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 16)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 17)["Indicator_Value"]}</th>
@@ -487,7 +487,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 17)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 17)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 17)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 17)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 17)['Amount'])}</td>
          </tr>
          <tr>
             <th>${filterForData(wdatax, 18)["Indicator_Value"]}</th>
@@ -495,7 +495,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 18)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 18)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 18)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 18)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 18)['Amount'])}</td>
          </tr>
          <tr class="FootRow">
             <th>${filterForData(wdatax, 19)["Indicator_Value"]}</th>
@@ -503,7 +503,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
             <td>${cma(filterForData(hiredatax, 19)['Amount'])}</td>
             <td>${dlr(!avgdatax[0] ? 0 : filterForData(avgdatax, 19)['Amount'])}</td>
             <td>${cma(filterForData(netdatax, 19)['Amount'])}</td>
-            <td>${pcnt(filterForData(turndatax, 19)['Amount'])}</td>
+            <td>${pcnt2(filterForData(turndatax, 19)['Amount'])}</td>
          </tr>
     `
     } 
