@@ -914,7 +914,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": assignColorTab1chart2
       }, {
         "chart": newHireChart,
-        "bounds": [130, 20 ,500, 300],
+        "bounds": [130, 20 ,400, 300],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
