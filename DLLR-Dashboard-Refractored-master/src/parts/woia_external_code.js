@@ -926,7 +926,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         "colors": assignColorTab2chart1
       }, {
         "chart": jc,
-        "bounds": [780, 20 ,500, 300,],
+        "bounds": [740, 20 ,400, 300,],
         "categoryAxis": ["x", "Indicator_Value"],
         "xtitle": " ",
         "order": eduGender,
