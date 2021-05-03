@@ -588,7 +588,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     // Tab - Pop & MHHI
     let m = ["y", "Amount"]
     let orderRuleEdu = ["Less than Highschool", "Highschool", "Some College", "Bachelor's or Higher"]
-    let orderedQtr = ["2018Q1", "2018Q2", "2018Q3", "2018Q4"]
+    let orderedQtr = ["2019Q1", "2019Q2", "2019Q3", "2019Q4"]
     var createThese = [{
         "chart": pop_chart,
         "bounds": ["11%", "12%", "35%", "40%"],
@@ -787,7 +787,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "bounds": [200, 30, 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
-        "order": orderedQtr,
+        "order": fullQuarters,
         "measureAxis": ["y", "Amount"],
         "ytitle": "Workers receiving TANF benefits",
         "tickFormat": ',.0f',
@@ -799,7 +799,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "bounds": [800, 30 , 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
-        "order": orderedQtr,
+        "order": fullQuarters,
         "measureAxis": ["y", "Amount"],
         "ytitle": "Recipients amongst MD Workers",
         "tickFormat": ',.0f',
