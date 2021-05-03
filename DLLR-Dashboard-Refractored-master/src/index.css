@@ -62,6 +62,13 @@ svg {
     height: 897px;
 }
 
+p#turnover_rate_note {
+    position: relative;
+    left: 978px;
+    bottom: 13604px;
+	font-weight: bold;
+}
+
 
 #span{
 	float: right
