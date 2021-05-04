@@ -951,7 +951,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       }, 
       {
 	    "chart": chart8,
-	    "bounds": [180, 20 ,500, 300,],
+	    "bounds": [180, 20 ,500, 400,],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,
@@ -965,7 +965,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
       },
       {
 	    "chart": chart61,
-	    "bounds": [400, 20 ,400, 220],
+	    "bounds": [250, 20 ,400, 220],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
 	    "order": false,

@@ -59,16 +59,26 @@ table#table15 {
 }
 
 svg {
-    height: 897px;
+    height: 926px;
 }
 
 p#turnover_rate_note {
     position: relative;
-    left: 978px;
-    bottom: 13604px;
+    left: 781px;
+    bottom: 13975px;
 	font-weight: bold;
+	font-size: 12px;
 }
 
+table#table6 {
+    position: relative;
+    bottom: -37px;
+}
+
+p#table6_footer {
+    position: relative;
+    bottom: -36px;
+}
 
 #span{
 	float: right
@@ -334,7 +344,7 @@ div.tooltip {
 
 table#snap_table {
     position: relative;
-    top: -202px;
+    top: -188px;
 }
 
 table#table155 {
@@ -381,7 +391,7 @@ p#NewApprenticeship_Footer {
 
 table#table55 {
     position: relative;
-    bottom: 153px;
+    bottom: 146px;
 }
 
 
@@ -426,6 +436,7 @@ table#pop_table {
 
 table#empl_edu_gend_table {
     position: relative;
+	bottom: -60px;
 }
 
 table#empl_vet_table {
@@ -454,6 +465,7 @@ table#empl_race_ethn_table {
 
 p#bottom\ part1 {
     position: relative;
+	bottom:-55px;
 }
 
 a {
@@ -482,7 +494,7 @@ table#table4 {
 
 p#table4_footer {
     position: relative;
-    top: 261px;
+    top: 210px;
 }
 
 table#table5 {
@@ -492,12 +504,12 @@ table#table5 {
 
 table#table19 {
     position: relative;
-    top: -160px;
+    top: -142px;
 }
 
 p#table5_footer {
     position: relative;
-    top: 240px;
+    top: 189px;
 }
 
 div#New_Active_Programs_Footer {

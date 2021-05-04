@@ -236,7 +236,7 @@ import * as dimple from 'dimple';
     // Create Table
     document.getElementById('table20').innerHTML = `
 	<tr class="HeadRow" style="background-color: white;">
-	  <th> </th>
+	  <th> Long-Term Unemployed </th>
 	  <th>2013</th>
 	  <th>2014</th>
     <th>2015</th>

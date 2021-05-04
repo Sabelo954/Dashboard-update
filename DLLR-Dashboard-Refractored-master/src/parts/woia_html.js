@@ -177,7 +177,7 @@ export let wdaCollapse5 = `
    <div class="Table">
       <table id="table15"> </table>
       <div class="Footer" >
-        <pid= "table15_footer">Estimated number of workers whose job with a given employer ended in the specified quarter.</p>
+        <p id= "table15_footer">Estimated number of workers whose job with a given employer ended in the specified quarter.</p>
       </div>
       ${wdaFooter}
    </div>
