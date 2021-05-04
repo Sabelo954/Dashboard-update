@@ -360,7 +360,7 @@ Maryland,2016Q4,Maryland Separations by Industry,72,Accommodation and Food Servi
 Maryland,2018Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,14.899999999999999
 Maryland,2017Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,15.6
 Maryland,2017Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,16.6
-Maryland,2020Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,TBD,
 Maryland,2016Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,16.900000000000002
 Maryland,2015Q3,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,17.5
 Maryland,2019Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,14.6
@@ -379,7 +379,7 @@ Maryland,2019Q4,Maryland Turnover Rate by Industry,72,Accommodation and Food Ser
 Maryland,2017Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,15.6
 Maryland,2019Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,14.7
 Maryland,2018Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,14.399999999999999
-Maryland,2020Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,TBD
 Maryland,2015Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,14.799999999999999
 Maryland,2016Q2,Maryland Turnover Rate by Industry,72,Accommodation and Food Services,,Turnover Rate,15.5
 Maryland,2016Q1,Maryland Workers by Industry,72,Accommodation and Food Services,,Workers,213830,
@@ -504,12 +504,12 @@ Maryland,2017Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Ass
 Maryland,2018Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.6
 Maryland,2016Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,8.5
 Maryland,2017Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.6
-Maryland,2020Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,TBD
 Maryland,2015Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.7
 Maryland,2019Q1,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.6
 Maryland,2018Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.8
 Maryland,2019Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.9
-Maryland,2020Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,TBD
 Maryland,2015Q3,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.3999999999999995
 Maryland,2017Q3,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.5
 Maryland,2016Q3,Maryland Turnover Rate by Industry,62,Health Care and Social Assistance,,Turnover Rate,7.3999999999999995
@@ -623,7 +623,7 @@ Maryland,2017Q1,Maryland Turnover Rate by Industry,56,Administrative and Support
 Maryland,2018Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.4
 Maryland,2016Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.8
 Maryland,2015Q4,Maryland Separations by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Seperation,61243,
-Maryland,2020Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,TBD,
 Maryland,2019Q1,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.700000000000001
 Maryland,2015Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.5
 Maryland,2016Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.8
@@ -631,7 +631,7 @@ Maryland,2017Q2,Maryland Turnover Rate by Industry,56,Administrative and Support
 Maryland,2018Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,14.099999999999998
 Maryland,2019Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,13.700000000000001
 Maryland,2016Q4,Maryland Separations by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Seperation,60781,
-Maryland,2020Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,TBD,
 Maryland,2015Q3,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,16.900000000000002
 Maryland,2016Q3,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,16
 Maryland,2017Q3,Maryland Turnover Rate by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Turnover Rate,16.1
@@ -756,13 +756,13 @@ Maryland,2019Q3,Maryland Separations by Industry,11,"Agriculture, Forestry, Fish
 Maryland,2018Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,7.5
 Maryland,2018Q3,Maryland Separations by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Seperation,1326,
 Maryland,2017Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,6.9
-Maryland,2020Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,TBD,
 Maryland,2019Q1,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,7.3999999999999995
 Maryland,2016Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,10.299999999999999
 Maryland,2015Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,9.9
 Maryland,2018Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,10.2
 Maryland,2017Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,10.299999999999999
-Maryland,2020Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,TBD,
 Maryland,2019Q2,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,11.600000000000001
 Maryland,2017Q3,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,15.8
 Maryland,2015Q3,Maryland Turnover Rate by Industry,11,"Agriculture, Forestry, Fishing and Hunting",,Turnover Rate,20.4
@@ -889,10 +889,10 @@ Maryland,2017Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and 
 Maryland,2018Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,11.600000000000001
 Maryland,2015Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,12.2
 Maryland,2019Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,12.7
-Maryland,2020Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,TBD,
 Maryland,2016Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,12.3
 Maryland,2017Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,14.000000000000002
-Maryland,2020Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,TBD,
 Maryland,2018Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,13.200000000000001
 Maryland,2019Q2,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,13.700000000000001
 Maryland,2015Q1,Maryland Turnover Rate by Industry,71,"Arts, Entertainment, and Recreation",,Turnover Rate,11.799999999999999
@@ -1020,14 +1020,14 @@ Maryland,2016Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rat
 Maryland,2018Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.200000000000001
 Maryland,2017Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.4
 Maryland,2019Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,7.8
-Maryland,2020Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD,
 Maryland,2017Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.7
 Maryland,2016Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,9.1
 Maryland,2015Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.799999999999999
 Maryland,2015Q4,Maryland Separations by Industry,23,Construction,,Seperation,30326,
 Maryland,2018Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.5
 Maryland,2019Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,8.3
-Maryland,2020Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,TBD,
 Maryland,2015Q3,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,11.4
 Maryland,2016Q3,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,10.6
 Maryland,2017Q3,Maryland Turnover Rate by Industry,23,Construction,,Turnover Rate,10.7
@@ -1152,7 +1152,7 @@ Maryland,2017Q3,Maryland Separations by Industry,61,Educational Services,,Sepera
 Maryland,2019Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,7.199999999999999
 Maryland,2018Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,7.000000000000001
 Maryland,2019Q3,Maryland Separations by Industry,61,Educational Services,,Seperation,43403,
-Maryland,2020Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,4.7
 Maryland,2016Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,5
 Maryland,2015Q4,Maryland Separations by Industry,61,Educational Services,,Seperation,20978,
@@ -1160,7 +1160,7 @@ Maryland,2017Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turn
 Maryland,2018Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,4.7
 Maryland,2016Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,3.6999999999999997
 Maryland,2019Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,6.9
-Maryland,2020Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,TBD,
 Maryland,2015Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,3.6999999999999997
 Maryland,2017Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,3.5000000000000004
 Maryland,2018Q3,Maryland Turnover Rate by Industry,61,Educational Services,,Turnover Rate,3.6999999999999997
@@ -1292,14 +1292,14 @@ Maryland,2018Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Tur
 Maryland,2019Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.800000000000001
 Maryland,2015Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,6.4
 Maryland,2016Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,6.3
-Maryland,2020Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD,
 Maryland,2017Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.7
 Maryland,2018Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.800000000000001
 Maryland,2019Q3,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,6
 Maryland,2015Q4,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,6.3
 Maryland,2017Q4,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.7
 Maryland,2016Q4,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,6.4
-Maryland,2020Q1,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,TBD,
 Maryland,2019Q4,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.800000000000001
 Maryland,2018Q4,Maryland Turnover Rate by Industry,52,Finance and Insurance,,Turnover Rate,5.4
 Maryland,2015Q1,Maryland Workers by Industry,52,Finance and Insurance,,Workers,93925,
@@ -1414,11 +1414,11 @@ Maryland,2019Q4,Maryland Separations by Industry,51,Information,,Seperation,4440
 Maryland,2018Q4,Maryland Separations by Industry,51,Information,,Seperation,4541,
 Maryland,2015Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,9.4
 Maryland,2016Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,6.6000000000000005
-Maryland,2020Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,TBD,
 Maryland,2017Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,6.7
 Maryland,2018Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,6.1
 Maryland,2019Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,7.1
-Maryland,2020Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,6.800000000000001
 Maryland,2015Q3,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,7.000000000000001
 Maryland,2017Q3,Maryland Turnover Rate by Industry,51,Information,,Turnover Rate,6.800000000000001
@@ -1547,13 +1547,13 @@ Maryland,2018Q4,Maryland Separations by Industry,55,Management of Companies and 
 Maryland,2015Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.3
 Maryland,2017Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.2
 Maryland,2016Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.6000000000000005
-Maryland,2020Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,TBD,
 Maryland,2018Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.4
 Maryland,2015Q3,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.800000000000001
 Maryland,2016Q3,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.7
 Maryland,2018Q3,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.9
 Maryland,2015Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,5.800000000000001
-Maryland,2020Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,TBD,
 Maryland,2017Q3,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.7
 Maryland,2019Q1,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.3
 Maryland,2016Q2,Maryland Turnover Rate by Industry,55,Management of Companies and Enterprises,,Turnover Rate,6.800000000000001
@@ -1681,9 +1681,9 @@ Maryland,2016Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover
 Maryland,2019Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.5
 Maryland,2018Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.5
 Maryland,2017Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.2
-Maryland,2020Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.2
-Maryland,2020Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,TBD,
 Maryland,2017Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.3
 Maryland,2016Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,5.3
 Maryland,2019Q2,Maryland Turnover Rate by Industry,31-33,Manufacturing,,Turnover Rate,6
@@ -1813,13 +1813,13 @@ Maryland,2017Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oi
 Maryland,2018Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,5.8999999999999995
 Maryland,2019Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,5.1
 Maryland,2016Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,7.000000000000001
-Maryland,2020Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,7.3999999999999995
 Maryland,2016Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,6.6000000000000005
 Maryland,2018Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,8.3
 Maryland,2017Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,5.2
 Maryland,2019Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,4.8
-Maryland,2020Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,TBD,
 Maryland,2015Q3,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,8.799999999999999
 Maryland,2016Q3,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,8.200000000000001
 Maryland,2017Q3,Maryland Turnover Rate by Industry,21,"Mining, Quarrying, and Oil and Gas Extraction",,Turnover Rate,7.3
@@ -1945,14 +1945,14 @@ Maryland,2015Q1,Maryland Turnover Rate by Industry,81,Other Services (except Pub
 Maryland,2017Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,9.6
 Maryland,2018Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,9.6
 Maryland,2019Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.9
-Maryland,2020Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.7
 Maryland,2016Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,9.1
 Maryland,2017Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.7
 Maryland,2018Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.7
 Maryland,2019Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.4
 Maryland,2015Q3,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,9.3
-Maryland,2020Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,TBD,
 Maryland,2016Q3,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,10.5
 Maryland,2017Q3,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.7
 Maryland,2018Q3,Maryland Turnover Rate by Industry,81,Other Services (except Public Administration),,Turnover Rate,8.6
@@ -2076,11 +2076,11 @@ Maryland,2015Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific,
 Maryland,2016Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,8
 Maryland,2017Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.5
 Maryland,2018Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.7
-Maryland,2020Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,TBD,
 Maryland,2019Q1,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,8.1
 Maryland,2015Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.7
 Maryland,2016Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.5
-Maryland,2020Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,TBD,
 Maryland,2018Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.6
 Maryland,2017Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.6
 Maryland,2019Q2,Maryland Turnover Rate by Industry,54,"Professional, Scientific, and Technical Services",,Turnover Rate,7.9
@@ -2209,13 +2209,13 @@ Maryland,2015Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Tur
 Maryland,2016Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.5000000000000004
 Maryland,2018Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.5000000000000004
 Maryland,2019Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.8
-Maryland,2020Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,TBD,
 Maryland,2016Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.5999999999999996
 Maryland,2015Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.5999999999999996
 Maryland,2017Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,3.8
 Maryland,2019Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,4
 Maryland,2018Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,4.1000000000000005
-Maryland,2020Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,TBD,
 Maryland,2017Q3,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,4.6
 Maryland,2016Q3,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,4.2
 Maryland,2015Q3,Maryland Turnover Rate by Industry,92,Public Administration,,Turnover Rate,4
@@ -2333,7 +2333,7 @@ Maryland,2017Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and
 Maryland,2018Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,8.1
 Maryland,2016Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.8
 Maryland,2019Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.6
-Maryland,2020Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,TBD,
 Maryland,2015Q3,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,9.2
 Maryland,2016Q3,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,9
 Maryland,2017Q3,Maryland Separations by Industry,53,Real Estate and Rental and Leasing,,Seperation,8430,
@@ -2350,7 +2350,7 @@ Maryland,2015Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and
 Maryland,2016Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.7
 Maryland,2019Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.9
 Maryland,2017Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.8
-Maryland,2020Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,TBD,
 Maryland,2018Q3,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,9
 Maryland,2019Q3,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,9.4
 Maryland,2015Q4,Maryland Turnover Rate by Industry,53,Real Estate and Rental and Leasing,,Turnover Rate,7.5
@@ -2458,13 +2458,13 @@ Maryland,2016Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover 
 Maryland,2017Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,11.700000000000001
 Maryland,2019Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,11.600000000000001
 Maryland,2015Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,10.100000000000001
-Maryland,2020Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,TBD,
 Maryland,2018Q1,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,11.600000000000001
 Maryland,2017Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,10.100000000000001
 Maryland,2016Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,10.299999999999999
 Maryland,2018Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,10.299999999999999
 Maryland,2017Q2,Maryland New Hires by Industry,44-45,Retail Trade,,New Hires,52155,
-Maryland,2020Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,TBD,
 Maryland,2019Q2,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,10
 Maryland,2016Q3,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,11.200000000000001
 Maryland,2015Q3,Maryland Turnover Rate by Industry,44-45,Retail Trade,,Turnover Rate,11.5
@@ -2598,7 +2598,7 @@ Maryland,2018Q3,Maryland Separations by Industry,48-49,Transportation and Wareho
 Maryland,2015Q4,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,20125,
 Maryland,2019Q1,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,11.3
 Maryland,2016Q4,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,21842,
-Maryland,2020Q1,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,TBD,
 Maryland,2018Q4,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,26829,
 Maryland,2017Q4,Maryland Separations by Industry,48-49,Transportation and Warehousing,,Seperation,23006,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,7.000000000000001
@@ -2624,7 +2624,7 @@ Maryland,2016Q2,Maryland Workers by Industry,48-49,Transportation and Warehousin
 Maryland,2018Q2,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,91517,
 Maryland,2017Q2,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,85966,
 Maryland,2019Q2,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,93606,
-Maryland,2020Q2,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,48-49,Transportation and Warehousing,,Turnover Rate,TBD,
 Maryland,2020Q2,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,103946,
 Maryland,2015Q3,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,84242,
 Maryland,2017Q3,Maryland Workers by Industry,48-49,Transportation and Warehousing,,Workers,87230,
@@ -2731,13 +2731,13 @@ Maryland,2018Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3
 Maryland,2016Q3,Maryland Separations by Industry,22,Utilities,,Seperation,657,
 Maryland,2019Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,2.9000000000000004
 Maryland,2015Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3
-Maryland,2020Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,TBD,
 Maryland,2017Q4,Maryland Separations by Industry,22,Utilities,,Seperation,360,
 Maryland,2016Q4,Maryland Separations by Industry,22,Utilities,,Seperation,321,
 Maryland,2016Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3
 Maryland,2018Q4,Maryland Separations by Industry,22,Utilities,,Seperation,328,
 Maryland,2017Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3.4000000000000004
-Maryland,2020Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,TBD,
 Maryland,2018Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3.4000000000000004
 Maryland,2019Q2,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,3.3000000000000003
 Maryland,2016Q3,Maryland Turnover Rate by Industry,22,Utilities,,Turnover Rate,2.9000000000000004
@@ -2859,14 +2859,14 @@ Maryland,2018Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover 
 Maryland,2015Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.4
 Maryland,2016Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,7.000000000000001
 Maryland,2019Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.6000000000000005
-Maryland,2020Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,0
+Maryland,2020Q1,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,TBD,
 Maryland,2015Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.7
 Maryland,2016Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.9
 Maryland,2017Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.7
 Maryland,2018Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.5
 Maryland,2019Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,6.6000000000000005
 Maryland,2015Q3,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,7.3999999999999995
-Maryland,2020Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,0
+Maryland,2020Q2,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,TBD,
 Maryland,2018Q3,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,7.199999999999999
 Maryland,2016Q3,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,7.6
 Maryland,2017Q3,Maryland Turnover Rate by Industry,42,Wholesale Trade,,Turnover Rate,7.3999999999999995
@@ -3853,35 +3853,23 @@ Maryland,2017Q1,Maryland Job Net Change by Education,E5,Educational attainment n
 Maryland,2015Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.085,
 Maryland,2016Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.087,
 Maryland,2017Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.085,
-Maryland,2018Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9374,
 Maryland,2018Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.083,
 Maryland,2019Q4,Maryland Turnover Rate by Gender,2,Female,,Turnover,0.122,
-Maryland,2019Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9407,
-Maryland,2015Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,7078,
 Maryland,2016Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,10057,
 Maryland,2015Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,60137,
-Maryland,2020Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-32458,
 Maryland,2016Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,60945,
-Maryland,2018Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,61391,
 Maryland,2017Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,63273,
-Maryland,2019Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,62041,
 Maryland,2017Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9977,
 Maryland,2020Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,TBD,
 Maryland,2015Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-10658,
 Maryland,2018Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,10160,
 Maryland,2018Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-22628,
 Maryland,2017Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-23910,
-Maryland,2016Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-16537,
 Maryland,2019Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,6450,
-Maryland,2019Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-22831,
-Maryland,2015Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,11351,
 Maryland,2020Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-32458,
-Maryland,2016Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9916,
 Maryland,2015Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,7078,
-Maryland,2016Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,10057,
 Maryland,2019Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9407,
 Maryland,2018Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9374,
-Maryland,2017Q1,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,10167,
 Maryland,2015Q1,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,72175,
 Maryland,2016Q1,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,76715,
 Maryland,2017Q1,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,80883,
@@ -3896,27 +3884,18 @@ Maryland,2019Q2,Maryland New Hires by Education,E5,Educational attainment not av
 Maryland,2020Q2,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,76136,
 Maryland,2016Q3,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,138854,
 Maryland,2015Q3,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,135489,
-Maryland,2015Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,60137,
-Maryland,2016Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,60945,
 Maryland,2018Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,61391,
 Maryland,2017Q3,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,128724,
-Maryland,2017Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,63273,
 Maryland,2019Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,62041,
 Maryland,2020Q2,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,TBD,
-Maryland,2015Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-10658,
-Maryland,2017Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-23910,
 Maryland,2016Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-16537,
-Maryland,2018Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-22628,
 Maryland,2019Q3,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,-22831,
 Maryland,2018Q3,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,128829,
 Maryland,2019Q3,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,133368,
 Maryland,2015Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,11351,
 Maryland,2016Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9916,
-Maryland,2017Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,9977,
 Maryland,2015Q4,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,110578,
-Maryland,2018Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,10160,
 Maryland,2016Q4,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,106912,
-Maryland,2019Q4,Maryland Job Net Change by Education,E5,Educational attainment not available (workers aged 24 or younger),,Job Change,6450,
 Maryland,2017Q4,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,104092,
 Maryland,2018Q4,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,102851,
 Maryland,2019Q4,Maryland New Hires by Education,E5,Educational attainment not available (workers aged 24 or younger),,New Hires,106990,
