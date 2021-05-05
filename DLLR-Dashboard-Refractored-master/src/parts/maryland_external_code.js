@@ -271,6 +271,7 @@ import * as dimple from 'dimple';
     y1.title = "Totals";
     x1.title = " ";
 
+    console.log( { chart1, longTermLocation } )
     window.pchart1 = new dimple.chart(print1,longTermLocation);
     pchart1.setBounds("9%", "12%", "85%", 300)
     var px1 = pchart1.addCategoryAxis("x", ["Time", "Location"]);

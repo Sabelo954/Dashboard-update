@@ -66,6 +66,14 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     let quartersByYear = fullYears.map( year => [year] )
     createDatasets(tanfAttainment, 'tanfAttainment', quartersByYear)
     createDatasets(tanfData, 'tanfData', quartersByYear)
+    console.log('TANF WORKERS !', {tanfAttainment} ) 
+    console.log('TANF RECIPIENTS', {tanfData, data} ) 
+    console.log( window.tanfData2019 ) 
+    if ( window.tanfData2019.length === 0 ){
+         console.log('2019Q1 has no data!!!!', 'window.tanfData2018', window.tanfData2018)
+         window.tanfData2019 =  window.tanfData2018
+    }
+
     createDatasets(tanfRate, 'tanfRate', quartersByYear)
     createDatasets(tanfPerc, 'tanfPerc', quartersByYear)
 
@@ -83,13 +91,12 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     // Tab 6 - SNAP
     let snap_Data1 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers")
     let snap_Data2 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers by Percentage")
-    console.log("this is snapData1:",snap_Data1)
-    console.log("this is snapData2:",snap_Data2)
-
-    console.log(window)
+    // console.log("this is snapData1:",snap_Data1)
+    // console.log("this is snapData2:",snap_Data2)
 
     //
     // Create SVGz
+    // // Creates a dimple SVG and assigns it to a variable by the name of the first element in the array
     //
 	configSvgz([ 
 		['pop_svg', "#pop_chart", "100%", 400],
@@ -112,6 +119,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     ] ) 
     //
     // Configure Chart
+    // // Creates a dimple chart and assigns it to a variable by the name of the first element in the array
     //
     configCharts(
       [
@@ -148,7 +156,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         ['emp_dis_chart_print', disabl_pov_chart_print, disAttainment2019], 
         ['emp_dis_chart', disabl_pov_svg, disAttainment2019], 
       ])
-
+    console.log('tanf_data', {tanf_svg, tanfData2019}, ['tanf_svg', "#tanf_chart", "100%", 400])
 
     //
     // Event Handler
@@ -561,7 +569,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         ).enter().append('td').text(d=>d.value)
     }
     // Tab 5 - SNAP
-    console.log(snap_Data1)
+    console.log({snap_Data1})
     document.getElementById("snap_table").innerHTML = `
         <tr class="HeadRow">
           <th>SNAP Recipient Workers</th> <th></th>
@@ -835,6 +843,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     } */
 ]
+
     if (!emplStatusCounties.includes(CountyName)) {
         createThese.push({
             "chart": window.work_exp_pov_chart,
@@ -864,8 +873,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
             "colors": false,
             "legend": ["16%", "90%", "50%", "70%", "right"]
         })
-    }
-    createChart(createThese)    
+    } 
+    createChart(createThese)     
 
     //
     // Whenever a user selects a dropdown option

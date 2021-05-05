@@ -15,11 +15,14 @@ import * as d3 from 'd3';
 import * as dimple from 'dimple';
 
 
+// Creates a dimple chart and assigns it to a variable by the name of the first element in the array
 export let configCharts = (objArr) => {
     objArr.map( obj => { 
+        // console.log('Creating Chart',{objArr})
         window[`${obj[0]}`] = new dimple.chart(obj[1],obj[2]) 
     } )
 }
+// Creates a dimple SVG and assigns it to a variable by the name of the first element in the array
 export let configSvgz = (objArr) => {
     objArr.map( obj => { 
         window[`${obj[0]}`] = dimple.newSvg(obj[1],obj[2],obj[3]) 
@@ -38,9 +41,10 @@ export let createDatasets = (data, dsPrefix, filters) => {
     } )
 }
 
+// Takes all the charts made in 'configChart'
 // https://github.com/PMSI-AlignAlytics/dimple/issues/265
 export let createChart = (objarr)=>{
-    objarr.map(obj=>{
+    objarr.map(obj=>{ 
         // Configure Chart
         let chart = obj.chart
         chart.setBounds(...obj.bounds)
@@ -75,8 +79,8 @@ export let createChart = (objarr)=>{
             } else if (obj.colors) {
                 chart.assignColor(...obj.colors)
             }
-        }
-        chart.draw()
+        } 
+        chart.draw() 
     }
     )
 }
@@ -354,28 +358,38 @@ window.drawAll = ()=>{
         psnap_chart.draw(0, true);   
         psnap_chart2.draw(0, true);
 
-        chart18.draw(0, true);               //Maryland Service Partcipants in SNAP
-        pchart18.draw(0, true);  
+        if (md) {
+          chart18.draw(0, true);               //Maryland Service Partcipants in SNAP
+          pchart18.draw(0, true);  
 
-        chart15.draw(0, true);              //Apprenticeship Completers
-        wChart.draw(0, true);               //Number of Workers  
-        //pwChart.draw(0, true);            //Number of Workers
-        //pavgChart.draw(0, true);          //Average Monthly Earnings
-        avgChart.draw(0, true);             //Average Monthly Earnings
-        newHireChart.draw(0, true);         //New Hires
-        jc.draw(0, true);                   //Job Net Change
-        turnChart.draw(0, true);            //Turnover Rate
-        chart8.draw(0, true);               //Industry Metrics
-        chart61.draw(0, true);              //Separations
+          chart15.draw(0, true);              //Apprenticeship Completers
+          wChart.draw(0, true);               //Number of Workers  
+          avgChart.draw(0, true);             //Average Monthly Earnings
+          newHireChart.draw(0, true);         //New Hires
+          jc.draw(0, true);                   //Job Net Change
+          turnChart.draw(0, true);            //Turnover Rate
 
-        aprogChart.draw(0, true);           //New Apprentice Programs
-        aNewChart.draw(0, true);            //New/Active Apprentices
-        chart1.draw(0, true);               //long term unemployed
+          //pwChart.draw(0, true);            //Number of Workers
+          //pavgChart.draw(0, true);          //Average Monthly Earnings
+
+          chart8.draw(0, true);               //Industry Metrics
+          chart61.draw(0, true);              //Separations
+          aprogChart.draw(0, true);           //New Apprentice Programs
+          aNewChart.draw(0, true);            //New/Active Apprentices
+          console.log('here!', {chart1})
+          chart1.draw(0, true);               //long term unemployed
+          console.log('her3e!')
+        }
+
         // end
+
+        console.log('herettttt!')
 
         
         tanf_attainment_chart.draw(0, true);
+        console.log('herettt!')
         tanf_data.draw(0, true);
+        console.log('hertte!')
 
         //tanf_attainment_chart.draw(0, true);
         //tanf_rate_chart.draw(0, true);
@@ -535,12 +549,9 @@ window.onload = function() {
             let tabInfo = lookup.filter(obj=>obj['tab'] == whichTab)[0]; 
             title.innerHTML = tabInfo['lbl']
 
-            console.log("You have clicked")
-            console.log( {whichTab} )
-            console.log("getting data for:")
-            console.log( {'viewing' :localStorage.getItem('viewing') } )
-            console.log("Which looks like")
-            console.log( {tabInfo} )
+            console.log("You have clicked",  {whichTab} )
+            console.log("getting data for:", {'viewing' :localStorage.getItem('viewing') } )
+            console.log("Which looks like",  {tabInfo} )
 
             // see if the current selected dropdown year is available
             let currentYearSelectionAvailable = false
@@ -591,11 +602,13 @@ window.onload = function() {
             conditionalDisplay("dropdownMenu", tabInfo, 'dm')
             conditionalDisplay("dropdownMenuY", tabInfo, 'dmy')
             conditionalDisplay("dropdownMenuQ", tabInfo, 'dmq')
- 
+
             hideall(collapsables)
             showall([whichTab])
             hideall(prints);
+            console.log('PROBLEM BEIGNS')
             drawAll();
+            console.log('HEYYYYY')
 
             if (tabInfo['dmy']) {
                 // Counties
@@ -604,6 +617,7 @@ window.onload = function() {
             if (tabInfo['dmq']) { 
                 wdaChartChange()
             }
+
         } )
         el.removeAttribute("disabled");
     }

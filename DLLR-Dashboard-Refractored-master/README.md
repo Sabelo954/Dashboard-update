@@ -1,3 +1,6 @@
+After you run 'NPM install', take the 'dimple.latest file you see here in the main directory and drop it into the 'node_modules/dimple/dist' directory.
+The dimple library is old, has not been updated in years, and not npm compatible. We need to manually drop the actual 'dimple' script that we want to use for our project into the 'placeholder' directory that was created for us via npm install and the package.json file.
+
 # <a href="https://karpatic.github.io/DLLR-Dashboard-Refractored/">DLLR-Dashboard-Refractored</a>
 Description of project
 
