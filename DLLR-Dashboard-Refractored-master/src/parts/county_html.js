@@ -140,7 +140,7 @@ export let counties_disabl_pov = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-          <p id="disabl_pov_chart_footer">Source: American Community Survey <span id='acsyearagg'>1</span>-Year Estimates (Date Last Accessed: April 19, 2021)</p>
+          <p id="disabl_pov_chart_footer">Source: American Community Survey <span id='acsyearagg'>5</span>-Year Estimates (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
     </div>
