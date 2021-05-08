@@ -24,7 +24,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     // Filter Data
     //
     let fullYears = ['2015', '2016', '2017', '2018', '2019']
-    let fullQuarters =  ["2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2"]
+    let fullQuarters =  ["2015Q1", "2015Q2", "2015Q3", "2015Q4", "2016Q1", "2016Q2", "2016Q3", "2016Q4", "2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4","2020Q1","2020Q2"]
     
     // Tab - Pop & MHHI
     let mhhi = dimple.filterData(data, "Indicator", "Median Household Income")
