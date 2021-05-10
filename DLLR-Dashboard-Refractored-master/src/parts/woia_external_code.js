@@ -322,8 +322,6 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	   ${!turnOverData2019Q2[0] ? '' : displayAvgQuarterTab3('2019Q2', turnOverData2019Q2, turnOverDatg2019Q2)}
 	   ${!turnOverData2019Q3[0] ? '' : displayAvgQuarterTab3('2019Q3', turnOverData2019Q3, turnOverDatg2019Q3)}
 	   ${!turnOverData2019Q4[0] ? '' : displayAvgQuarterTab3('2019Q4', turnOverData2019Q4, turnOverDatg2019Q4)}
-     ${!turnOverData2020Q1[0] ? '' : displayAvgQuarterTab3('2020Q1', turnOverData2020Q1, turnOverDatg2020Q1)}
-     ${!turnOverData2020Q2[0] ? '' : displayAvgQuarterTab3('2020Q2', turnOverData2020Q2, turnOverDatg2020Q2)}
   `
     // Tab 4 Industry Metrics
     window.displayIndustryMetricsTable = (wdatax,hiredatax,avgdatax,netdatax,turndatax)=>{
