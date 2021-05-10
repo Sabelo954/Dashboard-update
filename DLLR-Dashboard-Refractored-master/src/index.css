@@ -444,10 +444,6 @@ table#empl_vet_table {
 }
 
 
-table#disabl_pov_table{
-	position: relative;
-}
-
 p#empl_race_ethn_footer {
     position: relative;
 }
@@ -475,6 +471,11 @@ a {
 table {
 	border-collapse: collapse;
 	width: 100%;
+}
+
+table#disabl_pov_table {
+    position: relative;
+    bottom: -76px;
 }
 
 p#wda_footer {
