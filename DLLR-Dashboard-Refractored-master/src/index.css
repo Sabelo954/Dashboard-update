@@ -369,7 +369,7 @@ p#tanf_chart_footer {
 
 p#snap_chart_footer {
     position: relative;
-    top: -196px;
+    top: -189px;
 }
 
 
@@ -496,6 +496,7 @@ table#table4 {
     position: relative;
     top: 65px;
 }
+
 
 p#table4_footer {
     position: relative;
