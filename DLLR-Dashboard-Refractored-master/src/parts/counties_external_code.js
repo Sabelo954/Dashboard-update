@@ -792,7 +792,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     }, {
         "chart": tanf_attainment_chart,
-        "bounds": [200, 30, 400, 300],
+        "bounds": [160, 30, 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": fullQuarters,
@@ -804,7 +804,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     }, {
         "chart": tanf_data,
-        "bounds": [800, 30 , 400, 300],
+        "bounds": [760, 30 , 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": fullQuarters,
