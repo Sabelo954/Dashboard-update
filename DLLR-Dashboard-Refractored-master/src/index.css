@@ -448,6 +448,10 @@ p#empl_race_ethn_footer {
     position: relative;
 }
 
+p#disabl_pov_chart_footer {
+    position: relative;
+    bottom: -74px;
+}
 
 
 p#empl_vet_chart_footer {
@@ -495,7 +499,7 @@ table#table4 {
 
 p#table4_footer {
     position: relative;
-    top: 210px;
+    top: 300px;
 }
 
 table#table5 {
