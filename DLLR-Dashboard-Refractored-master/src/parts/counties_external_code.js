@@ -71,7 +71,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     console.log( window.tanfData2019 ) 
     if ( window.tanfData2019.length === 0 ){
          console.log('2019Q1 has no data!!!!', 'window.tanfData2018', window.tanfData2018)
-         window.tanfData2019 =  window.tanfData2018
+         window.tanfData2019 =  window.tanfData2019
     }
 
     createDatasets(tanfRate, 'tanfRate', quartersByYear)
@@ -804,7 +804,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "colors": false
     }, {
         "chart": tanf_data,
-        "bounds": [760, 30 , 400, 300],
+        "bounds": [750, 30 , 400, 300],
         "categoryAxis": ["x", "Time"],
         "xtitle": " ",
         "order": fullQuarters,
