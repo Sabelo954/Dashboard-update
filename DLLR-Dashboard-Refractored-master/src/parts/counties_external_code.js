@@ -583,7 +583,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
           <td>${cma(find(snap_Data1, 2))}</td>
           <td>${cma(find(snap_Data1, 3))}</td>
         </tr>
-        <tr>
+        <tr class="FootRow">
           <th>Snap Recipient Workers by Percentage</th> <th></th>
           <td>${pcnt(find(snap_Data2, 1))}</td>
           <td>${pcnt(find(snap_Data2, 2))}</td>
