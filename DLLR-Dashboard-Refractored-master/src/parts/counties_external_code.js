@@ -541,7 +541,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
               <td>${pcnt3(find(tanfPerc, 2))}</td>
               <td>${pcnt3(find(tanfRate, 2))}</td>
             </tr>
-            <tr>
+            <tr class="FootRow">
               <th>${lbl}Q4</th>
               <td>${cma(find(tanfAttainment, 3))}</td>
               <td>${cma(find(tanfData, 3))}</td>
