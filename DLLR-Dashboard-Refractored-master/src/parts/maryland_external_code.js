@@ -22,7 +22,7 @@ import * as dimple from 'dimple';
     // 
     // Filter Data
 
-    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY15", "FY16", "FY17", "FY18", "FY19"]);
+    window.mAppData = dimple.filterData(dimple.filterData(data, "Indicator_Value", "Program Completers"), "Time", ["FY15", "FY16", "FY17", "FY18", "FY19", "FY20"]);
 
     // Create Table
     document.getElementById('table11').innerHTML = `
@@ -49,6 +49,10 @@ import * as dimple from 'dimple';
   <tr>
     <th>2019</th>
     <td>${mAppData[4]['Amount']}</td>
+  </tr>
+  <tr class="FootRow">
+    <th>2020</th>
+    <td>${mAppData[5]['Amount']}</td>
   </tr>
 	`
 
@@ -113,10 +117,14 @@ import * as dimple from 'dimple';
 	    <td>2018</td>
 	    <td> ${aprog3[2]['Amount']}</td>
     </tr>
-    <tr class="FootRow">
+    <tr>
       <td>2019</td>
       <td> ${aprog3[3]['Amount']}</td>
     </tr>
+    <tr class="FootRow">
+      <td>2020</td>
+      <td> ${aprog3[4]['Amount']}</td>
+  </tr>
 	</tbody>
 	`
     // Retrieve Elements
@@ -157,6 +165,7 @@ import * as dimple from 'dimple';
     window.aNew3 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2017");
     window.aNew4 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2018");
     window.aNew5 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2019");
+    window.aNew6 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2020");
 
     // Create Table
     console.log(aNew1);
@@ -189,11 +198,16 @@ import * as dimple from 'dimple';
       <td> ${aNew4[0]['Amount']}</td>
       <td> ${aNew4[1]['Amount']}</td>
     </tr>  
-	  <tr class="FootRow">
+	  <tr>
 	    <td>2019</td>
 	    <td> ${aNew5[0]['Amount']}</td>
 	    <td> ${aNew5[1]['Amount']}</td>
-	  </tr>
+    </tr>
+    <tr class="FootRow">
+      <td>2020</td>
+      <td> ${aNew6[0]['Amount']}</td>
+      <td> ${aNew6[1]['Amount']}</td>
+  </tr>
 	</tbody>
 	`
     // Retrieve Elements

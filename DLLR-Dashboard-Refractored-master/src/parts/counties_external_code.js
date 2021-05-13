@@ -541,7 +541,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
               <td>${pcnt3(find(tanfPerc, 2))}</td>
               <td>${pcnt3(find(tanfRate, 2))}</td>
             </tr>
-            <tr>
+            <tr class="FootRow">
               <th>${lbl}Q4</th>
               <td>${cma(find(tanfAttainment, 3))}</td>
               <td>${cma(find(tanfData, 3))}</td>
@@ -583,7 +583,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
           <td>${cma(find(snap_Data1, 2))}</td>
           <td>${cma(find(snap_Data1, 3))}</td>
         </tr>
-        <tr>
+        <tr class="FootRow">
           <th>Snap Recipient Workers by Percentage</th> <th></th>
           <td>${pcnt(find(snap_Data2, 1))}</td>
           <td>${pcnt(find(snap_Data2, 2))}</td>

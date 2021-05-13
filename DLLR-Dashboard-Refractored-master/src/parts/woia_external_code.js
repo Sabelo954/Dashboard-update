@@ -966,7 +966,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
 	    "bounds": [250, 20 ,400, 220],
 	    "categoryAxis": ["x", "Indicator_Value"],
 	    "xtitle": " ",
-	    "order": false,
+	    "order": ["Male", "Female"],
 	    "measureAxis": ["y", "Amount"],
 	    "ytitle": 'Separations',
 	    "tickFormat": ',.0f',
