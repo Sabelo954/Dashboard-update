@@ -39,7 +39,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     let workData = dimple.filterData(data, "Time", fullQuarters)
     workData = dimple.filterData(workData, "Indicator", ["Maryland Workers by Age", "Maryland Workers by Gender", "Maryland Workers by Industry"])
     let workDataA = dimple.filterData(workData, "Indicator", "Maryland Workers by Age");
+    workDataA = dimple.filterData(workDataA, "Indicator_Status", ["A01","A02","A03","A04","A05","A06","A07","A08"]);  //add at 5/13/2021 to eliminate all ages data  
     let workDataB = dimple.filterData(workData, "Indicator", "Maryland Workers by Gender");
+    workDataB = dimple.filterData(workDataB, "Indicator_Status", ["1", "2"]);  //add at 5/13/2021 to eliminate all sexes data
     createDatasets(workDataA, 'workData', fullQuarters)
     createDatasets(workDataB, 'workDatg', fullQuarters)
 
@@ -62,7 +64,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     let jobData = dimple.filterData(data, "Time", fullQuarters)
     jobData = dimple.filterData(jobData, "Indicator", ["Maryland Job Net Change by Education", "Maryland Job Net Change by Gender"])
     let jobData1 = dimple.filterData(jobData, "Indicator", "Maryland Job Net Change by Education");
+    jobData1 = dimple.filterData(jobData1, "Indicator_Status", ["E1","E2","E3","E4","E5"]);  //add at 5/13/2021 to eliminate all education data  
     let jobData2 = dimple.filterData(jobData, "Indicator", "Maryland Job Net Change by Gender");
+    jobData2 = dimple.filterData(jobData2, "Indicator_Status", ["1", "2"]);  //add at 5/13/2021 to eliminate all sexes data
     createDatasets(jobData1, 'jobDatc', fullQuarters)
     createDatasets(jobData2, 'jobDatg', fullQuarters)
 
@@ -91,8 +95,9 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     let indusep = dimple.filterData(data, "Indicator", "Maryland Separations by Industry")
     indusep = dimple.filterData(indusep, "Indicator_Value", ["Accommodation and Food Services", "Administrative and Support and Waste Management and Remediation Services", "Agriculture, Forestry, Fishing and Hunting", "Arts, Entertainment, and Recreation", "Construction", "Educational Services", "Finance and Insurance", "Health Care and Social Assistance", "Information", "Management of Companies and Enterprises", "Manufacturing", "Mining, Quarrying, and Oil and Gas Extraction", "Other Services (except Public Administration)", "Professional, Scientific, and Technical Services", "Public Administration", "Real Estate and Rental and Leasing", "Retail Trade", "Transportation and Warehousing", "Utilities", "Wholesale Trade"])
     let agesep = dimple.filterData(data, "Indicator", "Maryland Separations by Age")
-    let gensep = dimple.filterData(data, "Indicator", "Maryland Separations by Gender")
+    let gensep = dimple.filterData(data, "Indicator", "Maryland Separations by Gender") 
     let edusep = dimple.filterData(data, "Indicator", "Maryland Separations by Education")
+    edusep = dimple.filterData(edusep, "Indicator_Status", ["E1","E2","E3","E4","E5"]);  //add at 5/13/2021 to eliminate all education data  
     window.asepdata1 = dimple.filterData(agesep, "Time", fullQuarters)
     window.gsepdata1 = dimple.filterData(gensep, "Time", fullQuarters)
     window.esepdata1 = dimple.filterData(edusep, "Time", fullQuarters)
