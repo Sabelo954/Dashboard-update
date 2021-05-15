@@ -91,8 +91,8 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
     // Tab 6 - SNAP
     let snap_Data1 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers")
     let snap_Data2 = dimple.filterData(data, "Indicator", "SNAP Recipient Workers by Percentage")
-    // console.log("this is snapData1:",snap_Data1)
-    // console.log("this is snapData2:",snap_Data2)
+    //console.log("this is snapData1:",snap_Data1)
+    //console.log("this is snapData2:",snap_Data2)
 
     //
     // Create SVGz
@@ -156,7 +156,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         ['emp_dis_chart_print', disabl_pov_chart_print, disAttainment2019], 
         ['emp_dis_chart', disabl_pov_svg, disAttainment2019], 
       ])
-    console.log('tanf_data', {tanf_svg, tanfData2019}, ['tanf_svg', "#tanf_chart", "100%", 400])
+    //console.log('tanf_data', {tanf_svg, tanfData2019}, ['tanf_svg', "#tanf_chart", "100%", 400])
 
     //
     // Event Handler
@@ -282,10 +282,10 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [psnap_chart, psnap_chart2],
         'svgName': '#snap_chart',
         'data': {
+            data20: [snap_Data1, snap_Data2],
+            data19: [snap_Data1, snap_Data2],
             data18: [snap_Data1, snap_Data2],
             data17: [snap_Data1, snap_Data2],
-            data16: [snap_Data1, snap_Data2],
-            data15: [snap_Data1, snap_Data2]
         }
     }]
 
@@ -569,25 +569,28 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         ).enter().append('td').text(d=>d.value)
     }
     // Tab 5 - SNAP
-    console.log({snap_Data1})
+    //console.log("==snap_Data1", snap_Data1)
     document.getElementById("snap_table").innerHTML = `
         <tr class="HeadRow">
           <th>SNAP Recipient Workers</th> <th></th>
-          <th>2016</th>
           <th>2017</th>
           <th>2018</th>
+          <th>2019</th>
+          <th>2020</th>
           </tr>
         <tr>
           <th>Snap Recipient Workers</th> <th></th>
-          <td>${cma(find(snap_Data1, 1))}</td>
           <td>${cma(find(snap_Data1, 2))}</td>
           <td>${cma(find(snap_Data1, 3))}</td>
+          <td>${cma(find(snap_Data1, 4))}</td>
+          <td>${cma(find(snap_Data1, 5))}</td>
         </tr>
         <tr class="FootRow">
           <th>Snap Recipient Workers by Percentage</th> <th></th>
-          <td>${pcnt(find(snap_Data2, 1))}</td>
           <td>${pcnt(find(snap_Data2, 2))}</td>
           <td>${pcnt(find(snap_Data2, 3))}</td>
+          <td>${pcnt(find(snap_Data2, 4))}</td>
+          <td>${pcnt(find(snap_Data2, 5))}</td>
         </tr>
     `
     //
@@ -786,7 +789,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         "order": false,
         "measureAxis": ["y", "Amount"],
         "ytitle": "Percent",
-        "tickFormat": '.2%',
+        "tickFormat": '.1%',
         "series": "Indicator",
         "lineMarkers": false,
         "colors": false

@@ -222,7 +222,7 @@ export let counties_snap = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-          <p id="snap_chart_footer">SNAP data is available from January 2016 to October 2016. <br><br> Source: Jacob France Institute, accessed 4/15/2019</p>
+          <p id="snap_chart_footer">SNAP data is available from 2017 to 2020. <br><br> Source: Jacob France Institute, accessed 5/15/2021</p>
         </div>
       </div>
     </div>

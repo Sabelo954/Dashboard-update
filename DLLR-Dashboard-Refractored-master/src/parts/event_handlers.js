@@ -228,7 +228,7 @@ export let findIndustry = (objArr,indx)=>{
 
 export let find = (objArr,indx)=>{
     let returnThis = objArr.filter(obj=>{
-        return obj['Time'] == ['2015', '2016', '2017', '2018', '2019'][indx]
+        return obj['Time'] == ['2015', '2016', '2017', '2018', '2019', '2020'][indx]
     }
     )[0]
     returnThis = returnThis == undefined ? '--' : returnThis['Amount']
@@ -376,20 +376,12 @@ window.drawAll = ()=>{
           chart61.draw(0, true);              //Separations
           aprogChart.draw(0, true);           //New Apprentice Programs
           aNewChart.draw(0, true);            //New/Active Apprentices
-          console.log('here!', {chart1})
           chart1.draw(0, true);               //long term unemployed
-          console.log('her3e!')
         }
-
         // end
-
-        console.log('herettttt!')
-
-        
+       
         tanf_attainment_chart.draw(0, true);
-        console.log('herettt!')
         tanf_data.draw(0, true);
-        console.log('hertte!')
 
         //tanf_attainment_chart.draw(0, true);
         //tanf_rate_chart.draw(0, true);
@@ -606,9 +598,7 @@ window.onload = function() {
             hideall(collapsables)
             showall([whichTab])
             hideall(prints);
-            console.log('PROBLEM BEIGNS')
             drawAll();
-            console.log('HEYYYYY')
 
             if (tabInfo['dmy']) {
                 // Counties

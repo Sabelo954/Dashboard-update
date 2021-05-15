@@ -168,9 +168,9 @@ import * as dimple from 'dimple';
     window.aNew6 = dimple.filterData(dimple.filterData(data, "Indicator", "Maryland Apprentices"), "Time", "2020");
 
     // Create Table
-    console.log(aNew1);
-    console.log(aNew2);
-    console.log(aNew3);
+    //console.log(aNew1);
+    //console.log(aNew2);
+    //console.log(aNew3);
     document.getElementById('table19').innerHTML = `
 	<thead>
 	  <tr>
@@ -318,8 +318,8 @@ import * as dimple from 'dimple';
 	<tr class="HeadRow">
 	  <th>Service Participants in SNAP</th>
 	  <th></th>
-	  <th>2016-Q3</th>
-	  <th>2016-Q4</th>
+	  <th>2018</th>
+	  <th>2019</th>
 	</tr>  
 	<tr class="FootRow">
 	  <td></td>

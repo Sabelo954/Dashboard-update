@@ -118,8 +118,8 @@ export let mdServiceParticipantsInSnap = `
       <table id="table155"></table>
       <div class="Footer">
         <div id="Service_Participants_SNAP_Footer">
-          <p>SNAP (Supplemental Nutrition Assistance Program) is available available from January 2014 to October 2016. <br><br>
-          <p>Source: Jacob France Institute, accessed 4/15/2019</p>
+          <p>SNAP (Supplemental Nutrition Assistance Program) is available available from 2018 to 2019. <br><br>
+          <p>Source: Jacob France Institute, accessed 5/15/2021</p>
         </div>
       </div>
     </div>
