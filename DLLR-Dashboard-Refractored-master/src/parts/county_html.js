@@ -166,7 +166,7 @@ export let counties_tanf = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021)<br?<br>"S" Represents suppressed counts that are less than 3.</p>
+          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021)</p>
         </div>
       </div>
     </div>
