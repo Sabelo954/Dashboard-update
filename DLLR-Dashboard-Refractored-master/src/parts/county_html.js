@@ -166,7 +166,7 @@ export let counties_tanf = `
       </table>
       <div class="Footer">
         <div class="FootLeft">
-          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021)</p>
+          <p id="tanf_chart_footer">Source: Administrative Data from Temporary Assistance to Needy Families (TANF) and MD Wage Records (Date Last Accessed: April 19, 2021) <br><br> "--" means data is not available. </p>
         </div>
       </div>
     </div>
