@@ -367,6 +367,11 @@ p#tanf_chart_footer {
     top: -126px;
 }
 
+th#MF {
+    position: relative;
+    left: -68px;
+}
+
 p#snap_chart_footer {
     position: relative;
     top: -189px;
