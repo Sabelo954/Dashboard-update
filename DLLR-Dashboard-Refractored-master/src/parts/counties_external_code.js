@@ -346,7 +346,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
       <th>Some College or Associates</th>
       <th>Bachelor's Degree or Higher</th>
       ${mdNoTD}
-      ${CountyName == 'Maryland' ? '' : `<th>Male</th><th>Female</th>`}
+      ${CountyName == 'Maryland' ? '' : `<th id="MF">Male</th><th id="MF">Female</th>`}
     </tr>
     ${displayYears.map(year=>{
         let ds = window['EduAttainment' + year]
