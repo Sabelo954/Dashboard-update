@@ -64,9 +64,17 @@ import 'chardin.ts/chardinjs.scss';
         window.CountyName = location_search.replace("?county=", "").replace(".html", "").replace(/([A-Z])/g, ' $1').trim()
         window.md = CountyName == 'Maryland'
         window.wd = CountyName.includes('L W D A')
-        window.emplStatusCounties = ["Maryland", "Worcester County", "Wicomico County", "Talbot County", "St Marys County", 
+/*         window.emplStatusCounties = ["Maryland", "Worcester County", "Wicomico County", "Talbot County", "St Marys County", 
                                      "Queen Annes County", "Kent County", "Garrett County", "Dorchester County", "Allegany County", 
-                                     "Caroline County", "Calvert County", "Somerset County", "Prince Georges County"]
+                                     "Caroline County", "Calvert County", "Somerset County", "Prince Georges County"] */
+
+        //changed at 5/21/2021, disabled "Employment Status" tab for all counties
+        window.emplStatusCounties = ["Maryland", "Allegany County", "Anne Arundel County", "Baltimore City", "Baltimore County", 
+                                     "Calvert County", "Caroline County", "Carroll County", "Cecil County", "Charles County", 
+                                     "Dorchester County", "Frederick County", "Garrett County", "Harford County", "Howard County",
+                                     "Kent County", "Montgomery County", "Prince Georges County", "Queen Annes County", "Somerset County",
+                                     "St Marys County", "Talbot County", "Washington County", "Wicomico County", "Worcester County", 
+                                      ]
 
         var {countyCode, buttonMenu} = ''
 
