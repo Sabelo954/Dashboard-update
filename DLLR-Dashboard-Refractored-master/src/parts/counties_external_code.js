@@ -460,7 +460,7 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
           <th>Disabled Individuals</th>
           <th>Individuals without Disabilities</th>
           <th></th>
-          <th>Income in the past 12 months below poverty level</th>
+          <th>Individuals with income in the past 12 months below poverty level</th>
         </tr>
         ${displayYears.map(year=>{
         let ds1 = window['disAttainment' + year]
