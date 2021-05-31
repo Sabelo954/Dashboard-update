@@ -14,7 +14,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,52,Fina
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,52,Finance and Insurance,54
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance and Insurance,45
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,12
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,-2
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,-1
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,3
@@ -29,7 +29,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,72,Acco
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,72,Accommodation and Food Services,2014
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,72,Accommodation and Food Services,2322
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,72,Accommodation and Food Services,2421
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,72,Accommodation and Food Services,2342
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,72,Accommodation and Food Services,1932
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,72,Accommodation and Food Services,2066
@@ -51,7 +51,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,72,Acco
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,72,Accommodation and Food Services,1191
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommodation and Food Services,1157
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,72,Accommodation and Food Services,994
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-454
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-240
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,72,Accommodation and Food Services,-501
@@ -94,7 +94,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,72,Accomm
 Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,72,Accommodation and Food Services,15917
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,72,Accommodation and Food Services,8751
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,72,Accommodation and Food Services,9226
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,72,Accommodation and Food Services,9186
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,72,Accommodation and Food Services,8606
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,72,Accommodation and Food Services,9806
@@ -111,13 +111,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommo
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,19.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodation and Food Services,13.100000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,14.000000000000002
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,14.099999999999998
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,15.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,72,Accommodation and Food Services,13.900000000000002
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommodation and Food Services,13.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommodation and Food Services,15.299999999999999
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,15.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,14.299999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,13.8
@@ -162,7 +162,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,62,Heal
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,62,Health Care and Social Assistance,4477
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,62,Health Care and Social Assistance,4530
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,62,Health Care and Social Assistance,4232
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q3,62,Health Care and Social Assistance,4490
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,62,Health Care and Social Assistance,4502
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,62,Health Care and Social Assistance,4375
@@ -183,7 +183,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,62,Heal
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,62,Health Care and Social Assistance,188
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,62,Health Care and Social Assistance,333
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q4,62,Health Care and Social Assistance,4444
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,62,Health Care and Social Assistance,-31
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,-21
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,439
@@ -227,7 +227,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,62,Health
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,62,Health Care and Social Assistance,3927
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,62,Health Care and Social Assistance,3976
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,62,Health Care and Social Assistance,4038
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,62,Health Care and Social Assistance,4189
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,62,Health Care and Social Assistance,5039
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,62,Health Care and Social Assistance,4079
@@ -248,7 +248,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health 
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,8.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,8.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,8.7
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,62,Health Care and Social Assistance,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,8.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,9
@@ -258,7 +258,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health 
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care and Social Assistance,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Care and Social Assistance,9
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,62,Health Care and Social Assistance,9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q4,62,Health Care and Social Assistance,8.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q4,62,Health Care and Social Assistance,8.5
@@ -297,7 +297,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q2,56,Admi
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,3775
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,3670
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,3867
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,4100
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,3791
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,4033
@@ -320,7 +320,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,56,Admi
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,1504
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,1833
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,435
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,348
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,-6
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,460
@@ -364,7 +364,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,56,Admini
 Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,6445
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,5286
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,4623
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,6317
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,6102
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,5546
@@ -381,12 +381,12 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,56,Adminis
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,10.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,12.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,56,Administrative and Support and Waste Management and Remediation Services,12.1
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,13.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,12.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,11.899999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,12.2
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,15.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,15.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,17.1
@@ -429,7 +429,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,11,"Agr
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",3197
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",3269
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",2826
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",2748
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",3669
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",3210
@@ -453,7 +453,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,11,"Agr
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",17
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",9
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",15
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",2
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",15
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",-3
@@ -467,9 +467,9 @@ New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q1,11,"Agricultu
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",10
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",8
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",21
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",6
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",21
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",8
@@ -495,7 +495,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,11,"Agric
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",12
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",6
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",9
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",4
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",18
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",14
@@ -508,17 +508,17 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q4,11,"Agric
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",11
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",14
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.1
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",5.8999999999999995
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",11.700000000000001
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",9.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",7.9
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",23.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",15.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",10
@@ -526,9 +526,9 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,11,"Agricu
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",13.900000000000002
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",15.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",6.1
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q4,11,"Agriculture, Forestry, Fishing and Hunting",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q4,11,"Agriculture, Forestry, Fishing and Hunting",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2015Q1,11,"Agriculture, Forestry, Fishing and Hunting",64
 Workers,Prince Georges WIA,Maryland Workers by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",68
 Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",51
@@ -562,7 +562,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q2,71,"Art
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1845
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1764
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1828
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",1622
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",1825
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",1744
@@ -583,7 +583,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q1,71,"Art
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",1257
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",1861
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1256
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-757
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-436
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",2076
@@ -627,7 +627,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,71,"Arts,
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1555
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",1250
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1764
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",2518
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1694
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",2668
@@ -644,13 +644,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, 
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",9.700000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",11.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",13.700000000000001
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",17.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",17.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",18.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",17.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",19.3
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",29.299999999999997
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",20.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",21.3
@@ -695,7 +695,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,23,Cons
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,23,Construction,5701
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,23,Construction,5890
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,23,Construction,5457
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,23,Construction,5722
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,23,Construction,5576
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,23,Construction,5676
@@ -716,7 +716,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,23,Cons
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,23,Construction,1573
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,23,Construction,1094
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,1003
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,591
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,626
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,23,Construction,230
@@ -758,7 +758,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,23,Constr
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,23,Construction,4534
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,23,Construction,4213
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,23,Construction,4211
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,23,Construction,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,23,Construction,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,23,Construction,4210
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,23,Construction,4434
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,23,Construction,4566
@@ -776,13 +776,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,23,Constru
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,8.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,23,Construction,8.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,23,Construction,9
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,9.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,23,Construction,9.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,23,Construction,9.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,23,Construction,8.799999999999999
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,10.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,23,Construction,10.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,23,Construction,10
@@ -826,7 +826,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,61,Educ
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q1,61,Educational Services,4585
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,61,Educational Services,5441
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,61,Educational Services,4778
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,61,Educational Services,4096
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,61,Educational Services,4898
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,61,Educational Services,4465
@@ -848,7 +848,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,61,Educ
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,1561
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,61,Educational Services,918
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,61,Educational Services,-970
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,671
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,841
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,-2479
@@ -890,7 +890,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,61,Educat
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q1,61,Educational Services,2983
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,61,Educational Services,4110
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,61,Educational Services,5266
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,61,Educational Services,3481
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,61,Educational Services,5917
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,61,Educational Services,5999
@@ -910,11 +910,11 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educati
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,5.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,6.5
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educational Services,6.800000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,5.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,5.3
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,3.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,3.9
@@ -958,7 +958,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,52,Fina
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,52,Finance and Insurance,5568
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,52,Finance and Insurance,6035
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,52,Finance and Insurance,5357
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,52,Finance and Insurance,5265
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,52,Finance and Insurance,5849
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,52,Finance and Insurance,5774
@@ -1004,7 +1004,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,52,Financ
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,52,Finance and Insurance,514
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,52,Finance and Insurance,529
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,52,Finance and Insurance,1013
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,52,Finance and Insurance,583
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,52,Finance and Insurance,735
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,52,Finance and Insurance,635
@@ -1022,11 +1022,11 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and Insurance,6.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,6.6000000000000005
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,7.7
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,7.000000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,7.000000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,6.800000000000001
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,6.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and Insurance,7.000000000000001
@@ -1069,7 +1069,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q1,51,Info
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,51,Information,6097
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q2,51,Information,5568
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,51,Information,6487
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,51,Information,5946
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,51,Information,5430
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,51,Information,6982
@@ -1093,7 +1093,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,51,Info
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,-65
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,51,Information,-219
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,34
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,132
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,51,Information,-47
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-184
@@ -1138,7 +1138,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,51,Inform
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,51,Information,465
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,51,Information,443
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,51,Information,370
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,51,Information,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,51,Information,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,51,Information,462
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,51,Information,501
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q3,51,Information,518
@@ -1155,12 +1155,12 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,51,Informa
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,7.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,7.000000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,7.5
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,7.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,8.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,7.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,7.1
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,7.199999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,51,Information,7.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,51,Information,7.1
@@ -1204,7 +1204,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,55,Mana
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,55,Management of Companies and Enterprises,5237
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,55,Management of Companies and Enterprises,4732
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,4590
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,55,Management of Companies and Enterprises,5090
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,55,Management of Companies and Enterprises,4816
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,55,Management of Companies and Enterprises,5205
@@ -1225,7 +1225,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,55,Mana
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,55,Management of Companies and Enterprises,7
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,55,Management of Companies and Enterprises,25
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,3
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,-16
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,199
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,55,Management of Companies and Enterprises,-19
@@ -1267,7 +1267,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,55,Manage
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,55,Management of Companies and Enterprises,169
 Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,55,Management of Companies and Enterprises,248
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,55,Management of Companies and Enterprises,192
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,55,Management of Companies and Enterprises,185
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,55,Management of Companies and Enterprises,224
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,55,Management of Companies and Enterprises,234
@@ -1286,14 +1286,14 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,55,Managem
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,7.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,7.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,9.2
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,6.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,55,Management of Companies and Enterprises,8.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,7.199999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,55,Management of Companies and Enterprises,6.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,10.2
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,55,Management of Companies and Enterprises,6.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,55,Management of Companies and Enterprises,6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,55,Management of Companies and Enterprises,6.4
@@ -1335,7 +1335,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,31-33,M
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,31-33,Manufacturing,5281
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,31-33,Manufacturing,5190
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,31-33,Manufacturing,5412
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,31-33,Manufacturing,5640
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,31-33,Manufacturing,5418
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,31-33,Manufacturing,5267
@@ -1357,7 +1357,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q1,31-33,M
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,31-33,Manufacturing,42
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,-2
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,199
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,-95
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q3,31-33,Manufacturing,-102
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,22
@@ -1401,7 +1401,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,31-33,Man
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,31-33,Manufacturing,737
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,31-33,Manufacturing,699
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,31-33,Manufacturing,666
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,31-33,Manufacturing,708
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,31-33,Manufacturing,685
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,31-33,Manufacturing,820
@@ -1416,7 +1416,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manu
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufacturing,6.6000000000000005
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufacturing,6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,6.3
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,7.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,5.8999999999999995
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,31-33,Manufacturing,6.1
@@ -1424,7 +1424,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manu
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,6.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,6.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,6.7
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,6.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufacturing,6.800000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,31-33,Manufacturing,5.5
@@ -1468,7 +1468,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,21,"Min
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5793
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6029
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6040
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6236
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5686
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5804
@@ -1482,111 +1482,111 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q1,21,"Min
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",1
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",1
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",1
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-4
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-4
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-6
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",9
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",12
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",9
-Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",14
-Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7.3999999999999995
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",1.2
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",9.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",10.4
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",13.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7.3
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7.9
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3.4000000000000004
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",58
 Workers,Prince Georges WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",54
 Workers,Prince Georges WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",48
-Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",58
 Workers,Prince Georges WIA,Maryland Workers by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",59
-Workers,Prince Georges WIA,Maryland Workers by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Workers,Prince Georges WIA,Maryland Workers by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",57
-Workers,Prince Georges WIA,Maryland Workers by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Workers,Prince Georges WIA,Maryland Workers by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",59
 Workers,Prince Georges WIA,Maryland Workers by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",53
-Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",51
 Workers,Prince Georges WIA,Maryland Workers by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",56
 Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",52
 Workers,Prince Georges WIA,Maryland Workers by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",58
-Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",55
-Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Prince Georges WIA,Maryland Workers by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",54
-Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Workers,Prince Georges WIA,Maryland Workers by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q1,81,Other Services (except Public Administration),3375
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q1,81,Other Services (except Public Administration),3487
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q1,81,Other Services (except Public Administration),3291
@@ -1601,7 +1601,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,81,Othe
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,81,Other Services (except Public Administration),3555
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,81,Other Services (except Public Administration),3740
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,81,Other Services (except Public Administration),3441
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,81,Other Services (except Public Administration),3485
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,81,Other Services (except Public Administration),3557
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q3,81,Other Services (except Public Administration),3625
@@ -1623,7 +1623,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,81,Othe
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,81,Other Services (except Public Administration),-114
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),3306
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,81,Other Services (except Public Administration),95
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),39
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,81,Other Services (except Public Administration),-165
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q3,81,Other Services (except Public Administration),-80
@@ -1665,7 +1665,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,81,Other 
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,81,Other Services (except Public Administration),1850
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,81,Other Services (except Public Administration),4250
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,81,Other Services (except Public Administration),2312
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,81,Other Services (except Public Administration),2110
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,81,Other Services (except Public Administration),1949
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,81,Other Services (except Public Administration),2152
@@ -1680,14 +1680,14 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,81,Other S
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q4,81,Other Services (except Public Administration),5482
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Services (except Public Administration),8.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),18.8
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),8.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,81,Other Services (except Public Administration),9.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),7.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),7.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),8.5
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),9.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,81,Other Services (except Public Administration),7.3
@@ -1733,7 +1733,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q1,54,"Pro
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8230
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",7305
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",7938
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7702
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",7874
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q3,54,"Professional, Scientific, and Technical Services",8142
@@ -1753,7 +1753,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,54,"Pro
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",206
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",-26
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",488
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",207
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",-194
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",-222
@@ -1797,7 +1797,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,54,"Profe
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",2703
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",2764
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",2660
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",3055
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",3498
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",3060
@@ -1814,13 +1814,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Profes
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",8.799999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",8.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",8.200000000000001
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",7.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",8.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",9.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8.7
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",8.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,54,"Professional, Scientific, and Technical Services",9.8
@@ -1862,7 +1862,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q1,92,Publ
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,92,Public Administration,5164
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,92,Public Administration,4995
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,92,Public Administration,4990
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,92,Public Administration,5452
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,92,Public Administration,5232
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,92,Public Administration,5674
@@ -1889,7 +1889,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,92,Publ
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-553
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,92,Public Administration,777
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,6771
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q4,92,Public Administration,-584
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q4,92,Public Administration,-245
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q4,92,Public Administration,-176
@@ -1927,7 +1927,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,92,Public
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,92,Public Administration,706
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,92,Public Administration,653
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,92,Public Administration,718
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,92,Public Administration,3077
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,92,Public Administration,3219
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q3,92,Public Administration,3625
@@ -1943,13 +1943,13 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q4,92,Public
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,2.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,3.3000000000000003
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,3.5999999999999996
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,2.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,3.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,4.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,92,Public Administration,4.1000000000000005
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,3.2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,4.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,4.3
@@ -1995,7 +1995,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,53,Real
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,53,Real Estate and Rental and Leasing,4160
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,53,Real Estate and Rental and Leasing,4555
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,53,Real Estate and Rental and Leasing,4586
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,53,Real Estate and Rental and Leasing,4395
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,53,Real Estate and Rental and Leasing,4318
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,53,Real Estate and Rental and Leasing,4146
@@ -2018,7 +2018,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,53,Real
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,53,Real Estate and Rental and Leasing,313
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,408
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,-44
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,53,Real Estate and Rental and Leasing,-96
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,8
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,53,Real Estate and Rental and Leasing,-31
@@ -2060,7 +2060,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,53,Real E
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,53,Real Estate and Rental and Leasing,892
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,53,Real Estate and Rental and Leasing,932
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,53,Real Estate and Rental and Leasing,895
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,53,Real Estate and Rental and Leasing,933
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,53,Real Estate and Rental and Leasing,809
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q3,53,Real Estate and Rental and Leasing,999
@@ -2074,14 +2074,14 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Es
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,8.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,8.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,8
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,7.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,8.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,53,Real Estate and Rental and Leasing,8.200000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,53,Real Estate and Rental and Leasing,8.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Estate and Rental and Leasing,8.6
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,10.6
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,10.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate and Rental and Leasing,9.4
@@ -2125,7 +2125,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,44-45,R
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,44-45,Retail Trade,2784
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,44-45,Retail Trade,2826
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,44-45,Retail Trade,2897
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,44-45,Retail Trade,2702
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,44-45,Retail Trade,2830
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,44-45,Retail Trade,2765
@@ -2145,7 +2145,7 @@ Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,44-45,R
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,44-45,Retail Trade,514
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,44-45,Retail Trade,367
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,44-45,Retail Trade,259
-Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,0
+Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,TBD
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,211
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-50
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,44-45,Retail Trade,-47
@@ -2190,7 +2190,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,44-45,Ret
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,44-45,Retail Trade,7797
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,44-45,Retail Trade,7318
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,44-45,Retail Trade,7781
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,44-45,Retail Trade,8444
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,44-45,Retail Trade,9176
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q3,44-45,Retail Trade,8440
@@ -2208,7 +2208,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Reta
 Job change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q1,44-45,Retail Trade,-1033
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2019Q4,44-45,Retail Trade,9249
 New Hires,Prince Georges WIA,Maryland New Hires by Industry,2017Q4,44-45,Retail Trade,9365
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,10.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.899999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,10.9
@@ -2216,7 +2216,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Reta
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,10.299999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,10.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,11.4
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,44-45,Retail Trade,10.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,11.4
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Trade,11.1
@@ -2259,7 +2259,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,48-49,T
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,48-49,Transportation and Warehousing,5051
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,48-49,Transportation and Warehousing,5114
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,48-49,Transportation and Warehousing,5130
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,48-49,Transportation and Warehousing,5253
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,48-49,Transportation and Warehousing,5178
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,48-49,Transportation and Warehousing,5222
@@ -2281,7 +2281,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q2,48-49,T
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,48-49,Transportation and Warehousing,96
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Transportation and Warehousing,100
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,48-49,Transportation and Warehousing,833
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,133
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,48-49,Transportation and Warehousing,351
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,20
@@ -2324,7 +2324,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q1,48-49,Tra
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,48-49,Transportation and Warehousing,2313
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,48-49,Transportation and Warehousing,2868
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,48-49,Transportation and Warehousing,3018
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,48-49,Transportation and Warehousing,2892
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,48-49,Transportation and Warehousing,2808
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q3,48-49,Transportation and Warehousing,3140
@@ -2343,13 +2343,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Tran
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,9.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,6.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,6.6000000000000005
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,48-49,Transportation and Warehousing,6.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,7.199999999999999
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,6.9
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,7.3
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,7.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,48-49,Transportation and Warehousing,8.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,48-49,Transportation and Warehousing,8.6
@@ -2392,7 +2392,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,22,Util
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,22,Utilities,7423
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,22,Utilities,7251
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q3,22,Utilities,7898
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,22,Utilities,7344
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,22,Utilities,7921
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q3,22,Utilities,7889
@@ -2414,7 +2414,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,22,Util
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,-6
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,3
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,-1
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-6
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q3,22,Utilities,-7
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,22,Utilities,-1
@@ -2456,7 +2456,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q2,22,Utilit
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,22,Utilities,41
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,22,Utilities,37
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,22,Utilities,17
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,22,Utilities,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,22,Utilities,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,22,Utilities,51
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,22,Utilities,46
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,22,Utilities,70
@@ -2472,7 +2472,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utiliti
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,3.4000000000000004
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,3.6999999999999997
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,5
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,4.7
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,4.3
@@ -2482,7 +2482,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utiliti
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,22,Utilities,4.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,3.6999999999999997
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,22,Utilities,3.9
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,3.5000000000000004
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,22,Utilities,4.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q4,22,Utilities,2.8000000000000003
@@ -2523,7 +2523,7 @@ Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q2,42,Whol
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2016Q2,42,Wholesale Trade,5246
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q2,42,Wholesale Trade,5543
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2019Q2,42,Wholesale Trade,5906
-Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,0
+Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,TBD
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2015Q3,42,Wholesale Trade,5374
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2017Q3,42,Wholesale Trade,5657
 Earnings,Prince Georges WIA,Maryland Average Earnings by Industry,2018Q3,42,Wholesale Trade,5628
@@ -2545,7 +2545,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q2,42,Whol
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2017Q2,42,Wholesale Trade,182
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,201
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q2,42,Wholesale Trade,128
-Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,142
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,120
 Job Change,Prince Georges WIA,Maryland Job Net Change by Industry,2018Q3,42,Wholesale Trade,37
@@ -2588,7 +2588,7 @@ Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q1,42,Wholes
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q2,42,Wholesale Trade,1024
 Separations,Prince Georges WIA,Maryland Separations by Industry,2017Q2,42,Wholesale Trade,1084
 Separations,Prince Georges WIA,Maryland Separations by Industry,2018Q2,42,Wholesale Trade,1057
-Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,0
+Separations,Prince Georges WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,TBD
 Separations,Prince Georges WIA,Maryland Separations by Industry,2019Q2,42,Wholesale Trade,1058
 Separations,Prince Georges WIA,Maryland Separations by Industry,2016Q3,42,Wholesale Trade,1152
 Separations,Prince Georges WIA,Maryland Separations by Industry,2015Q3,42,Wholesale Trade,1169
@@ -2608,13 +2608,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesa
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,6.6000000000000005
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q2,42,Wholesale Trade,6.800000000000001
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,6.4
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,6.6000000000000005
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,7.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.5
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,7.3999999999999995
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,7.1
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2017Q3,42,Wholesale Trade,7.3
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2019Q3,42,Wholesale Trade,7.8
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Industry,2015Q4,42,Wholesale Trade,7.3
@@ -2655,7 +2655,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-18,918
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A01,14-18,782
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,941
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,838
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,956
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,988
@@ -2678,7 +2678,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A02,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1498
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A02,19-21,1390
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1321
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1440
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1534
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1461
@@ -2699,7 +2699,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A03,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A03,22-24,2231
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2346
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2488
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2120
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2289
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2275
@@ -2721,7 +2721,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A04,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A04,25-34,3688
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3960
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3818
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3611
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3825
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q3,A04,25-34,3789
@@ -2743,7 +2743,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A05,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A05,35-44,4891
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,5240
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,5053
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,4833
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q3,A05,35-44,4967
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q3,A05,35-44,5199
@@ -2764,7 +2764,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A06,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A06,45-54,5502
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45-54,5720
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q2,A06,45-54,5322
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,5850
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,5692
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5502
@@ -2785,7 +2785,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q1,A07,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q1,A07,55-64,5693
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A07,55-64,5254
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A07,55-64,5520
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,5793
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,5688
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5352
@@ -2966,7 +2966,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A01,14-18,5730
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A01,14-18,2348
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A01,14-18,6687
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q3,A01,14-18,6921
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A01,14-18,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A01,14-18,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q3,A01,14-18,6214
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q3,A01,14-18,9215
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q4,A01,14-18,2593
@@ -2985,7 +2985,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2016Q2,A02,19-21,4712
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A02,19-21,4821
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A02,19-21,4777
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A02,19-21,5079
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A02,19-21,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A02,19-21,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A02,19-21,8610
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A02,19-21,9471
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q3,A02,19-21,8833
@@ -3007,7 +3007,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2016Q2,A03,22-24,5096
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A03,22-24,5067
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A03,22-24,4869
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A03,22-24,5107
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A03,22-24,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A03,22-24,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A03,22-24,6309
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A03,22-24,6900
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q3,A03,22-24,6481
@@ -3024,7 +3024,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2019Q1,A04,25-34,1118
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q1,A04,25-34,11146
 Separations,Prince Georges WIA,Maryland Separations by Age,2020Q1,A04,25-34,20787
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q1,A04,25-34,10922
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A04,25-34,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A04,25-34,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A04,25-34,12614
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q2,A04,25-34,11846
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A04,25-34,12496
@@ -3050,7 +3050,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2015Q2,A05,35-44,7974
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q2,A05,35-44,7904
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A05,35-44,8083
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A05,35-44,8406
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A05,35-44,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A05,35-44,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A05,35-44,8852
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A05,35-44,8799
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A05,35-44,7875
@@ -3074,7 +3074,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A06,45-54,7441
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A06,45-54,7035
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A06,45-54,6786
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A06,45-54,7231
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A06,45-54,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A06,45-54,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A06,45-54,7398
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q3,A06,45-54,7202
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q3,A06,45-54,6852
@@ -3095,7 +3095,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2017Q2,A07,55-64,5517
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q2,A07,55-64,5182
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A07,55-64,4376
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A07,55-64,5554
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A07,55-64,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A07,55-64,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A07,55-64,4797
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q3,A07,55-64,4880
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q3,A07,55-64,5138
@@ -3118,7 +3118,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2018Q2,1
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Male,5062
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5045
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,5393
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,5284
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2018Q3,1,Male,5179
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,5073
@@ -3138,7 +3138,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2015Q2,2
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2016Q2,2,Female,3692
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,4033
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Female,3899
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,4167
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3700
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3901
@@ -3203,7 +3203,7 @@ Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q1,1,Male,4105
 Separations,Prince Georges WIA,Maryland Separations by Gender,2015Q2,1,Male,25117
 Separations,Prince Georges WIA,Maryland Separations by Gender,2017Q2,1,Male,25105
 Separations,Prince Georges WIA,Maryland Separations by Gender,2016Q2,1,Male,24461
-Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q2,1,Male,0
+Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q2,1,Male,TBD
 Separations,Prince Georges WIA,Maryland Separations by Gender,2015Q3,1,Male,28793
 Separations,Prince Georges WIA,Maryland Separations by Gender,2018Q2,1,Male,25252
 Separations,Prince Georges WIA,Maryland Separations by Gender,2019Q2,1,Male,26280
@@ -3225,7 +3225,7 @@ Separations,Prince Georges WIA,Maryland Separations by Gender,2015Q2,2,Female,21
 Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q1,2,Female,49316
 Separations,Prince Georges WIA,Maryland Separations by Gender,2016Q2,2,Female,21563
 Separations,Prince Georges WIA,Maryland Separations by Gender,2017Q2,2,Female,23975
-Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q2,2,Female,0
+Separations,Prince Georges WIA,Maryland Separations by Gender,2020Q2,2,Female,TBD
 Separations,Prince Georges WIA,Maryland Separations by Gender,2019Q2,2,Female,24587
 Separations,Prince Georges WIA,Maryland Separations by Gender,2018Q2,2,Female,23090
 Separations,Prince Georges WIA,Maryland Separations by Gender,2015Q3,2,Female,26152
@@ -3248,7 +3248,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q2,E1,Les
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q2,E1,Less than High school,648
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q1,E1,Less than High school,-6377
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q2,E1,Less than High school,1089
-Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,1618
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q3,E1,Less than High school,330
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q2,E1,Less than High school,727
@@ -3272,7 +3272,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q2,E2,"Hi
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",346
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q2,E2,"High school or equivalent, no college",597
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",2554
-Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q3,E2,"High school or equivalent, no college",48
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",165
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q3,E2,"High school or equivalent, no college",-86
@@ -3295,7 +3295,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q2,E3,Som
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,463
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,375
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,2966
-Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,-104
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q3,E3,Some college or Associate degree,-136
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q3,E3,Some college or Associate degree,-416
@@ -3316,7 +3316,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q2,E4,Bac
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q2,E4,Bachelor's degree or advanced degree,-76
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelor's degree or advanced degree,165
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,3175
-Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,371
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q3,E4,Bachelor's degree or advanced degree,-202
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q3,E4,Bachelor's degree or advanced degree,-499
@@ -3420,12 +3420,12 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q1,E1,Less t
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.092
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than High school,0.089
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q2,E1,Less than High school,0.084
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q2,E1,Less than High school,0.084
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q2,E1,Less than High school,0.089
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.102
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less than High school,0.084
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q2,E1,Less than High school,0.089
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q4,E1,Less than High school,0.096
@@ -3442,14 +3442,14 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q1,E2,"High 
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.084
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High school or equivalent, no college",0.082
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.074
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.078
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.08
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.076
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.076
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.085
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High school or equivalent, no college",0.086
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q3,E2,"High school or equivalent, no college",0.082
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.092
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.081
@@ -3464,11 +3464,11 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some c
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q2,E3,Some college or Associate degree,0.071
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.083
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.079
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q2,E3,Some college or Associate degree,0.073
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.072
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.073
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some college or Associate degree,0.075
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.079
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.076
@@ -3486,13 +3486,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachel
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bachelor's degree or advanced degree,0.073
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q2,E4,Bachelor's degree or advanced degree,0.064
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q2,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q2,E4,Bachelor's degree or advanced degree,0.068
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.066
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.067
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bachelor's degree or advanced degree,0.072
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q3,E4,Bachelor's degree or advanced degree,0.067
@@ -3514,7 +3514,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2019Q1,1,Male,69
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,5260
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,5293
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,5581
-Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2016Q3,1,Male,-105
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2018Q3,1,Male,-1586
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2017Q3,1,Male,-1566
@@ -3534,7 +3534,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2015
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,0,All,4523
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2016Q2,0,All,4358
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,4818
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,4685
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4436
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,4650
@@ -3550,7 +3550,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.089
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Gender All,2019Q4,0,All,5054
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.09
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.087
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2015Q2,1,Male,0.083
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.087
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.089
@@ -3558,7 +3558,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2016Q2,1,Male,0.087
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2018Q2,1,Male,0.084
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.086
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.097
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.095
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.094
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.092
@@ -3574,12 +3574,12 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.1
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.098
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.095
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2015Q2,2,Female,0.087
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.087
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2016Q2,2,Female,0.09
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q2,2,Female,0.092
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.087
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.093
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.099
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.09
@@ -3601,7 +3601,7 @@ Separations,Prince Georges WIA,Maryland Separations by Gender All,2020Q1,0,All,9
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2017Q2,0,All,49080
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2018Q2,0,All,48342
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2015Q3,0,All,54945
-Separations,Prince Georges WIA,Maryland Separations by Gender All,2020Q2,0,All,0
+Separations,Prince Georges WIA,Maryland Separations by Gender All,2020Q2,0,All,TBD
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2016Q3,0,All,61041
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2019Q2,0,All,50868
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2017Q3,0,All,60035
@@ -3616,7 +3616,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.09
 Separations,Prince Georges WIA,Maryland Separations by Gender All,2017Q4,0,All,50169
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.092
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.088
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.085
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.091
@@ -3624,7 +3624,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.086
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.095
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.086
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.097
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.092
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.091
@@ -3691,7 +3691,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,
 Workers,Prince Georges WIA,Maryland Workers by Gender All,2019Q4,0,All Sexes,317976
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,4335
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,6166
-Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2018Q3,2,Female,-1405
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-1640
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender,2015Q4,2,Female,-530
@@ -3715,7 +3715,7 @@ Workers,Prince Georges WIA,Maryland Workers by Age All,2016Q1,A00,All Ages,29021
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,9917
 Workers,Prince Georges WIA,Maryland Workers by Age All,2017Q1,A00,All Ages,300811
 Workers,Prince Georges WIA,Maryland Workers by Age All,2018Q1,A00,All Ages,302624
-Job Change,Prince Georges WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,TBD
 Workers,Prince Georges WIA,Maryland Workers by Age All,2019Q1,A00,All Ages,308066
 Workers,Prince Georges WIA,Maryland Workers by Age All,2020Q1,A00,All Ages,307663
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,11459
@@ -3775,7 +3775,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age,2019Q2,A08,65-99,3431
 Separations,Prince Georges WIA,Maryland Separations by Age,2015Q3,A08,65-99,2377
 Separations,Prince Georges WIA,Maryland Separations by Age,2016Q3,A08,65-99,2724
 Separations,Prince Georges WIA,Maryland Separations by Age,2017Q3,A08,65-99,2706
-Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
+Separations,Prince Georges WIA,Maryland Separations by Age,2020Q2,A08,65-99,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age,2019Q3,A08,65-99,2885
 Separations,Prince Georges WIA,Maryland Separations by Age,2018Q3,A08,65-99,2633
 Job Change,Prince Georges WIA,Maryland Job Net Change by Gender All,2015Q4,0,All,-530
@@ -3843,7 +3843,7 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q2,A08,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q2,A08,65-99,4044
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,4468
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,4520
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,4196
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,4092
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,4262
@@ -3863,7 +3863,7 @@ Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2020Q1,E0
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2015Q2,E0,All Education Categories,6770
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2016Q2,E0,All Education Categories,10458
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2017Q2,E0,All Education Categories,9739
-Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
+Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,TBD
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2018Q2,E0,All Education Categories,8517
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,9917
 Job change,Prince Georges WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,11459
@@ -3887,7 +3887,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education All,2020Q1,E0,A
 Separations,Prince Georges WIA,Maryland Separations by Education All,2017Q2,E0,All Education Categories,49080
 Separations,Prince Georges WIA,Maryland Separations by Education All,2018Q2,E0,All Education Categories,48342
 Separations,Prince Georges WIA,Maryland Separations by Education All,2019Q2,E0,All Education Categories,50868
-Separations,Prince Georges WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
+Separations,Prince Georges WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,TBD
 Separations,Prince Georges WIA,Maryland Separations by Education All,2016Q3,E0,All Education Categories,61041
 Separations,Prince Georges WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,54945
 Separations,Prince Georges WIA,Maryland Separations by Education All,2017Q3,E0,All Education Categories,60035
@@ -3908,7 +3908,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education,2016Q2,E1,Less 
 Separations,Prince Georges WIA,Maryland Separations by Education,2020Q1,E1,Less than High school,13060
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q2,E1,Less than High school,7177
 Separations,Prince Georges WIA,Maryland Separations by Education,2018Q2,E1,Less than High school,6956
-Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,0
+Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,TBD
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,6629
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q3,E1,Less than High school,7298
 Separations,Prince Georges WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,7342
@@ -3931,7 +3931,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education,2020Q1,E2,"High
 Separations,Prince Georges WIA,Maryland Separations by Education,2018Q2,E2,"High school or equivalent, no college",10064
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q2,E2,"High school or equivalent, no college",10138
 Separations,Prince Georges WIA,Maryland Separations by Education,2019Q2,E2,"High school or equivalent, no college",10515
-Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",0
+Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q3,E2,"High school or equivalent, no college",9528
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q3,E2,"High school or equivalent, no college",10516
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",10507
@@ -3953,7 +3953,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education,2020Q1,E3,Some 
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q2,E3,Some college or Associate degree,10556
 Separations,Prince Georges WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,11071
 Separations,Prince Georges WIA,Maryland Separations by Education,2018Q2,E3,Some college or Associate degree,10554
-Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,0
+Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,TBD
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q3,E3,Some college or Associate degree,9924
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q3,E3,Some college or Associate degree,10777
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q3,E3,Some college or Associate degree,10906
@@ -3974,7 +3974,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education,2017Q2,E4,Bache
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q2,E4,Bachelor's degree or advanced degree,8127
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q2,E4,Bachelor's degree or advanced degree,8227
 Separations,Prince Georges WIA,Maryland Separations by Education,2018Q2,E4,Bachelor's degree or advanced degree,8774
-Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q3,E4,Bachelor's degree or advanced degree,8213
 Separations,Prince Georges WIA,Maryland Separations by Education,2019Q2,E4,Bachelor's degree or advanced degree,9113
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q3,E4,Bachelor's degree or advanced degree,9392
@@ -3996,7 +3996,7 @@ Separations,Prince Georges WIA,Maryland Separations by Education,2018Q1,E5,Educa
 Separations,Prince Georges WIA,Maryland Separations by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),12827
 Separations,Prince Georges WIA,Maryland Separations by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),12023
 Separations,Prince Georges WIA,Maryland Separations by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),11994
-Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Separations,Prince Georges WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Separations,Prince Georges WIA,Maryland Separations by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),20650
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),22292
 Separations,Prince Georges WIA,Maryland Separations by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),12401
@@ -4019,7 +4019,7 @@ Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q2,E5,Edu
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),8338
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),7324
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),7855
-Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),1150
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-1187
 Job Change,Prince Georges WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-3125
@@ -4035,7 +4035,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educat
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),0.205,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),0.192,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),0.199,
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.2,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),0.211,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),0.216,
@@ -4043,7 +4043,7 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educat
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),0.202,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.221,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.216,
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.215,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),0.208,
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),0.225,
@@ -4058,13 +4058,13 @@ Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2017Q2,
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,4818
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4685
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4358
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4358
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4334
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,4818
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4523
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4685
-Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,4650
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4436
 Earnings,Prince Georges WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4548
@@ -4086,7 +4086,7 @@ Separations,Prince Georges WIA,Maryland Separations by Age All,2016Q2,A00,All Ag
 Separations,Prince Georges WIA,Maryland Separations by Age All,2017Q2,A00,All Ages,49080
 Separations,Prince Georges WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,48342
 Separations,Prince Georges WIA,Maryland Separations by Age All,2019Q2,A00,All Ages,50868
-Separations,Prince Georges WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
+Separations,Prince Georges WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,TBD
 Separations,Prince Georges WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,54945
 Separations,Prince Georges WIA,Maryland Separations by Age All,2016Q3,A00,All Ages,61041
 Separations,Prince Georges WIA,Maryland Separations by Age All,2017Q3,A00,All Ages,60035
@@ -4101,13 +4101,13 @@ Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2015Q1,E0,Al
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.09
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.096
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.092
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.091
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.085
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.088
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.086
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2017Q2,E0,All Education Categories,0.091
-Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
+Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,TBD
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.095
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.086
 Turnover,Prince Georges WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Education Categories,0.091
