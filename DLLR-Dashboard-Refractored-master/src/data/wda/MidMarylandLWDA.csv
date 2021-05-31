@@ -19,7 +19,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,71,"Arts,
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1686
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1676
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1900
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-466
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q1,72,Accommodation and Food Services,1518
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q1,72,Accommodation and Food Services,1698
@@ -32,7 +32,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,72,Accomm
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,72,Accommodation and Food Services,1778
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,72,Accommodation and Food Services,1631
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,72,Accommodation and Food Services,1844
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,72,Accommodation and Food Services,1648
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,72,Accommodation and Food Services,1772
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,72,Accommodation and Food Services,1758
@@ -53,7 +53,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q1,72,Accomm
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,72,Accommodation and Food Services,919
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,72,Accommodation and Food Services,846
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,72,Accommodation and Food Services,919
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommodation and Food Services,676
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-526
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-873
@@ -97,7 +97,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q1,72,Accommod
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,72,Accommodation and Food Services,4941
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,72,Accommodation and Food Services,5135
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,72,Accommodation and Food Services,5552
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,72,Accommodation and Food Services,5682
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,72,Accommodation and Food Services,6223
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,72,Accommodation and Food Services,6468
@@ -112,7 +112,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q4,72,Accommod
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,15.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,72,Accommodation and Food Services,16
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,15.4
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodation and Food Services,14.799999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,15.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,15.5
@@ -121,7 +121,7 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommoda
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,72,Accommodation and Food Services,15.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,16.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommodation and Food Services,15.5
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,15.299999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,15.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q3,72,Accommodation and Food Services,15.9
@@ -164,7 +164,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q2,62,Health
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,62,Health Care and Social Assistance,4027
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,62,Health Care and Social Assistance,4152
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,62,Health Care and Social Assistance,4409
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,62,Health Care and Social Assistance,4015
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,62,Health Care and Social Assistance,4158
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,62,Health Care and Social Assistance,4235
@@ -185,7 +185,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,62,Health
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,62,Health Care and Social Assistance,168
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,62,Health Care and Social Assistance,262
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,62,Health Care and Social Assistance,277
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,62,Health Care and Social Assistance,279
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,113
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,108
@@ -230,7 +230,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,62,Health C
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,62,Health Care and Social Assistance,3103
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,62,Health Care and Social Assistance,3027
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,62,Health Care and Social Assistance,3169
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,62,Health Care and Social Assistance,3374
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,62,Health Care and Social Assistance,3292
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,62,Health Care and Social Assistance,3582
@@ -250,14 +250,14 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,62,Health Ca
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health Care and Social Assistance,8.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,8.200000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,7.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,8.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,8.200000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,62,Health Care and Social Assistance,8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,8.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health Care and Social Assistance,8.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,62,Health Care and Social Assistance,8.6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,8.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,7.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q3,62,Health Care and Social Assistance,8
@@ -301,7 +301,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,56,Admini
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,4317
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,4069
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,4251
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,3962
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,4135
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,4176
@@ -322,7 +322,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,56,Admini
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,1600
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,1666
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,2594
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,-28
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,-884
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,-514
@@ -366,7 +366,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,56,Administ
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,4808
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,5050
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,4774
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,5517
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,6617
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,5832
@@ -382,14 +382,14 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administr
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,13.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,13.200000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,12.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,56,Administrative and Support and Waste Management and Remediation Services,13.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,12.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,12.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,13.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,12.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,13.700000000000001
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,16.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,16
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,16
@@ -433,7 +433,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,11,"Agric
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",3398
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",3558
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",3982
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",3369
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",3025
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",3195
@@ -455,7 +455,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,11,"Agric
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",55
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",125
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",8
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-4
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",-6
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",-46
@@ -500,7 +500,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,11,"Agricul
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",299
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",216
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",122
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",149
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",145
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",135
@@ -516,10 +516,10 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agricult
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",8.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",11
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",7.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",9.4
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",15.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",11.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",14.6
@@ -565,7 +565,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,71,"Arts,
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",2294
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",2555
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",2493
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",2080
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",-970
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",-966
@@ -607,7 +607,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q1,71,"Arts, E
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",1131
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1167
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",1001
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1301
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1151
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",1863
@@ -625,13 +625,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, En
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",13.700000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",16.7
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",1599
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",13.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",15.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",13.900000000000002
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",16.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",15.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",24.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",25.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",24.6
@@ -677,7 +677,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,23,Constr
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,23,Construction,5553
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,23,Construction,4983
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,23,Construction,5352
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,23,Construction,5266
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,23,Construction,5482
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q3,23,Construction,5565
@@ -697,7 +697,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,23,Constr
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,666
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,23,Construction,947
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,23,Construction,697
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,23,Construction,152
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,-318
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,23,Construction,41
@@ -741,7 +741,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,23,Construc
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,23,Construction,2412
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,23,Construction,2324
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,23,Construction,2363
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,23,Construction,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,23,Construction,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,23,Construction,2752
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,23,Construction,3096
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,23,Construction,2729
@@ -758,10 +758,10 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construct
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,23,Construction,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,23,Construction,7.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,8.6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,8.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,23,Construction,7.8
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,23,Construction,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,23,Construction,7.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,10.4
@@ -806,7 +806,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q1,61,Educat
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,61,Educational Services,4012
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,61,Educational Services,3506
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,61,Educational Services,4161
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,61,Educational Services,4205
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,61,Educational Services,3671
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,61,Educational Services,3652
@@ -830,7 +830,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,61,Educat
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,46
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,61,Educational Services,-765
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-670
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,-153
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,261
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q3,61,Educational Services,92
@@ -883,18 +883,18 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q4,61,Educatio
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q4,61,Educational Services,1422
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q4,61,Educational Services,1474
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q4,61,Educational Services,1603
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educational Services,6.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,6.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,6.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,6.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,6.6000000000000005
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,5.6000000000000005
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,5.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,4.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educational Services,4.8
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,5.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,3.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3.5999999999999996
@@ -940,7 +940,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,52,Financ
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,52,Finance and Insurance,7279
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,52,Finance and Insurance,7208
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,52,Finance and Insurance,7511
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,52,Finance and Insurance,6867
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,52,Finance and Insurance,6960
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,52,Finance and Insurance,7317
@@ -962,7 +962,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,52,Financ
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance and Insurance,-373
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,-100
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,109
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,260
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,52,Finance and Insurance,-70
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,64
@@ -1003,7 +1003,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q1,52,Finance 
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,52,Finance and Insurance,897
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,52,Finance and Insurance,833
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,52,Finance and Insurance,877
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,52,Finance and Insurance,776
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,52,Finance and Insurance,1073
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,52,Finance and Insurance,750
@@ -1022,12 +1022,12 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance a
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,7.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,6.6000000000000005
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,6.3
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,6.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,7.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,6.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,5.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,7.199999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,6.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and Insurance,5.8999999999999995
@@ -1072,7 +1072,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,51,Inform
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,51,Information,7894
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,51,Information,8919
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,51,Information,6671
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,51,Information,8128
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,51,Information,7223
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q3,51,Information,8960
@@ -1093,7 +1093,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,51,Inform
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,51,Information,-26
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,52
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,-65
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,-50
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,51,Information,-331
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,51,Information,-53
@@ -1134,7 +1134,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q1,51,Informat
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q1,51,Information,672
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,51,Information,370
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,51,Information,473
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,51,Information,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,51,Information,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,51,Information,446
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,51,Information,368
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,51,Information,699
@@ -1152,14 +1152,14 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,51,Informati
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q4,51,Information,356
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information,5.5
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,6.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,8.200000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,5.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,7.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,6.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,6.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,5.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,51,Information,5.3
@@ -1203,7 +1203,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,55,Manage
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q2,55,Management of Companies and Enterprises,8375
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,55,Management of Companies and Enterprises,7534
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,55,Management of Companies and Enterprises,7445
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,55,Management of Companies and Enterprises,7396
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,7010
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q3,55,Management of Companies and Enterprises,7901
@@ -1225,7 +1225,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,55,Manage
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,55,Management of Companies and Enterprises,90
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,55,Management of Companies and Enterprises,40
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,58
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,-52
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,-17
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,55,Management of Companies and Enterprises,-62
@@ -1272,7 +1272,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,55,Manageme
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,55,Management of Companies and Enterprises,595
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,55,Management of Companies and Enterprises,495
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,55,Management of Companies and Enterprises,535
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,55,Management of Companies and Enterprises,486
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q3,55,Management of Companies and Enterprises,490
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q4,55,Management of Companies and Enterprises,511
@@ -1285,13 +1285,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,55,Managemen
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,55,Management of Companies and Enterprises,8.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,55,Management of Companies and Enterprises,7.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,7.3999999999999995
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,6.800000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,7.000000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,55,Management of Companies and Enterprises,8.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,55,Management of Companies and Enterprises,7.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,8.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,55,Management of Companies and Enterprises,8.6
@@ -1335,7 +1335,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,31-33,Man
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,31-33,Manufacturing,6256
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,31-33,Manufacturing,6337
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,31-33,Manufacturing,5469
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,31-33,Manufacturing,6566
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,31-33,Manufacturing,5899
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,31-33,Manufacturing,5760
@@ -1357,7 +1357,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,31-33,Man
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,77
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,31-33,Manufacturing,139
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,382
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,97
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,-25
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,31-33,Manufacturing,81
@@ -1400,7 +1400,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,31-33,Manuf
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,31-33,Manufacturing,932
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,31-33,Manufacturing,862
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,31-33,Manufacturing,1125
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,31-33,Manufacturing,1199
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,31-33,Manufacturing,968
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,31-33,Manufacturing,1009
@@ -1417,13 +1417,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufa
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,5.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufacturing,5.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,6.1
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,5.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manufacturing,5.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,31-33,Manufacturing,5.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,5.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,6.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,5.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,5.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufacturing,5.8999999999999995
@@ -1466,7 +1466,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q2,21,"Minin
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4399
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5248
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5228
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5223
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4554
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4607
@@ -1483,13 +1483,13 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q1,21,"Minin
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",38
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-9
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-2
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-6
@@ -1520,7 +1520,7 @@ New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Qua
 New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",9
 New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",14
-New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
@@ -1535,7 +1535,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,21,"Mining,
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",14
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",10
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",15
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",12
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
@@ -1544,26 +1544,26 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q4,21,"Mining,
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",13
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4.8
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3.8
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",22.2
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4.1000000000000005
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",10.6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",6.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5.3
 Workers,Mid-Maryland WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",75
@@ -1601,7 +1601,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,81,Other 
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,81,Other Services (except Public Administration),3320
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q1,81,Other Services (except Public Administration),3847
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,81,Other Services (except Public Administration),3116
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,81,Other Services (except Public Administration),3492
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q3,81,Other Services (except Public Administration),3566
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q4,81,Other Services (except Public Administration),3330
@@ -1619,7 +1619,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q1,81,Other 
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,81,Other Services (except Public Administration),157
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,81,Other Services (except Public Administration),208
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,81,Other Services (except Public Administration),242
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,81,Other Services (except Public Administration),111
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,81,Other Services (except Public Administration),233
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,81,Other Services (except Public Administration),-127
@@ -1664,7 +1664,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,81,Other Se
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,81,Other Services (except Public Administration),995
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,81,Other Services (except Public Administration),1091
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,81,Other Services (except Public Administration),1031
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,81,Other Services (except Public Administration),1096
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,81,Other Services (except Public Administration),1344
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,81,Other Services (except Public Administration),1370
@@ -1683,11 +1683,11 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Ser
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,81,Other Services (except Public Administration),9.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),8.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),9.5
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),9.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),9.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),9.6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),9.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,81,Other Services (except Public Administration),9.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),9.2
@@ -1729,7 +1729,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q1,54,"Profe
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",8668
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",8646
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",8896
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",9165
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",8165
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",10066
@@ -1754,7 +1754,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,54,"Profe
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",1237
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",341
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",752
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-313
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q3,54,"Professional, Scientific, and Technical Services",168
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",76
@@ -1797,7 +1797,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,54,"Profess
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",3716
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",3364
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",3758
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",3966
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",3876
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",4229
@@ -1813,13 +1813,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professi
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Professional, Scientific, and Technical Services",7.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",6.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",7.000000000000001
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",6.6000000000000005
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",7.000000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",7.000000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",7.3
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",8.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",7.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7.199999999999999
@@ -1864,7 +1864,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,92,Public
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,92,Public Administration,5010
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,92,Public Administration,5156
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,92,Public Administration,4654
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,92,Public Administration,5241
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,92,Public Administration,5302
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,92,Public Administration,5540
@@ -1884,7 +1884,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,92,Public
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q1,92,Public Administration,85
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,92,Public Administration,155
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,92,Public Administration,122
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,92,Public Administration,120
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-218
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-210
@@ -1929,7 +1929,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,92,Public A
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,92,Public Administration,289
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,92,Public Administration,348
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,92,Public Administration,330
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,92,Public Administration,692
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,92,Public Administration,716
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,92,Public Administration,688
@@ -1946,13 +1946,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Ad
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,3.5000000000000004
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,3.6999999999999997
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,4
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,3.5000000000000004
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,3.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,92,Public Administration,3.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,3.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,4.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,92,Public Administration,3.5000000000000004
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q3,92,Public Administration,3.5000000000000004
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Administration,3.2
@@ -1994,7 +1994,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,53,Real E
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q2,53,Real Estate and Rental and Leasing,5337
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,53,Real Estate and Rental and Leasing,5243
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,53,Real Estate and Rental and Leasing,5212
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,53,Real Estate and Rental and Leasing,5372
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,53,Real Estate and Rental and Leasing,5125
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,53,Real Estate and Rental and Leasing,5659
@@ -2013,7 +2013,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q1,53,Real E
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q1,53,Real Estate and Rental and Leasing,39
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q1,53,Real Estate and Rental and Leasing,-190
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,53,Real Estate and Rental and Leasing,86
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,53,Real Estate and Rental and Leasing,98
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,53,Real Estate and Rental and Leasing,113
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,94
@@ -2061,7 +2061,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,53,Real Est
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,53,Real Estate and Rental and Leasing,443
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,53,Real Estate and Rental and Leasing,408
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,53,Real Estate and Rental and Leasing,453
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,53,Real Estate and Rental and Leasing,438
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,53,Real Estate and Rental and Leasing,406
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,53,Real Estate and Rental and Leasing,489
@@ -2077,13 +2077,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Esta
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,7.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,7.8
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,7.199999999999999
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,53,Real Estate and Rental and Leasing,8.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,53,Real Estate and Rental and Leasing,9.700000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,8.200000000000001
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Estate and Rental and Leasing,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate and Rental and Leasing,9
@@ -2127,7 +2127,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,44-45,Ret
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,44-45,Retail Trade,2853
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,44-45,Retail Trade,2886
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,44-45,Retail Trade,2989
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,44-45,Retail Trade,2796
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q3,44-45,Retail Trade,2951
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,44-45,Retail Trade,3053
@@ -2148,7 +2148,7 @@ Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,44-45,Ret
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,44-45,Retail Trade,320
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,44-45,Retail Trade,170
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,44-45,Retail Trade,344
-Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,0
+Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,TBD
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,44-45,Retail Trade,227
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-82
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q3,44-45,Retail Trade,-24
@@ -2193,7 +2193,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q2,44-45,Retai
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,44-45,Retail Trade,4448
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,44-45,Retail Trade,4361
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,44-45,Retail Trade,4449
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,44-45,Retail Trade,5095
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,44-45,Retail Trade,5677
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,44-45,Retail Trade,5182
@@ -2209,13 +2209,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Retail
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,12.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail Trade,11.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.1
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,9.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,9.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,10.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,9.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,9.5
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Trade,10
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,10.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,10.2
@@ -2269,7 +2269,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q4,48-49,Tra
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q4,48-49,Transportation and Warehousing,4179
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q4,48-49,Transportation and Warehousing,4038
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q4,48-49,Transportation and Warehousing,4097
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q1,48-49,Transportation and Warehousing,46
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q1,48-49,Transportation and Warehousing,-80
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q1,48-49,Transportation and Warehousing,220
@@ -2281,7 +2281,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,48-49,Tra
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Transportation and Warehousing,85
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,48-49,Transportation and Warehousing,55
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,48-49,Transportation and Warehousing,40
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,-27
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,47
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q3,48-49,Transportation and Warehousing,7
@@ -2325,7 +2325,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,48-49,Trans
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,48-49,Transportation and Warehousing,829
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,48-49,Transportation and Warehousing,780
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,48-49,Transportation and Warehousing,789
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,48-49,Transportation and Warehousing,618
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,48-49,Transportation and Warehousing,946
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,48-49,Transportation and Warehousing,750
@@ -2340,14 +2340,14 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transp
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transportation and Warehousing,8.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,8.200000000000001
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Transportation and Warehousing,9.2
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,9.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,7.8
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,6.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,48-49,Transportation and Warehousing,9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,7.3999999999999995
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,7.9
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,8.9
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,8.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,10.2
@@ -2391,7 +2391,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,22,Utilit
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q2,22,Utilities,6281
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,22,Utilities,6864
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,22,Utilities,6918
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,22,Utilities,6211
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q3,22,Utilities,7654
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,22,Utilities,7043
@@ -2412,7 +2412,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q2,22,Utilit
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,22,Utilities,-5
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,22,Utilities,10
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,6
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,4
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,-10
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-7
@@ -2459,7 +2459,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q2,22,Utilitie
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,22,Utilities,16
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,22,Utilities,21
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,22,Utilities,22
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,22,Utilities,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,22,Utilities,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q3,22,Utilities,27
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,22,Utilities,18
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q3,22,Utilities,66
@@ -2472,13 +2472,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,3.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,3.6999999999999997
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.9000000000000004
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,3.5999999999999996
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,2.8000000000000003
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,22,Utilities,3.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utilities,4.3999999999999995
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utilities,4.2
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,2.6
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,3
@@ -2523,7 +2523,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q2,42,Wholes
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q2,42,Wholesale Trade,6582
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2019Q2,42,Wholesale Trade,6921
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2018Q2,42,Wholesale Trade,6928
-Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,0
+Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2015Q3,42,Wholesale Trade,6960
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2017Q3,42,Wholesale Trade,6881
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2016Q3,42,Wholesale Trade,7137
@@ -2544,7 +2544,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q1,42,Wholes
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q2,42,Wholesale Trade,496
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2018Q2,42,Wholesale Trade,303
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2017Q2,42,Wholesale Trade,281
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,48
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,284
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,156
@@ -2589,7 +2589,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q1,42,Wholesal
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q2,42,Wholesale Trade,1680
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2018Q2,42,Wholesale Trade,1660
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2019Q2,42,Wholesale Trade,1942
-Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,0
+Separations,Mid-Maryland WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2015Q3,42,Wholesale Trade,1811
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2016Q3,42,Wholesale Trade,1946
 Separations,Mid-Maryland WIA,Maryland Separations by Industry,2017Q3,42,Wholesale Trade,1932
@@ -2605,12 +2605,12 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale Trade,6.5
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,6.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,6.7
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,6.7
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,42,Wholesale Trade,6.3
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,6.6000000000000005
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,6
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.4
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,7.1
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,7.199999999999999
@@ -2655,7 +2655,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q2,A01,14
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,14-18,655
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-18,670
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,712
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,688
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,758
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,755
@@ -2677,7 +2677,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q2,A02,19
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A02,19-21,1327
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1376
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1464
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1302
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1425
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1441
@@ -2699,7 +2699,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q2,A03,22
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A03,22-24,2557
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2678
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2843
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2352
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2601
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A03,22-24,2609
@@ -2722,7 +2722,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A04,25
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,4344
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,4524
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,4048
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A04,25-34,4381
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,4236
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,4333
@@ -2744,7 +2744,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A05,35
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,6077
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,5865
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,5518
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,5765
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A05,35-44,5904
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,5869
@@ -2765,7 +2765,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q2,A06,45
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A06,45-54,6226
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45-54,6460
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,6637
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,6438
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,6004
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,6252
@@ -2788,7 +2788,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q2,A07,55
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,6269
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,6445
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5813
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,6162
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,6086
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q3,A07,55-64,6316
@@ -2963,7 +2963,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A01,14-18,2120
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A01,14-18,2048
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A01,14-18,1945
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A01,14-18,2119
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A01,14-18,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A01,14-18,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A01,14-18,3994
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q3,A01,14-18,4733
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A01,14-18,4507
@@ -2984,7 +2984,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q2,A02,19-21,3130
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A02,19-21,3350
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A02,19-21,3207
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A02,19-21,3264
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A02,19-21,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A02,19-21,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A02,19-21,3233
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q3,A02,19-21,6673
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A02,19-21,6165
@@ -3005,7 +3005,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q2,A03,22-24,3666
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q1,A03,22-24,4168
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A03,22-24,3447
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A03,22-24,3698
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A03,22-24,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A03,22-24,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A03,22-24,3674
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A03,22-24,3505
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A03,22-24,4448
@@ -3030,7 +3030,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A04,25-34,8736
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A04,25-34,8868
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A04,25-34,9105
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A04,25-34,9184
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A04,25-34,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A04,25-34,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q3,A04,25-34,9252
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A04,25-34,10022
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q3,A04,25-34,9300
@@ -3052,7 +3052,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A05,35-44,5793
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A05,35-44,5869
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A05,35-44,6171
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A05,35-44,5668
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A05,35-44,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A05,35-44,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q3,A05,35-44,5599
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A05,35-44,6115
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q3,A05,35-44,6084
@@ -3074,7 +3074,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q1,A06,45-54,4201
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q3,A06,45-54,4644
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A06,45-54,5220
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A06,45-54,5206
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A06,45-54,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A06,45-54,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A06,45-54,5081
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A06,45-54,4977
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q3,A06,45-54,4904
@@ -3095,7 +3095,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q2,A07,55-64,3579
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A07,55-64,3366
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A07,55-64,3707
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A07,55-64,3877
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A07,55-64,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A07,55-64,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A07,55-64,3510
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A07,55-64,3319
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q3,A07,55-64,3380
@@ -3117,7 +3117,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q2,1,M
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Male,6144
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q2,1,Male,6340
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,6512
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,6327
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5897
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,6174
@@ -3137,7 +3137,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q2,2,F
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q1,2,Female,4769
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2016Q2,2,Female,3800
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Female,3999
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3795
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,4101
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,4253
@@ -3207,7 +3207,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Gender,2018Q2,1,Male,18113
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2015Q3,1,Male,20306
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2019Q2,1,Male,18089
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2016Q3,1,Male,21951
-Separations,Mid-Maryland WIA,Maryland Separations by Gender,2020Q2,1,Male,0
+Separations,Mid-Maryland WIA,Maryland Separations by Gender,2020Q2,1,Male,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2017Q3,1,Male,20489
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2019Q3,1,Male,21782
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2017Q4,1,Male,18950
@@ -3227,7 +3227,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Gender,2020Q1,2,Female,2453
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2017Q2,2,Female,16645
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2018Q2,2,Female,16789
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2019Q2,2,Female,17280
-Separations,Mid-Maryland WIA,Maryland Separations by Gender,2020Q2,2,Female,0
+Separations,Mid-Maryland WIA,Maryland Separations by Gender,2020Q2,2,Female,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2017Q3,2,Female,19335
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2015Q3,2,Female,19146
 Separations,Mid-Maryland WIA,Maryland Separations by Gender,2016Q3,2,Female,20496
@@ -3249,7 +3249,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q2,E1,Less 
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q2,E1,Less than High school,238
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q2,E1,Less than High school,373
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q2,E1,Less than High school,251
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,277
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,-179
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q3,E1,Less than High school,116
@@ -3271,7 +3271,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q2,E2,"High
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q2,E2,"High school or equivalent, no college",182
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q2,E2,"High school or equivalent, no college",368
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",103
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",259
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",-251
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q3,E2,"High school or equivalent, no college",-14
@@ -3293,7 +3293,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q2,E3,Some 
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q2,E3,Some college or Associate degree,-109
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q2,E3,Some college or Associate degree,-137
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,147
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,212
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,-244
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,40
@@ -3314,7 +3314,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q1,E4,Bache
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q2,E4,Bachelor's degree or advanced degree,-474
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q2,E4,Bachelor's degree or advanced degree,32
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,150
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelor's degree or advanced degree,-109
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,-294
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachelor's degree or advanced degree,-514
@@ -3418,7 +3418,7 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less tha
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E1,Less than High school,0.091
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.094
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E1,Less than High school,0.09
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than High school,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q2,E1,Less than High school,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q2,E1,Less than High school,0.087
@@ -3428,7 +3428,7 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less tha
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.102
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q2,E1,Less than High school,0.086
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.094
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.094
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q3,E1,Less than High school,0.102
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q4,E1,Less than High school,0.091
@@ -3441,11 +3441,11 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High sc
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.076
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High school or equivalent, no college",0.08
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E2,"High school or equivalent, no college",0.076
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.072
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.075
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.072
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.072
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.074
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.083
@@ -3463,13 +3463,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some col
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.077
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.073
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.074
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q2,E3,Some college or Associate degree,0.072
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some college or Associate degree,0.069
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q2,E3,Some college or Associate degree,0.069
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.07
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.071
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.078
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.074
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.074
@@ -3485,13 +3485,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q1,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachelor's degree or advanced degree,0.067
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q2,E4,Bachelor's degree or advanced degree,0.061
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q2,E4,Bachelor's degree or advanced degree,0.061
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q2,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.066
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bachelor's degree or advanced degree,0.063
@@ -3511,7 +3511,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2017Q2,1,Male,4083
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2018Q1,1,Male,856
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2015Q2,1,Male,4647
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2016Q2,1,Male,4674
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,3725
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,4646
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2016Q3,1,Male,-1966
@@ -3536,7 +3536,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q2
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,4899
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,5260
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,5424
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,5227
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,5116
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender All,2018Q3,0,All,5286
@@ -3552,12 +3552,12 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.082
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.081
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.083
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2015Q2,1,Male,0.08
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q2,1,Male,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.082
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.083
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2018Q2,1,Male,0.082
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.096
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.09
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.09
@@ -3573,13 +3573,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.089
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0.092
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.088
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2015Q2,2,Female,0.085
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q2,2,Female,0.086
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q2,2,Female,0.088
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.086
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.087
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.091
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.088
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.087
@@ -3604,7 +3604,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2019Q2,0,All,353
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2016Q3,0,All,42448
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2015Q3,0,All,39453
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2018Q3,0,All,41198
-Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2020Q2,0,All,0
+Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2020Q2,0,All,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2017Q3,0,All,39825
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2019Q3,0,All,42775
 Separations,Mid-Maryland WIA,Maryland Separations by Gender All,2015Q4,0,All,36724
@@ -3617,13 +3617,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,0.08
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.085
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.085
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.088
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.083
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.086
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.085
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.089
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.089
@@ -3688,7 +3688,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2019Q1,2,Female,71
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2017Q2,2,Female,2108
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2016Q2,2,Female,2454
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2018Q2,2,Female,2365
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,2883
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-534
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-1298
@@ -3709,7 +3709,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2020Q1,0,All,-
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2015Q2,0,All,6949
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2016Q2,0,All,7116
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,7521
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,6084
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2017Q2,0,All,6181
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-687
@@ -3750,7 +3750,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q2,A08,65-99,1775
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q2,A08,65-99,1863
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2019Q2,A08,65-99,2223
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2018Q2,A08,65-99,2089
-Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age,2020Q2,A08,65-99,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2015Q3,A08,65-99,1777
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2016Q3,A08,65-99,1885
 Separations,Mid-Maryland WIA,Maryland Separations by Age,2017Q3,A08,65-99,1677
@@ -3817,7 +3817,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q2,A08,65
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,4664
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,4627
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,4285
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,4454
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,4371
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2019Q3,A08,65-99,4777
@@ -3838,7 +3838,7 @@ Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2017Q2,E0,A
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2016Q2,E0,All Education Categories,7116
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2018Q2,E0,All Education Categories,6084
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,7521
-Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
+Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,TBD
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,-687
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2017Q3,E0,All Education Categories,-2316
 Job change,Mid-Maryland WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-2693
@@ -3858,7 +3858,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education All,2019Q1,E0,All
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2015Q2,E0,All Education Categories,33960
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2016Q2,E0,All Education Categories,33755
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2017Q2,E0,All Education Categories,34139
-Separations,Mid-Maryland WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
+Separations,Mid-Maryland WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2019Q2,E0,All Education Categories,35369
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2018Q2,E0,All Education Categories,34902
 Separations,Mid-Maryland WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,39453
@@ -3882,7 +3882,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q2,E1,Less th
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q2,E1,Less than High school,4024
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,4314
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q2,E1,Less than High school,4073
-Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,0
+Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,3958
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q3,E1,Less than High school,4028
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q3,E1,Less than High school,4502
@@ -3902,7 +3902,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q2,E2,"High s
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2019Q1,E2,"High school or equivalent, no college",6017
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q2,E2,"High school or equivalent, no college",6881
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q2,E2,"High school or equivalent, no college",6771
-Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",0
+Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q3,E2,"High school or equivalent, no college",7319
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",6669
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q3,E2,"High school or equivalent, no college",6731
@@ -3926,7 +3926,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q1,E3,Some co
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q2,E3,Some college or Associate degree,7390
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,7798
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q2,E3,Some college or Associate degree,7675
-Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,0
+Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q3,E3,Some college or Associate degree,7222
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q3,E3,Some college or Associate degree,7807
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q3,E3,Some college or Associate degree,7234
@@ -3971,7 +3971,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q2,E4,Bachelo
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q2,E4,Bachelor's degree or advanced degree,7175
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q3,E4,Bachelor's degree or advanced degree,6934
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2019Q2,E4,Bachelor's degree or advanced degree,7283
-Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q3,E4,Bachelor's degree or advanced degree,7109
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q3,E4,Bachelor's degree or advanced degree,6621
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q3,E4,Bachelor's degree or advanced degree,6814
@@ -3993,7 +3993,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q2,E5,Educati
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),8831
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),8857
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),14607
-Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Separations,Mid-Maryland WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),15273
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),15710
 Separations,Mid-Maryland WIA,Maryland Separations by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),15784
@@ -4015,7 +4015,7 @@ Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q2,E5,Educa
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),6444
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),6775
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-1595
-Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2015Q4,0,All,1561
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-2315
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-2619
@@ -4036,12 +4036,12 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educatio
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Gender All,2019Q4,0,All,-700
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),0.184,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),0.206,
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.196,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),0.208,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),0.207,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),0.208,
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.225,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.218,
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.217,
@@ -4058,7 +4058,7 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,5117
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5424
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,5260
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4899
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,5227
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,5116
@@ -4080,7 +4080,7 @@ Separations,Mid-Maryland WIA,Maryland Separations by Age All,2017Q2,A00,All Ages
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2016Q2,A00,All Ages,33755
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,34902
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2019Q2,A00,All Ages,35369
-Separations,Mid-Maryland WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
+Separations,Mid-Maryland WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,TBD
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,39453
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2016Q3,A00,All Ages,42448
 Separations,Mid-Maryland WIA,Maryland Separations by Age All,2018Q3,A00,All Ages,41198
@@ -4096,13 +4096,13 @@ Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All 
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.088
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.085
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.085
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2017Q2,E0,All Education Categories,0.084
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.083
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.086
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.085
-Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
+Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,TBD
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.093
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.089
 Turnover,Mid-Maryland WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.089
@@ -4117,5 +4117,5 @@ Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A0
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4868
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5424
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,5260
-Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,5117
