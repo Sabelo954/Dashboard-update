@@ -14,7 +14,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,72,Ac
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,72,Accommodation and Food Services,1803
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,72,Accommodation and Food Services,1846
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,72,Accommodation and Food Services,1940
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,72,Accommodation and Food Services,1665
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,72,Accommodation and Food Services,1779
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,72,Accommodation and Food Services,1759
@@ -36,7 +36,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,72,Ac
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,72,Accommodation and Food Services,927
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,72,Accommodation and Food Services,1213
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommodation and Food Services,1452
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-401
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-630
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,72,Accommodation and Food Services,-413
@@ -80,7 +80,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,72,Acco
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,72,Accommodation and Food Services,8609
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,72,Accommodation and Food Services,8477
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,72,Accommodation and Food Services,8630
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,72,Accommodation and Food Services,9033
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,72,Accommodation and Food Services,9541
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,72,Accommodation and Food Services,9399
@@ -96,13 +96,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accom
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,15.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodation and Food Services,14.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,15.5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,14.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,15.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommodation and Food Services,15.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,72,Accommodation and Food Services,15.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommodation and Food Services,15
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,16.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,15.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,15.4
@@ -146,7 +146,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,62,He
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,62,Health Care and Social Assistance,3903
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,62,Health Care and Social Assistance,4066
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,62,Health Care and Social Assistance,4141
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,62,Health Care and Social Assistance,3881
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,62,Health Care and Social Assistance,4079
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,62,Health Care and Social Assistance,3911
@@ -168,7 +168,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,62,He
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,62,Health Care and Social Assistance,478
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,62,Health Care and Social Assistance,457
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,62,Health Care and Social Assistance,1672
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,341
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,415
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,199
@@ -212,7 +212,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,62,Heal
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,62,Health Care and Social Assistance,7552
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,62,Health Care and Social Assistance,7445
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,62,Health Care and Social Assistance,8211
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,62,Health Care and Social Assistance,7823
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,62,Health Care and Social Assistance,8432
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,62,Health Care and Social Assistance,8444
@@ -233,13 +233,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,62,Healt
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,8.200000000000001
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,62,Health Care and Social Assistance,7.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,8.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,62,Health Care and Social Assistance,8.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health Care and Social Assistance,8.7
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care and Social Assistance,8.200000000000001
@@ -283,7 +283,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,56,Ad
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,3434
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,3528
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,3684
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,3206
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,3491
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,3477
@@ -305,7 +305,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,56,Ad
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,477
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,1482
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,1128
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,683
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,628
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,385
@@ -348,7 +348,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,56,Admi
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q4,56,Administrative and Support and Waste Management and Remediation Services,9516
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,11033
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,11003
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,11752
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,12006
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,10272
@@ -360,14 +360,14 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,56,Admin
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,11972
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,56,Administrative and Support and Waste Management and Remediation Services,13.900000000000002
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,56,Administrative and Support and Waste Management and Remediation Services,11382
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,14.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,14.899999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,14.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,13.700000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,15.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,14.299999999999999
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,17.599999999999998
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,16.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,16.2
@@ -411,7 +411,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,11,"A
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",4006
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",3948
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",3106
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",3648
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",3395
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",3327
@@ -433,7 +433,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,11,"A
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",43
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",56
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",19
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-3
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",-4
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",-30
@@ -479,7 +479,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,11,"Agr
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",117
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",73
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",84
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q4,11,"Agriculture, Forestry, Fishing and Hunting",67
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",86
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",57
@@ -492,13 +492,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agri
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",100
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",10.100000000000001
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.800000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",8.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",6.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",6.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",7.8
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",11
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",11
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",9.4
@@ -543,7 +543,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,71,"A
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",2586
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",3680
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",3445
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",3007
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",3549
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",2948
@@ -565,7 +565,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,71,"A
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",2505
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",2810
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",2562
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-1746
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-1965
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",-1893
@@ -611,7 +611,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,71,"Art
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1324
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",3687
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",3874
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",3930
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",3976
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",3953
@@ -625,7 +625,7 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",11.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",11.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",12
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",11.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",12.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",12.4
@@ -634,7 +634,7 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",24.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",19.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",19
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",18.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",21
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q4,71,"Arts, Entertainment, and Recreation",11.200000000000001
@@ -675,7 +675,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,23,Co
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,23,Construction,5237
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,23,Construction,5531
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,23,Construction,5414
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,23,Construction,5170
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,23,Construction,5400
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,23,Construction,5343
@@ -697,7 +697,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,23,Co
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,23,Construction,1880
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,23,Construction,1278
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,980
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,23,Construction,52
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,830
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,-82
@@ -746,7 +746,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,23,Cons
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,23,Construction,4518
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,23,Construction,4298
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,23,Construction,4091
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,23,Construction,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,23,Construction,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q4,23,Construction,4853
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q4,23,Construction,4235
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,23,Construction,4142
@@ -757,9 +757,9 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,23,Const
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,23,Construction,8.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,8.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,23,Construction,7.8
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,9.3
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,8.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,11.700000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,23,Construction,10.6
@@ -807,7 +807,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,61,Ed
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,61,Educational Services,3522
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,61,Educational Services,4758
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,61,Educational Services,4614
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,61,Educational Services,3358
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q3,61,Educational Services,3459
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,61,Educational Services,3645
@@ -829,7 +829,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,61,Ed
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,61,Educational Services,-1997
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,61,Educational Services,-2472
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-2914
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,559
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,212
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,355
@@ -875,7 +875,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,61,Educ
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,61,Educational Services,7307
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,61,Educational Services,4228
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,61,Educational Services,5075
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,61,Educational Services,4833
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q4,61,Educational Services,3371
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,61,Educational Services,4701
@@ -888,14 +888,14 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educa
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,7.3999999999999995
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,61,Educational Services,3518
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,8.4
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,9.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,5.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,4.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educational Services,4.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,4.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,4.6
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,4.1000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,3.5999999999999996
@@ -938,7 +938,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q1,52,Fi
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,52,Finance and Insurance,7119
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,52,Finance and Insurance,8502
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,52,Finance and Insurance,8367
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,52,Finance and Insurance,7093
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,52,Finance and Insurance,7710
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,52,Finance and Insurance,7616
@@ -961,7 +961,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,52,Fi
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,52,Finance and Insurance,244
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,186
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance and Insurance,-17
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,606
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,30
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q3,52,Finance and Insurance,-323
@@ -1005,7 +1005,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,52,Fina
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,52,Finance and Insurance,1723
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,52,Finance and Insurance,1504
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,52,Finance and Insurance,1757
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,52,Finance and Insurance,2141
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q4,52,Finance and Insurance,2150
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,52,Finance and Insurance,1840
@@ -1021,13 +1021,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,52,Finan
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and Insurance,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,5.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,5.4
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,5.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,4.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,5.7
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and Insurance,5.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,5.6000000000000005
@@ -1067,7 +1067,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q1,51,In
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q1,51,Information,8932
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q1,51,Information,8025
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,51,Information,6061
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,51,Information,6473
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,51,Information,6477
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,51,Information,5712
@@ -1094,7 +1094,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,51,In
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,90
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,88
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,157
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,51,Information,-165
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-69
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q4,51,Information,39
@@ -1139,7 +1139,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,51,Info
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,51,Information,700
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,51,Information,727
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,51,Information,694
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,51,Information,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,51,Information,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,51,Information,736
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,51,Information,704
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,51,Information,741
@@ -1153,13 +1153,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,51,Infor
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,51,Information,13.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,6.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,6
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,6.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,10.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,5.800000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,5.6000000000000005
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,7.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,51,Information,6.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q4,51,Information,6.6000000000000005
@@ -1203,7 +1203,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,55,Ma
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,55,Management of Companies and Enterprises,6155
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,55,Management of Companies and Enterprises,6352
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,55,Management of Companies and Enterprises,6260
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,5997
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q3,55,Management of Companies and Enterprises,6624
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,55,Management of Companies and Enterprises,6442
@@ -1229,7 +1229,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,55,Ma
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,-78
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,55,Management of Companies and Enterprises,-89
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q3,55,Management of Companies and Enterprises,-59
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,55,Management of Companies and Enterprises,47
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q4,55,Management of Companies and Enterprises,41
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q4,55,Management of Companies and Enterprises,-144
@@ -1271,7 +1271,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,55,Mana
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q1,55,Management of Companies and Enterprises,299
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,55,Management of Companies and Enterprises,447
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,55,Management of Companies and Enterprises,430
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,55,Management of Companies and Enterprises,410
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,55,Management of Companies and Enterprises,502
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,55,Management of Companies and Enterprises,412
@@ -1286,13 +1286,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,55,Manag
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,6.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,5.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,5.8999999999999995
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,5.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,55,Management of Companies and Enterprises,5.8999999999999995
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,55,Management of Companies and Enterprises,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,55,Management of Companies and Enterprises,6.2
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,55,Management of Companies and Enterprises,6.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,6.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,6.3
@@ -1335,7 +1335,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,31-33
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,31-33,Manufacturing,5375
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,31-33,Manufacturing,5821
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,31-33,Manufacturing,6025
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,31-33,Manufacturing,5096
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,31-33,Manufacturing,5648
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q3,31-33,Manufacturing,5779
@@ -1358,7 +1358,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,31-33
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,178
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,267
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,-140
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,31-33,Manufacturing,-181
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,-103
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,31-33,Manufacturing,39
@@ -1400,7 +1400,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,31-33,M
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,31-33,Manufacturing,1064
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,31-33,Manufacturing,1053
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,31-33,Manufacturing,959
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,31-33,Manufacturing,1312
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,31-33,Manufacturing,1297
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,31-33,Manufacturing,1197
@@ -1417,13 +1417,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Ma
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,5.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufacturing,4.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,5.4
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,4.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manufacturing,4.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,31-33,Manufacturing,5.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,5.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,5.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufacturing,5.7
@@ -1466,7 +1466,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,21,"M
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6010
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3852
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5581
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4399
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7389
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4216
@@ -1489,7 +1489,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,21,"M
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-5
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",7
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",1
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-2
@@ -1501,43 +1501,43 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q4,21,"M
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",9
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",8
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",17
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",9
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Baltimore County WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Baltimore County WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8
-Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",12
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",13
 Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8
-Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",13
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",10
-Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",9
-Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
@@ -1545,23 +1545,23 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q4,21,"Min
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8.9
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3.1
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3.4000000000000004
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4.5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3.5000000000000004
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",2.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",11.5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5.3
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5.800000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4.3999999999999995
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",8.1
@@ -1598,7 +1598,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,81,Ot
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,81,Other Services (except Public Administration),3459
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,81,Other Services (except Public Administration),3285
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,81,Other Services (except Public Administration),3076
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,81,Other Services (except Public Administration),3647
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,81,Other Services (except Public Administration),3298
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,81,Other Services (except Public Administration),3290
@@ -1624,7 +1624,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,81,Ot
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),139
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-31
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,81,Other Services (except Public Administration),-118
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,81,Other Services (except Public Administration),-94
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q3,81,Other Services (except Public Administration),-31
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q4,81,Other Services (except Public Administration),32
@@ -1664,7 +1664,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,81,Othe
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,81,Other Services (except Public Administration),1850
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,81,Other Services (except Public Administration),2018
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,81,Other Services (except Public Administration),1875
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,81,Other Services (except Public Administration),1920
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,81,Other Services (except Public Administration),2048
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,81,Other Services (except Public Administration),2103
@@ -1679,14 +1679,14 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,81,Othe
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Services (except Public Administration),8.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),8.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,81,Other Services (except Public Administration),8
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),8.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),8.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,81,Other Services (except Public Administration),9.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),8.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),8.4
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),8.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),8.799999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,81,Other Services (except Public Administration),9
@@ -1731,7 +1731,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,54,"P
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",6681
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",6937
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",6456
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",6505
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",6519
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",6722
@@ -1753,7 +1753,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,54,"P
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",-361
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",276
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",-64
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",-65
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",-124
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-486
@@ -1797,7 +1797,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,54,"Pro
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",4178
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",4175
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",3856
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",4112
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",3675
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",3801
@@ -1812,11 +1812,11 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,54,"Prof
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Professional, Scientific, and Technical Services",7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",7.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",8.5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",8.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",7.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",7.6
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",7.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",8.6
@@ -1863,7 +1863,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,92,Pu
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,92,Public Administration,4337
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,92,Public Administration,4991
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,92,Public Administration,5257
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,92,Public Administration,4695
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,92,Public Administration,4915
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,92,Public Administration,4615
@@ -1884,7 +1884,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,92,Pu
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,92,Public Administration,-160
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,92,Public Administration,83
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,92,Public Administration,51
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,92,Public Administration,-2
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-81
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-196
@@ -1928,7 +1928,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q1,92,Publ
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,92,Public Administration,794
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,92,Public Administration,500
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,92,Public Administration,521
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,92,Public Administration,589
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,92,Public Administration,546
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,92,Public Administration,658
@@ -1942,14 +1942,14 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,92,Publ
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,92,Public Administration,378
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,3.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.6999999999999997
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,2.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,3.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,2.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,3.6999999999999997
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,2.8000000000000003
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,4.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,92,Public Administration,3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,2.7
@@ -1992,7 +1992,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q1,53,Re
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,53,Real Estate and Rental and Leasing,5008
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q1,53,Real Estate and Rental and Leasing,5847
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q2,53,Real Estate and Rental and Leasing,5043
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,53,Real Estate and Rental and Leasing,5423
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,53,Real Estate and Rental and Leasing,5215
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,53,Real Estate and Rental and Leasing,5681
@@ -2018,7 +2018,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,53,Re
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,53,Real Estate and Rental and Leasing,116
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,74
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,53,Real Estate and Rental and Leasing,27
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,53,Real Estate and Rental and Leasing,-73
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,54
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q1,53,Real Estate and Rental and Leasing,-225
@@ -2060,7 +2060,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,53,Real
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,53,Real Estate and Rental and Leasing,724
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,53,Real Estate and Rental and Leasing,720
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,53,Real Estate and Rental and Leasing,782
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,53,Real Estate and Rental and Leasing,698
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,53,Real Estate and Rental and Leasing,955
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,53,Real Estate and Rental and Leasing,784
@@ -2075,7 +2075,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,53,Real
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,7.000000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,6.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,6.800000000000001
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,6.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,53,Real Estate and Rental and Leasing,6.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,7.3999999999999995
@@ -2083,7 +2083,7 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real 
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,6.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,53,Real Estate and Rental and Leasing,6.800000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,6.2
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate and Rental and Leasing,7.3999999999999995
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,53,Real Estate and Rental and Leasing,7.5
@@ -2131,7 +2131,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,44-45
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,44-45,Retail Trade,2869
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q3,44-45,Retail Trade,2986
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,44-45,Retail Trade,2789
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q4,44-45,Retail Trade,2923
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q4,44-45,Retail Trade,2982
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q4,44-45,Retail Trade,2890
@@ -2150,7 +2150,7 @@ Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,44-45
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,44-45,Retail Trade,224
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,44-45,Retail Trade,578
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-371
-Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,0
+Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,TBD
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-198
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,44-45,Retail Trade,-258
 Job change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q3,44-45,Retail Trade,-270
@@ -2194,7 +2194,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,44-45,R
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,44-45,Retail Trade,9100
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,44-45,Retail Trade,10446
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,44-45,Retail Trade,9205
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,44-45,Retail Trade,11072
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,44-45,Retail Trade,9743
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,44-45,Retail Trade,9712
@@ -2209,12 +2209,12 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,44-45,R
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,10.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,12.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Retail Trade,11.799999999999999
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,10.100000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,10.100000000000001
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q4,44-45,Retail Trade,10718
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,10.2
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,11.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,10.4
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,11.200000000000001
@@ -2260,7 +2260,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,48-49
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,48-49,Transportation and Warehousing,5745
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,48-49,Transportation and Warehousing,5333
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,48-49,Transportation and Warehousing,3769
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,48-49,Transportation and Warehousing,5272
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q3,48-49,Transportation and Warehousing,5351
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,48-49,Transportation and Warehousing,3998
@@ -2281,7 +2281,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,48-49
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,48-49,Transportation and Warehousing,332
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Transportation and Warehousing,449
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,48-49,Transportation and Warehousing,739
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,170
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q3,48-49,Transportation and Warehousing,213
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,237
@@ -2326,7 +2326,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,48-49,T
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,48-49,Transportation and Warehousing,1692
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,48-49,Transportation and Warehousing,1175
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,48-49,Transportation and Warehousing,1800
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,48-49,Transportation and Warehousing,1294
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,48-49,Transportation and Warehousing,1785
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,48-49,Transportation and Warehousing,1864
@@ -2337,7 +2337,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q4,48-49,T
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transportation and Warehousing,8.3
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q4,48-49,Transportation and Warehousing,5907
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transportation and Warehousing,8.799999999999999
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,6.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Transportation and Warehousing,7.7
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,12.4
@@ -2346,7 +2346,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q4,48-49,T
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,6.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,6.2
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,48-49,Transportation and Warehousing,6.9
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,7.199999999999999
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,9.9
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,8.1
@@ -2393,7 +2393,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,22,Ut
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,22,Utilities,7541
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,22,Utilities,7080
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,22,Utilities,6742
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q3,22,Utilities,7689
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q3,22,Utilities,7218
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,22,Utilities,7529
@@ -2412,7 +2412,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q2,22,Ut
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q2,22,Utilities,-36
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,-11
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,76
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,22,Utilities,-28
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,-13
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q3,22,Utilities,-49
@@ -2457,7 +2457,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,22,Util
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q2,22,Utilities,110
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,22,Utilities,110
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,22,Utilities,38
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,22,Utilities,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,22,Utilities,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,22,Utilities,65
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q3,22,Utilities,263
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,22,Utilities,159
@@ -2473,13 +2473,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utili
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,4.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,2.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,5.2
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.8000000000000003
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,3.3000000000000003
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,22,Utilities,3.8
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utilities,3.5999999999999996
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utilities,2.5
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,3.3000000000000003
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,1.7999999999999998
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,22,Utilities,2
@@ -2523,7 +2523,7 @@ Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q2,42,Wh
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q2,42,Wholesale Trade,6441
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2018Q2,42,Wholesale Trade,6549
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2019Q2,42,Wholesale Trade,6623
-Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,0
+Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,TBD
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2016Q3,42,Wholesale Trade,6573
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2015Q3,42,Wholesale Trade,6130
 Earnings,Baltimore County WIA,Maryland Average Earnings by Industry,2017Q3,42,Wholesale Trade,6445
@@ -2544,7 +2544,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q1,42,Wh
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q1,42,Wholesale Trade,93
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,92
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2017Q2,42,Wholesale Trade,278
-Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2018Q2,42,Wholesale Trade,295
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,45
 Job Change,Baltimore County WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,-203
@@ -2589,7 +2589,7 @@ Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q2,42,Whol
 Separations,Baltimore County WIA,Maryland Separations by Industry,2016Q2,42,Wholesale Trade,1373
 Separations,Baltimore County WIA,Maryland Separations by Industry,2019Q2,42,Wholesale Trade,1161
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q2,42,Wholesale Trade,1163
-Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,0
+Separations,Baltimore County WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,TBD
 Separations,Baltimore County WIA,Maryland Separations by Industry,2015Q3,42,Wholesale Trade,1436
 Separations,Baltimore County WIA,Maryland Separations by Industry,2018Q3,42,Wholesale Trade,1326
 Separations,Baltimore County WIA,Maryland Separations by Industry,2017Q3,42,Wholesale Trade,1285
@@ -2605,14 +2605,14 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q1,42,Whole
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,7.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,6.1
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,6.800000000000001
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,6.6000000000000005
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,7.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2017Q2,42,Wholesale Trade,6.5
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.3
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,7.000000000000001
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2018Q3,42,Wholesale Trade,7.1
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,7.6
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Industry,2019Q3,42,Wholesale Trade,6.3
@@ -2653,7 +2653,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q1,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q1,A01,14-18,705
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,14-18,717
 Workers,Baltimore County WIA,Maryland Workers by Industry,2018Q4,42,Wholesale Trade,12649
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,743
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,778
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-18,741
@@ -2678,7 +2678,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1368
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A02,19-21,1438
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1441
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1286
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A02,19-21,1381
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1378
@@ -2699,7 +2699,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A03,22-24,2324
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2440
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2526
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,2157
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2372
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A03,22-24,2471
@@ -2720,7 +2720,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q2,A04,25-34,3426
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3967
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,3700
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3468
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3779
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q1,A04,25-34,3439
@@ -2742,7 +2742,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q1,A05,35-44,5409
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A05,35-44,4999
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,5185
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,4702
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,5296
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,5018
@@ -2767,7 +2767,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,5471
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,5991
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A06,45-54,5126
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A06,45-54,5500
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A06,45-54,5658
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q3,A06,45-54,5834
@@ -2787,7 +2787,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q1,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,5036
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q2,A07,55-64,5383
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,5618
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,5344
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,5731
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,5383
@@ -2958,7 +2958,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2015Q1,A01,14-18,18
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q1,A01,14-18,2438
 Separations,Baltimore County WIA,Maryland Separations by Age,2020Q1,A01,14-18,3993
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q1,A01,14-18,2429
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A01,14-18,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A01,14-18,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A01,14-18,3156
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q2,A01,14-18,2949
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A01,14-18,3140
@@ -2985,7 +2985,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2016Q2,A02,19-21,69
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A02,19-21,7341
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A02,19-21,7306
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A02,19-21,8081
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A02,19-21,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A02,19-21,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q3,A02,19-21,9938
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A02,19-21,10118
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q3,A02,19-21,9604
@@ -3007,7 +3007,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A03,22-24,72
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A03,22-24,6996
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A03,22-24,7063
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q2,A03,22-24,7327
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A03,22-24,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A03,22-24,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A03,22-24,8039
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q3,A03,22-24,7213
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q3,A03,22-24,7386
@@ -3027,7 +3027,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2020Q1,A04,25-34,18
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q2,A04,25-34,15382
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A04,25-34,16721
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q2,A04,25-34,15899
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A04,25-34,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A04,25-34,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A04,25-34,16450
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q3,A04,25-34,16621
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A04,25-34,16928
@@ -3050,7 +3050,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2020Q1,A05,35-44,12
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q2,A05,35-44,9462
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A05,35-44,10134
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A05,35-44,10125
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A05,35-44,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A05,35-44,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A05,35-44,10816
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A05,35-44,10199
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q3,A05,35-44,9597
@@ -3071,7 +3071,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2019Q1,A06,45-54,69
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q2,A06,45-54,8632
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A06,45-54,8575
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q2,A06,45-54,8512
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A06,45-54,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A06,45-54,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q2,A06,45-54,8163
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A06,45-54,8677
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A06,45-54,8506
@@ -3098,7 +3098,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A07,55-64,63
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A07,55-64,5619
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q3,A07,55-64,5346
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q3,A07,55-64,5464
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A07,55-64,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A07,55-64,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q3,A07,55-64,6359
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q3,A07,55-64,5984
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q4,A07,55-64,6737
@@ -3116,7 +3116,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2015Q2
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2016Q2,1,Male,5176
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Male,5376
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2018Q2,1,Male,5593
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,5751
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,5038
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,5412
@@ -3139,7 +3139,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2017Q2
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,3814
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2016Q2,2,Female,3524
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,3935
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,3370
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2018Q3,2,Female,3640
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,3587
@@ -3204,7 +3204,7 @@ Separations,Baltimore County WIA,Maryland Separations by Gender,2015Q2,1,Male,29
 Separations,Baltimore County WIA,Maryland Separations by Gender,2016Q2,1,Male,29461
 Separations,Baltimore County WIA,Maryland Separations by Gender,2017Q2,1,Male,30763
 Separations,Baltimore County WIA,Maryland Separations by Gender,2018Q2,1,Male,30675
-Separations,Baltimore County WIA,Maryland Separations by Gender,2020Q2,1,Male,0
+Separations,Baltimore County WIA,Maryland Separations by Gender,2020Q2,1,Male,TBD
 Separations,Baltimore County WIA,Maryland Separations by Gender,2015Q3,1,Male,33722
 Separations,Baltimore County WIA,Maryland Separations by Gender,2017Q3,1,Male,32889
 Separations,Baltimore County WIA,Maryland Separations by Gender,2016Q3,1,Male,34976
@@ -3226,7 +3226,7 @@ Separations,Baltimore County WIA,Maryland Separations by Gender,2018Q1,2,Female,
 Separations,Baltimore County WIA,Maryland Separations by Gender,2015Q2,2,Female,29911
 Separations,Baltimore County WIA,Maryland Separations by Gender,2017Q2,2,Female,32288
 Separations,Baltimore County WIA,Maryland Separations by Gender,2018Q2,2,Female,32207
-Separations,Baltimore County WIA,Maryland Separations by Gender,2020Q2,2,Female,0
+Separations,Baltimore County WIA,Maryland Separations by Gender,2020Q2,2,Female,TBD
 Separations,Baltimore County WIA,Maryland Separations by Gender,2019Q2,2,Female,34303
 Separations,Baltimore County WIA,Maryland Separations by Gender,2015Q3,2,Female,32908
 Separations,Baltimore County WIA,Maryland Separations by Gender,2016Q3,2,Female,34941
@@ -3249,7 +3249,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q2,E1,L
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q2,E1,Less than High school,694
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q2,E1,Less than High school,505
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q2,E1,Less than High school,499
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,23
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,430
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q3,E1,Less than High school,68
@@ -3270,7 +3270,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q1,E2,"
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q2,E2,"High school or equivalent, no college",581
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q2,E2,"High school or equivalent, no college",-115
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",17
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q3,E2,"High school or equivalent, no college",-80
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q3,E2,"High school or equivalent, no college",-166
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q3,E2,"High school or equivalent, no college",-192
@@ -3294,7 +3294,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q2,E3,S
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,-312
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q2,E3,Some college or Associate degree,-352
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,-278
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,628
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,107
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q3,E3,Some college or Associate degree,-138
@@ -3312,7 +3312,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q2,E4,B
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q1,E4,Bachelor's degree or advanced degree,133
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q4,E3,Some college or Associate degree,-530
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q2,E4,Bachelor's degree or advanced degree,-275
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q2,E4,Bachelor's degree or advanced degree,-966
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelor's degree or advanced degree,-615
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachelor's degree or advanced degree,-1183
@@ -3418,14 +3418,14 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q1,E1,Less
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q1,E1,Less than High school,0.097
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q1,E1,Less than High school,0.101
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q1,E1,Less than High school,0.095
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q2,E1,Less than High school,0.094
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q2,E1,Less than High school,0.093
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than High school,0.098
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q2,E1,Less than High school,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q2,E1,Less than High school,0.093
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.11
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less than High school,0.089
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.104
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.1
@@ -3442,10 +3442,10 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q1,E2,"Hig
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.078
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High school or equivalent, no college",0.082
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.073
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.076
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.076
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.073
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.073
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.083
@@ -3464,12 +3464,12 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.074
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q2,E3,Some college or Associate degree,0.069
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q2,E3,Some college or Associate degree,0.071
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some college or Associate degree,0.068
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.079
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.071
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.069
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.077
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.075
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q3,E3,Some college or Associate degree,0.075
@@ -3487,9 +3487,9 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bach
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachelor's degree or advanced degree,0.071
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q2,E4,Bachelor's degree or advanced degree,0.059
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor's degree or advanced degree,0.061
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q2,E4,Bachelor's degree or advanced degree,0.059
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q3,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q3,E4,Bachelor's degree or advanced degree,0.062
@@ -3511,7 +3511,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2019Q1,1,Male,
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2015Q2,1,Male,6355
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2016Q2,1,Male,5871
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2017Q2,1,Male,4310
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,4549
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,5028
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,503
@@ -3531,7 +3531,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,20
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2017Q1,0,All,4716
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2018Q1,0,All,4935
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2015Q2,0,All,4153
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2016Q2,0,All,4322
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,4808
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,4671
@@ -3550,14 +3550,14 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2015Q1,1,Male,0.0
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2015Q2,1,Male,0.085
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q2,1,Male,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.084
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.101
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.083
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2018Q2,1,Male,0.087
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.095
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2018Q3,1,Male,0.094
@@ -3573,12 +3573,12 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q1,2,Female,0
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2017Q1,2,Female,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.095
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.09
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2015Q2,2,Female,0.083
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q2,2,Female,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2017Q2,2,Female,0.083
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.085
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.087
@@ -3601,7 +3601,7 @@ Separations,Baltimore County WIA,Maryland Separations by Gender All,2017Q2,0,All
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2019Q2,0,All,65471
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2018Q2,0,All,62883
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2015Q2,0,All,59218
-Separations,Baltimore County WIA,Maryland Separations by Gender All,2020Q2,0,All,0
+Separations,Baltimore County WIA,Maryland Separations by Gender All,2020Q2,0,All,TBD
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2016Q3,0,All,69917
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2015Q3,0,All,66630
 Separations,Baltimore County WIA,Maryland Separations by Gender All,2017Q3,0,All,65859
@@ -3617,12 +3617,12 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2015Q1,0,All,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.088
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.093
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2016Q1,0,All,0.091
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.084
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.084
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.086
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.084
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.091
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.089
@@ -3709,7 +3709,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2020Q1,2,Femal
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2017Q2,2,Female,1677
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2016Q2,2,Female,3489
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2015Q2,2,Female,2416
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,406
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-1075
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-810
@@ -3732,7 +3732,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2015Q2,0,A
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2016Q2,0,All,9363
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2017Q2,0,All,5990
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,7543
-Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,6367
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-2318
 Job Change,Baltimore County WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,908
@@ -3779,7 +3779,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age,2018Q2,A08,65-99,38
 Separations,Baltimore County WIA,Maryland Separations by Age,2016Q3,A08,65-99,2849
 Separations,Baltimore County WIA,Maryland Separations by Age,2015Q3,A08,65-99,2779
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q2,A08,65-99,4000
-Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
+Separations,Baltimore County WIA,Maryland Separations by Age,2020Q2,A08,65-99,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age,2017Q3,A08,65-99,2943
 Separations,Baltimore County WIA,Maryland Separations by Age,2018Q3,A08,65-99,3464
 Separations,Baltimore County WIA,Maryland Separations by Age,2019Q3,A08,65-99,3229
@@ -3845,7 +3845,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2015Q3,A0
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,4353
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,4228
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2017Q3,A08,65-99,3930
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,4005
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2018Q3,A08,65-99,4125
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age,2019Q3,A08,65-99,4126
@@ -3866,7 +3866,7 @@ Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2018Q2,
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2017Q2,E0,All Education Categories,5990
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,908
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,7543
-Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
+Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,TBD
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-3003
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2015Q4,E0,All Education Categories,1814
 Job change,Baltimore County WIA,Maryland Job Net Change by Education All,2017Q3,E0,All Education Categories,-2288
@@ -3890,7 +3890,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education All,2019Q2,E0
 Separations,Baltimore County WIA,Maryland Separations by Education All,2016Q3,E0,All Education Categories,69917
 Separations,Baltimore County WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,66630
 Separations,Baltimore County WIA,Maryland Separations by Education All,2017Q3,E0,All Education Categories,65859
-Separations,Baltimore County WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
+Separations,Baltimore County WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,TBD
 Separations,Baltimore County WIA,Maryland Separations by Education All,2018Q3,E0,All Education Categories,70437
 Separations,Baltimore County WIA,Maryland Separations by Education All,2017Q4,E0,All Education Categories,63385
 Separations,Baltimore County WIA,Maryland Separations by Education All,2016Q4,E0,All Education Categories,65107
@@ -3911,7 +3911,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2017Q2,E1,Les
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q3,E1,Less than High school,7918
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q3,E1,Less than High school,7414
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,7868
-Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,0
+Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,TBD
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,7423
 Separations,Baltimore County WIA,Maryland Separations by Education,2018Q3,E1,Less than High school,8084
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q3,E1,Less than High school,7753
@@ -3930,7 +3930,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2016Q2,E2,"Hi
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q2,E2,"High school or equivalent, no college",13244
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q2,E2,"High school or equivalent, no college",12215
 Separations,Baltimore County WIA,Maryland Separations by Education,2018Q2,E2,"High school or equivalent, no college",12843
-Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",0
+Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q2,E2,"High school or equivalent, no college",12954
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q3,E2,"High school or equivalent, no college",13202
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",12328
@@ -3951,7 +3951,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2017Q1,E3,Som
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q2,E3,Some college or Associate degree,12729
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q2,E3,Some college or Associate degree,13570
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q2,E3,Some college or Associate degree,12652
-Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,0
+Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,TBD
 Separations,Baltimore County WIA,Maryland Separations by Education,2018Q2,E3,Some college or Associate degree,13522
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,14155
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q3,E3,Some college or Associate degree,12753
@@ -3975,7 +3975,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2018Q2,E4,Bac
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q2,E4,Bachelor's degree or advanced degree,10161
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q2,E4,Bachelor's degree or advanced degree,10416
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q2,E4,Bachelor's degree or advanced degree,11849
-Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q3,E4,Bachelor's degree or advanced degree,9964
 Separations,Baltimore County WIA,Maryland Separations by Education,2018Q3,E4,Bachelor's degree or advanced degree,11020
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q3,E4,Bachelor's degree or advanced degree,10361
@@ -3997,7 +3997,7 @@ Separations,Baltimore County WIA,Maryland Separations by Education,2018Q2,E5,Edu
 Separations,Baltimore County WIA,Maryland Separations by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),17037
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),17078
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),18354
-Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Separations,Baltimore County WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Separations,Baltimore County WIA,Maryland Separations by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),23467
 Separations,Baltimore County WIA,Maryland Separations by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),25128
 Separations,Baltimore County WIA,Maryland Separations by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),24946
@@ -4021,7 +4021,7 @@ Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q2,E5,E
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),7961
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-1617
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-1327
-Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),-2656
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-2537
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2015Q4,E5,Educational attainment not available (workers aged 24 or younger),2133
@@ -4035,13 +4035,13 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educ
 Job Change,Baltimore County WIA,Maryland Job Net Change by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),-3136
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),0.196,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),0.2,
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),0.198,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),0.203,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),0.203,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.223,
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),0.203,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.209,
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),0.208,
@@ -4058,7 +4058,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2018Q
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4491
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,4153
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,4808
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,4189
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,4322
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,4491
@@ -4069,7 +4069,7 @@ Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2019Q
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,4671
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2019Q3,A00,All Ages,4707
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2018Q3,A00,All Ages,4586
-Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2015Q4,A00,All Ages,4977
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2016Q4,A00,All Ages,4967
 Earnings,Baltimore County WIA,Maryland Average Monthly Earnings by Age All,2019Q4,A00,All Ages,5608
@@ -4087,7 +4087,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age All,2019Q2,A00,All 
 Separations,Baltimore County WIA,Maryland Separations by Age All,2017Q2,A00,All Ages,63052
 Separations,Baltimore County WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,62883
 Separations,Baltimore County WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,66630
-Separations,Baltimore County WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
+Separations,Baltimore County WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,TBD
 Separations,Baltimore County WIA,Maryland Separations by Age All,2017Q3,A00,All Ages,65859
 Separations,Baltimore County WIA,Maryland Separations by Age All,2018Q3,A00,All Ages,70437
 Separations,Baltimore County WIA,Maryland Separations by Age All,2015Q4,A00,All Ages,65804
@@ -4100,7 +4100,7 @@ Separations,Baltimore County WIA,Maryland Separations by Age All,2019Q4,A00,All 
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Education Categories,0.089
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.088
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.088
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.093
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.084
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.086
@@ -4108,7 +4108,7 @@ Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2017Q2,E0,
 Separations,Baltimore County WIA,Maryland Separations by Age All,2017Q4,A00,All Ages,63385
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.086
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.084
-Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
+Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,TBD
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.089
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2018Q3,E0,All Education Categories,0.09
 Turnover,Baltimore County WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.091

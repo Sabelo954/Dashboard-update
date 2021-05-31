@@ -10,7 +10,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,72,Accommo
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,72,Accommodation and Food Services,1867
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,72,Accommodation and Food Services,1934
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,72,Accommodation and Food Services,1990
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,72,Accommodation and Food Services,2083
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,72,Accommodation and Food Services,2228
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,72,Accommodation and Food Services,2180
@@ -32,7 +32,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,72,Accommo
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,72,Accommodation and Food Services,5400
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,72,Accommodation and Food Services,5508
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommodation and Food Services,5595
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,72,Accommodation and Food Services,-2800
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-3079
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,72,Accommodation and Food Services,-3260
@@ -76,7 +76,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,72,Accommoda
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,72,Accommodation and Food Services,4667
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,72,Accommodation and Food Services,4512
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,72,Accommodation and Food Services,4490
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,72,Accommodation and Food Services,8288
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,72,Accommodation and Food Services,8415
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,72,Accommodation and Food Services,8296
@@ -92,13 +92,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodat
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,13.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodation and Food Services,14.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,14.000000000000002
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,14.099999999999998
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,14.499999999999998
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommodation and Food Services,14.799999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,72,Accommodation and Food Services,14.799999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommodation and Food Services,14.000000000000002
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,33
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,28.499999999999996
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,29.9
@@ -142,7 +142,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,62,Health 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,62,Health Care and Social Assistance,3846
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,62,Health Care and Social Assistance,3965
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,62,Health Care and Social Assistance,4076
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,62,Health Care and Social Assistance,3839
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,62,Health Care and Social Assistance,3862
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,62,Health Care and Social Assistance,3796
@@ -164,7 +164,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,62,Health 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,62,Health Care and Social Assistance,-14
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,62,Health Care and Social Assistance,125
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,62,Health Care and Social Assistance,107
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,175
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,93
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,62,Health Care and Social Assistance,37
@@ -208,7 +208,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,62,Health Ca
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,62,Health Care and Social Assistance,1263
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,62,Health Care and Social Assistance,1267
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,62,Health Care and Social Assistance,1319
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,62,Health Care and Social Assistance,1466
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,62,Health Care and Social Assistance,1446
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,62,Health Care and Social Assistance,1426
@@ -229,13 +229,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health Car
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,7.199999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,7.199999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,6.800000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,6.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,62,Health Care and Social Assistance,6.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,6.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,62,Health Care and Social Assistance,6.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health Care and Social Assistance,6.9
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,7.000000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,6.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care and Social Assistance,6.7
@@ -279,7 +279,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,56,Adminis
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,2978
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,3083
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,3233
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,2712
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,2975
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,3166
@@ -301,7 +301,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,56,Adminis
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,424
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,483
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,584
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,-77
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,-24
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,-103
@@ -345,7 +345,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,56,Administr
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,1213
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,1340
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,1443
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,1624
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,1484
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,1683
@@ -361,13 +361,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administra
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,13.200000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,13.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,56,Administrative and Support and Waste Management and Remediation Services,12.8
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,17.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,13.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,15
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,14.499999999999998
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,14.000000000000002
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,21.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,19
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,18.5
@@ -410,7 +410,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,11,"Agricu
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",4416
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",4585
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",4171
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",4269
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",2997
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",3327
@@ -433,7 +433,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,11,"Agricu
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",169
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",114
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",125
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-5
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,11,"Agriculture, Forestry, Fishing and Hunting",53
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",55
@@ -477,7 +477,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,11,"Agricult
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",80
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",60
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",78
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",143
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",229
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",208
@@ -493,12 +493,12 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agricultu
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",4.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",6.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",7.3999999999999995
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",9.2
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q4,11,"Agriculture, Forestry, Fishing and Hunting",231
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",7.3999999999999995
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",40.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",34.4
@@ -540,7 +540,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,71,"Arts, 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1900
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1842
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",2072
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",1836
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",1966
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",2096
@@ -565,7 +565,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",982
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-358
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-453
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",-484
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",-447
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",-470
@@ -605,7 +605,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q1,71,"Arts, En
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",432
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",433
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",386
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",989
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",871
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",844
@@ -626,13 +626,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Ent
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",401
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",161
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",11.200000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",9.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",10.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",10
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",12.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",35.199999999999996
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",31.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q3,71,"Arts, Entertainment, and Recreation",30.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",30.9
@@ -674,7 +674,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,23,Constru
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,23,Construction,3859
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,23,Construction,3692
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,23,Construction,3891
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,23,Construction,3630
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,23,Construction,4082
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q3,23,Construction,4202
@@ -697,7 +697,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,23,Constru
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,23,Construction,333
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,23,Construction,436
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,361
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,-131
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,-157
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,23,Construction,-247
@@ -741,7 +741,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,23,Construct
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,23,Construction,824
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,23,Construction,823
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,23,Construction,1107
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,23,Construction,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,23,Construction,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,23,Construction,1128
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,23,Construction,1167
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,23,Construction,1205
@@ -762,7 +762,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,23,Constructi
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,23,Construction,8.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,9.700000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,23,Construction,10.299999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,23,Construction,10.100000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,12
@@ -778,7 +778,7 @@ Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,23,Construction,3149
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,23,Construction,3516
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,23,Construction,3559
 Workers,Lower Shore WIA,Maryland Workers by Industry,2019Q1,23,Construction,3767
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,TBD
 Workers,Lower Shore WIA,Maryland Workers by Industry,2020Q1,23,Construction,3882
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q2,23,Construction,3300
 Workers,Lower Shore WIA,Maryland Workers by Industry,2016Q2,23,Construction,3544
@@ -806,7 +806,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q1,61,Educati
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,61,Educational Services,4354
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,61,Educational Services,4614
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,61,Educational Services,4459
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,61,Educational Services,3146
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,61,Educational Services,4744
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,61,Educational Services,3084
@@ -829,7 +829,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,61,Educati
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,61,Educational Services,-335
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-532
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,61,Educational Services,-431
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,93
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,122
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,61,Educational Services,192
@@ -873,7 +873,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,61,Education
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,61,Educational Services,1391
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,61,Educational Services,1449
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,61,Educational Services,856
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,61,Educational Services,1358
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,61,Educational Services,889
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,61,Educational Services,975
@@ -888,7 +888,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,61,Educationa
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,6.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,7.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,7.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,6.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,3.5000000000000004
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,3.2
@@ -896,7 +896,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educationa
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,3.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,3.5000000000000004
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3.4000000000000004
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,3.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,61,Educational Services,3.3000000000000003
@@ -939,7 +939,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,52,Finance
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,52,Finance and Insurance,4395
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,52,Finance and Insurance,4459
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,52,Finance and Insurance,4626
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,52,Finance and Insurance,4591
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,52,Finance and Insurance,4270
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,52,Finance and Insurance,4850
@@ -963,7 +963,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,31
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,-7
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,7
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,-11
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,52,Finance and Insurance,1
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,52,Finance and Insurance,-4
@@ -1005,7 +1005,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,52,Finance a
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,52,Finance and Insurance,174
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,52,Finance and Insurance,127
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,52,Finance and Insurance,86
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,52,Finance and Insurance,129
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,52,Finance and Insurance,182
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,52,Finance and Insurance,127
@@ -1020,7 +1020,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,52,Finance an
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,4.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,52,Finance and Insurance,5.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and Insurance,5.2
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,4.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,5.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,5.5
@@ -1028,7 +1028,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance an
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,4.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,5.800000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,52,Finance and Insurance,5.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,6.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,52,Finance and Insurance,6.5
@@ -1071,7 +1071,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q1,51,Informa
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,51,Information,4602
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,51,Information,5080
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,51,Information,4630
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,51,Information,4429
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,51,Information,4555
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,51,Information,4730
@@ -1093,7 +1093,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,51,Informa
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,1
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,-2
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,51,Information,0
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,-18
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,51,Information,-22
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,51,Information,-7
@@ -1137,7 +1137,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q1,51,Informati
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,51,Information,82
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,51,Information,73
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,51,Information,91
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,51,Information,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,51,Information,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,51,Information,81
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,51,Information,87
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,51,Information,105
@@ -1152,14 +1152,14 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,51,Informatio
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,51,Information,8.200000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information,7.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,7.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,8.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,5.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,7.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,7.199999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,7.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,7.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,51,Information,6.4
@@ -1202,7 +1202,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,55,Managem
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,55,Management of Companies and Enterprises,18436
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,55,Management of Companies and Enterprises,22931
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,55,Management of Companies and Enterprises,9205
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,55,Management of Companies and Enterprises,10976
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,5712
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,55,Management of Companies and Enterprises,6812
@@ -1223,7 +1223,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,55,Managem
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q1,55,Management of Companies and Enterprises,6
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,55,Management of Companies and Enterprises,52
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,55,Management of Companies and Enterprises,45
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,55,Management of Companies and Enterprises,13
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,-29
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,24
@@ -1270,7 +1270,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q1,55,Managemen
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,55,Management of Companies and Enterprises,79
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,55,Management of Companies and Enterprises,84
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,55,Management of Companies and Enterprises,105
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,55,Management of Companies and Enterprises,114
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q3,55,Management of Companies and Enterprises,104
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,55,Management of Companies and Enterprises,89
@@ -1286,12 +1286,12 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,55,Management
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,4.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,5.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,4.5
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,5.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,4.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,55,Management of Companies and Enterprises,5.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,5.7
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,55,Management of Companies and Enterprises,5.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,7.3999999999999995
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,55,Management of Companies and Enterprises,6.2
@@ -1336,7 +1336,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,31-33,Manu
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q1,31-33,Manufacturing,4388
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,31-33,Manufacturing,4541
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,31-33,Manufacturing,4209
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,31-33,Manufacturing,3697
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,31-33,Manufacturing,4143
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,31-33,Manufacturing,4323
@@ -1355,7 +1355,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q1,31-33,Manu
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q1,31-33,Manufacturing,56
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,79
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,-139
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,31-33,Manufacturing,99
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,31-33,Manufacturing,106
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,49
@@ -1400,7 +1400,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q1,31-33,Manufa
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,31-33,Manufacturing,453
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,31-33,Manufacturing,444
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,31-33,Manufacturing,469
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,31-33,Manufacturing,498
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,31-33,Manufacturing,450
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,31-33,Manufacturing,571
@@ -1418,13 +1418,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufac
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,6.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,6.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,6.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,6.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,6.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,31-33,Manufacturing,6.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manufacturing,8.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,8
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,7.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,31-33,Manufacturing,7.000000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,31-33,Manufacturing,7.8
@@ -1465,7 +1465,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,21,"Mining
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3640
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4727
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4485
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4727
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3538
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4332
@@ -1483,12 +1483,12 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q1,21,"Mining
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-1
@@ -1501,71 +1501,71 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q4,21,"Mining
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 New Hires,Lower Shore WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Lower Shore WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",2
-Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6
-Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Workers,Lower Shore WIA,Maryland Workers by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",11
 Workers,Lower Shore WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",15
 Workers,Lower Shore WIA,Maryland Workers by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",9
@@ -1600,7 +1600,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,81,Other S
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,81,Other Services (except Public Administration),3000
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,81,Other Services (except Public Administration),3061
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,81,Other Services (except Public Administration),2494
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,81,Other Services (except Public Administration),2499
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,81,Other Services (except Public Administration),2596
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,81,Other Services (except Public Administration),2835
@@ -1621,7 +1621,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,81,Other S
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,81,Other Services (except Public Administration),114
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,81,Other Services (except Public Administration),109
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,81,Other Services (except Public Administration),68
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),-4
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-115
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,81,Other Services (except Public Administration),38
@@ -1665,7 +1665,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,81,Other Ser
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,81,Other Services (except Public Administration),373
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,81,Other Services (except Public Administration),303
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,81,Other Services (except Public Administration),384
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,81,Other Services (except Public Administration),466
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,81,Other Services (except Public Administration),479
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,81,Other Services (except Public Administration),507
@@ -1681,13 +1681,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Serv
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,81,Other Services (except Public Administration),8.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),9.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),8.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,81,Other Services (except Public Administration),10.100000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),9.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),8.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),8.1
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),11.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),9.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,81,Other Services (except Public Administration),9.6
@@ -1731,7 +1731,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,54,"Profes
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",4574
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",4679
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",4759
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",4289
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",4280
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",4537
@@ -1753,7 +1753,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,54,"Profes
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",284
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",274
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",215
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",-74
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",-77
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",-105
@@ -1797,7 +1797,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,54,"Professi
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",374
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",420
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",312
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",433
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",453
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",499
@@ -1814,13 +1814,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professio
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",6.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",7.5
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",7.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",14.299999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",6.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",8.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",11.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",13.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",13.700000000000001
@@ -1863,7 +1863,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,92,Public 
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,92,Public Administration,3992
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,92,Public Administration,4309
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,92,Public Administration,4160
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,92,Public Administration,3768
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,92,Public Administration,3574
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,92,Public Administration,3522
@@ -1886,7 +1886,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,92,Public 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-229
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,92,Public Administration,549
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,92,Public Administration,578
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,92,Public Administration,-355
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,92,Public Administration,-252
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,92,Public Administration,-68
@@ -1927,7 +1927,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,92,Public Ad
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,92,Public Administration,302
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,92,Public Administration,337
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,92,Public Administration,339
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q1,92,Public Administration,383
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,92,Public Administration,629
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,92,Public Administration,524
@@ -1942,14 +1942,14 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q4,92,Public Ad
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,92,Public Administration,3.3000000000000003
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,4.3999999999999995
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,4.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,4.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,3.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,92,Public Administration,3.9
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,3.6999999999999997
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,3.6999999999999997
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,9.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,92,Public Administration,9.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Administration,10
@@ -1995,7 +1995,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,53,Real Es
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,53,Real Estate and Rental and Leasing,2982
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,53,Real Estate and Rental and Leasing,2951
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,53,Real Estate and Rental and Leasing,3155
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,53,Real Estate and Rental and Leasing,2798
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,53,Real Estate and Rental and Leasing,3001
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,53,Real Estate and Rental and Leasing,2848
@@ -2019,7 +2019,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,53,Real Es
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,508
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,-232
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,53,Real Estate and Rental and Leasing,-217
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,53,Real Estate and Rental and Leasing,-240
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,-260
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q3,53,Real Estate and Rental and Leasing,-313
@@ -2060,7 +2060,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,53,Real Esta
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,53,Real Estate and Rental and Leasing,199
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,53,Real Estate and Rental and Leasing,269
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,53,Real Estate and Rental and Leasing,224
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,53,Real Estate and Rental and Leasing,525
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,53,Real Estate and Rental and Leasing,264
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,53,Real Estate and Rental and Leasing,576
@@ -2079,11 +2079,11 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estat
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,53,Real Estate and Rental and Leasing,8.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,7.7
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,53,Real Estate and Rental and Leasing,8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,8.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Estate and Rental and Leasing,9
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,14.299999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,13.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q3,53,Real Estate and Rental and Leasing,18.3
@@ -2127,7 +2127,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,44-45,Reta
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,44-45,Retail Trade,2475
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,44-45,Retail Trade,2574
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,44-45,Retail Trade,2687
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,44-45,Retail Trade,2457
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,44-45,Retail Trade,2523
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q3,44-45,Retail Trade,2695
@@ -2149,7 +2149,7 @@ Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,44-45,Reta
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,44-45,Retail Trade,1060
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,44-45,Retail Trade,765
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,44-45,Retail Trade,698
-Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,0
+Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,TBD
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-309
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-485
 Job change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,44-45,Retail Trade,-564
@@ -2193,7 +2193,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q2,44-45,Retail
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,44-45,Retail Trade,1581
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,44-45,Retail Trade,1714
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,44-45,Retail Trade,1743
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,44-45,Retail Trade,2491
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,44-45,Retail Trade,2343
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q3,44-45,Retail Trade,2250
@@ -2209,13 +2209,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail 
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Retail Trade,11.3
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.799999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,12.3
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,9.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,10.299999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,9.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,9.8
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,9.6
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,14.899999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,14.799999999999999
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q3,44-45,Retail Trade,21.5
@@ -2261,7 +2261,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,48-49,Tran
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,48-49,Transportation and Warehousing,4198
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,48-49,Transportation and Warehousing,3521
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,48-49,Transportation and Warehousing,3866
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,48-49,Transportation and Warehousing,3830
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q3,48-49,Transportation and Warehousing,3933
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q3,48-49,Transportation and Warehousing,4142
@@ -2278,7 +2278,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q1,48-49,Tran
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q1,48-49,Transportation and Warehousing,60
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,48-49,Transportation and Warehousing,40
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,60
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,-26
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Transportation and Warehousing,93
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,48-49,Transportation and Warehousing,-19
@@ -2324,7 +2324,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q1,48-49,Transp
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,48-49,Transportation and Warehousing,237
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,48-49,Transportation and Warehousing,281
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,48-49,Transportation and Warehousing,248
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,48-49,Transportation and Warehousing,232
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,48-49,Transportation and Warehousing,242
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q3,48-49,Transportation and Warehousing,280
@@ -2341,12 +2341,12 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transpo
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,9.700000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,11
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Transportation and Warehousing,11.700000000000001
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,5.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,11.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,48-49,Transportation and Warehousing,9.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,9.5
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,10.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,11
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,9.6
@@ -2389,7 +2389,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q1,22,Utiliti
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q2,22,Utilities,7692
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,22,Utilities,7914
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,22,Utilities,8688
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,22,Utilities,7612
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,22,Utilities,7899
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2015Q3,22,Utilities,7997
@@ -2414,7 +2414,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,22,Utiliti
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,-10
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,-13
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,1
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-19
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q3,22,Utilities,-2
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q3,22,Utilities,-3
@@ -2467,18 +2467,18 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q3,22,Utilities
 Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q4,22,Utilities,13
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q4,22,Utilities,17
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q4,22,Utilities,15
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,22,Utilities,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,22,Utilities,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,2.8000000000000003
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,S
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,3.5000000000000004
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,3.9
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,2.6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.4
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,4.2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,2.5
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,22,Utilities,4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utilities,2
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utilities,1.4000000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,1.9
@@ -2523,7 +2523,7 @@ Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q2,42,Wholesa
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q2,42,Wholesale Trade,4966
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2018Q2,42,Wholesale Trade,5032
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q2,42,Wholesale Trade,5400
-Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,0
+Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,TBD
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2016Q3,42,Wholesale Trade,5084
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2017Q3,42,Wholesale Trade,4971
 Earnings,Lower Shore WIA,Maryland Average Earnings by Industry,2019Q3,42,Wholesale Trade,5290
@@ -2542,7 +2542,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q1,42,Wholesa
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q1,42,Wholesale Trade,31
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2015Q2,42,Wholesale Trade,155
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2017Q2,42,Wholesale Trade,154
-Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2018Q2,42,Wholesale Trade,81
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2016Q2,42,Wholesale Trade,115
 Job Change,Lower Shore WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,123
@@ -2589,7 +2589,7 @@ Separations,Lower Shore WIA,Maryland Separations by Industry,2016Q2,42,Wholesale
 Separations,Lower Shore WIA,Maryland Separations by Industry,2017Q2,42,Wholesale Trade,326
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q2,42,Wholesale Trade,296
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q2,42,Wholesale Trade,304
-Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,0
+Separations,Lower Shore WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,TBD
 Separations,Lower Shore WIA,Maryland Separations by Industry,2015Q3,42,Wholesale Trade,304
 Separations,Lower Shore WIA,Maryland Separations by Industry,2019Q3,42,Wholesale Trade,292
 Separations,Lower Shore WIA,Maryland Separations by Industry,2018Q3,42,Wholesale Trade,306
@@ -2604,12 +2604,12 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q1,42,Wholesale 
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale Trade,6.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,6.7
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale Trade,6.4
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,6
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,5.8999999999999995
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2017Q2,42,Wholesale Trade,6.800000000000001
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,7.199999999999999
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.6000000000000005
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,7.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,8.3
@@ -2655,7 +2655,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,14-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A01,14-18,633
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,785
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-18,756
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,947
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,899
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q3,A01,14-18,1066
@@ -2676,7 +2676,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q2,A02,19-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A02,19-21,1168
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1390
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A02,19-21,1338
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1429
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A02,19-21,1415
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A02,19-21,1498
@@ -2699,7 +2699,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q2,A03,22-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2283
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2076
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A03,22-24,1988
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A03,22-24,1932
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2007
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q3,A03,22-24,2150
@@ -2721,7 +2721,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q2,A04,25-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A04,25-34,2982
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,3204
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,3082
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,2782
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q3,A04,25-34,3100
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,2887
@@ -2742,7 +2742,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q2,A05,35-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,4084
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,4189
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A05,35-44,3828
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A05,35-44,3978
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,3697
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,3680
@@ -2764,7 +2764,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q2,A06,45-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A06,45-54,4793
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A06,45-54,4348
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,4687
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45-54,4609
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q3,A06,45-54,4375
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,4152
@@ -2787,7 +2787,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A07,55-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A07,55-64,4475
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,4619
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,4537
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,4076
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,3890
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,4035
@@ -2965,7 +2965,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A01,14-18,2191
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A01,14-18,783
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q2,A01,14-18,854
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A01,14-18,2262
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A01,14-18,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A01,14-18,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q3,A01,14-18,2322
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q3,A01,14-18,2263
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q3,A01,14-18,2193
@@ -2984,7 +2984,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2015Q2,A02,19-21,1854
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q2,A02,19-21,1842
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A02,19-21,1972
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A02,19-21,1789
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A02,19-21,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A02,19-21,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A02,19-21,1794
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A02,19-21,4345
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A02,19-21,4500
@@ -3007,7 +3007,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A03,22-24,1770
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A03,22-24,1861
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q2,A03,22-24,1711
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A03,22-24,1770
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A03,22-24,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A03,22-24,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A03,22-24,3319
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A03,22-24,3335
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q3,A03,22-24,3376
@@ -3025,7 +3025,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2017Q1,A04,25-34,2234
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q1,A04,25-34,2356
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q2,A04,25-34,3250
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q1,A04,25-34,2227
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A04,25-34,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A04,25-34,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A04,25-34,4037
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A04,25-34,3227
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A04,25-34,4102
@@ -3050,7 +3050,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2015Q2,A05,35-44,2008
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A05,35-44,2044
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A05,35-44,2252
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A05,35-44,2210
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A05,35-44,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A05,35-44,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q2,A05,35-44,2189
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A05,35-44,2271
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A05,35-44,2225
@@ -3073,7 +3073,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A06,45-54,1842
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A06,45-54,1889
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q2,A06,45-54,1826
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A06,45-54,1847
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A06,45-54,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A06,45-54,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A06,45-54,2005
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A06,45-54,1887
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q3,A06,45-54,1994
@@ -3092,7 +3092,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2016Q1,A07,55-64,829
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q1,A07,55-64,941
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q1,A07,55-64,933
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q2,A07,55-64,1343
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A07,55-64,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A07,55-64,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A07,55-64,1389
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A07,55-64,1529
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A07,55-64,1411
@@ -3115,7 +3115,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q1,1,Ma
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q1,1,Male,4245
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q2,1,Male,4612
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,4485
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Male,4844
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2018Q2,1,Male,4432
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,3917
@@ -3140,7 +3140,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Fe
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,3206
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,3282
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2015Q3,2,Female,2713
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,2812
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2017Q3,2,Female,2796
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender,2019Q3,2,Female,3011
@@ -3207,7 +3207,7 @@ Separations,Lower Shore WIA,Maryland Separations by Gender,2015Q3,1,Male,9925
 Separations,Lower Shore WIA,Maryland Separations by Gender,2016Q3,1,Male,9915
 Separations,Lower Shore WIA,Maryland Separations by Gender,2019Q2,1,Male,6869
 Separations,Lower Shore WIA,Maryland Separations by Gender,2018Q2,1,Male,6878
-Separations,Lower Shore WIA,Maryland Separations by Gender,2020Q2,1,Male,0
+Separations,Lower Shore WIA,Maryland Separations by Gender,2020Q2,1,Male,TBD
 Separations,Lower Shore WIA,Maryland Separations by Gender,2017Q3,1,Male,10087
 Separations,Lower Shore WIA,Maryland Separations by Gender,2019Q3,1,Male,9633
 Separations,Lower Shore WIA,Maryland Separations by Gender,2016Q4,1,Male,6951
@@ -3225,7 +3225,7 @@ Separations,Lower Shore WIA,Maryland Separations by Gender,2015Q2,2,Female,6951
 Separations,Lower Shore WIA,Maryland Separations by Gender,2019Q1,2,Female,4415
 Separations,Lower Shore WIA,Maryland Separations by Gender,2016Q2,2,Female,7228
 Separations,Lower Shore WIA,Maryland Separations by Gender,2018Q2,2,Female,7359
-Separations,Lower Shore WIA,Maryland Separations by Gender,2020Q2,2,Female,0
+Separations,Lower Shore WIA,Maryland Separations by Gender,2020Q2,2,Female,TBD
 Separations,Lower Shore WIA,Maryland Separations by Gender,2017Q2,2,Female,7524
 Separations,Lower Shore WIA,Maryland Separations by Gender,2015Q3,2,Female,10400
 Separations,Lower Shore WIA,Maryland Separations by Gender,2019Q2,2,Female,7471
@@ -3248,7 +3248,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q1,E1,Less t
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q2,E1,Less than High school,885
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E1,Less than High school,779
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E1,Less than High school,830
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,-240
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q2,E1,Less than High school,740
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,-227
@@ -3270,7 +3270,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q2,E2,"High 
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q2,E2,"High school or equivalent, no college",1323
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q2,E2,"High school or equivalent, no college",1251
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E2,"High school or equivalent, no college",1254
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",1239
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",-428
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q3,E2,"High school or equivalent, no college",-540
@@ -3291,7 +3291,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q2,E3,Some c
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q1,E3,Some college or Associate degree,-1263
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q2,E3,Some college or Associate degree,1110
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q2,E3,Some college or Associate degree,1117
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,-363
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,1137
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E3,Some college or Associate degree,1090
@@ -3314,7 +3314,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q2,E4,Bachel
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q1,E4,Bachelor's degree or advanced degree,-789
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q2,E4,Bachelor's degree or advanced degree,694
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachelor's degree or advanced degree,642
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,-329
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,-264
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelor's degree or advanced degree,633
@@ -3421,11 +3421,11 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q1,E1,Less than
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than High school,0.091
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q2,E1,Less than High school,0.083
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q2,E1,Less than High school,0.086
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q2,E1,Less than High school,0.084
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less than High school,0.081
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q2,E1,Less than High school,0.088
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.142
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.162
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.14
@@ -3444,8 +3444,8 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High sch
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.066
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.07
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.065
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",0
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",TBD
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.069
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High school or equivalent, no college",0.109
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.067
@@ -3463,13 +3463,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some coll
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some college or Associate degree,0.074
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.073
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.073
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q2,E3,Some college or Associate degree,0.061
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some college or Associate degree,0.066
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q2,E3,Some college or Associate degree,0.063
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.066
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.065
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.112
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.1
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q3,E3,Some college or Associate degree,0.115
@@ -3482,13 +3482,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some coll
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.062
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q4,E3,Some college or Associate degree,0.064
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.064
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachelor's degree or advanced degree,0.066
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q1,E4,Bachelor's degree or advanced degree,0.061
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q2,E4,Bachelor's degree or advanced degree,0.052
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q2,E4,Bachelor's degree or advanced degree,0.059
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q2,E4,Bachelor's degree or advanced degree,0.056
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor's degree or advanced degree,0.058
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.058
@@ -3512,7 +3512,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q1,1,Male,-1851
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q2,1,Male,5137
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,5026
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2017Q2,1,Male,5189
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,4921
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2015Q3,1,Male,-2363
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q3,1,Male,-2428
@@ -3534,7 +3534,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2015Q2,0,All,3563
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2016Q2,0,All,3784
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,3769
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,3832
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,3402
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2017Q3,0,All,3362
@@ -3551,11 +3551,11 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Gender All,2018Q4,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.087
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.087
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.086
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2015Q2,1,Male,0.081
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2016Q2,1,Male,0.081
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.088
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q2,1,Male,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.08
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.138
@@ -3575,7 +3575,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.088
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2016Q2,2,Female,0.078
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2015Q2,2,Female,0.076
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q2,2,Female,0.079
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.08
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.079
@@ -3583,7 +3583,7 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.121
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.136
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q3,2,Female,0.126
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2019Q3,2,Female,0.139
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2018Q3,2,Female,0.127
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2015Q4,2,Female,0.079
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender,2017Q4,2,Female,0.079
@@ -3600,7 +3600,7 @@ Separations,Lower Shore WIA,Maryland Separations by Gender All,2015Q2,0,All,1370
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2016Q2,0,All,13710
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2018Q2,0,All,14237
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2017Q2,0,All,14531
-Separations,Lower Shore WIA,Maryland Separations by Gender All,2020Q2,0,All,0
+Separations,Lower Shore WIA,Maryland Separations by Gender All,2020Q2,0,All,TBD
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2019Q2,0,All,14340
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2015Q3,0,All,20325
 Separations,Lower Shore WIA,Maryland Separations by Gender All,2016Q3,0,All,20595
@@ -3618,14 +3618,14 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.087
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.08
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.078
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.083
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.083
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.144
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.08
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.129
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.133
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.133
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Gender All,2019Q3,0,All,0.144
@@ -3711,7 +3711,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2017Q2,2,Female,470
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q2,2,Female,4662
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q2,2,Female,4747
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,4701
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-2133
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-2087
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender,2018Q3,2,Female,-2367
@@ -3737,7 +3737,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2017Q2,0,All,98
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2016Q2,0,All,9797
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2020Q1,0,All,-4601
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,9771
-Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-4448
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,9619
 Job Change,Lower Shore WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-4559
@@ -3779,7 +3779,7 @@ Separations,Lower Shore WIA,Maryland Separations by Age,2017Q2,A08,65-99,776
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q2,A08,65-99,856
 Separations,Lower Shore WIA,Maryland Separations by Age,2015Q3,A08,65-99,815
 Separations,Lower Shore WIA,Maryland Separations by Age,2016Q3,A08,65-99,819
-Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
+Separations,Lower Shore WIA,Maryland Separations by Age,2020Q2,A08,65-99,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age,2018Q3,A08,65-99,912
 Separations,Lower Shore WIA,Maryland Separations by Age,2017Q3,A08,65-99,855
 Separations,Lower Shore WIA,Maryland Separations by Age,2019Q3,A08,65-99,865
@@ -3840,7 +3840,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q2,A08,65-
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q1,A08,65-99,3333
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2017Q2,A08,65-99,4149
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,3280
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,2778
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,3374
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2018Q1,A08,65-99,3229
@@ -3867,7 +3867,7 @@ Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2018Q2,E0,Al
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,-4448
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2016Q3,E0,All Education Categories,-4559
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age,2016Q4,A08,65-99,3289
-Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
+Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,TBD
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-4926
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2017Q3,E0,All Education Categories,-5402
 Job change,Lower Shore WIA,Maryland Job Net Change by Education All,2017Q4,E0,All Education Categories,-2954
@@ -3887,7 +3887,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education All,2017Q2,E0,All 
 Separations,Lower Shore WIA,Maryland Separations by Education All,2018Q2,E0,All Education Categories,14237
 Separations,Lower Shore WIA,Maryland Separations by Education All,2019Q2,E0,All Education Categories,14340
 Separations,Lower Shore WIA,Maryland Separations by Education All,2016Q2,E0,All Education Categories,13710
-Separations,Lower Shore WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
+Separations,Lower Shore WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,TBD
 Separations,Lower Shore WIA,Maryland Separations by Education All,2017Q3,E0,All Education Categories,20732
 Separations,Lower Shore WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,20325
 Separations,Lower Shore WIA,Maryland Separations by Education All,2016Q3,E0,All Education Categories,20595
@@ -3908,7 +3908,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2016Q2,E1,Less tha
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q2,E1,Less than High school,1645
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q2,E1,Less than High school,1861
 Separations,Lower Shore WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,1801
-Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,0
+Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,TBD
 Separations,Lower Shore WIA,Maryland Separations by Education,2018Q2,E1,Less than High school,1794
 Separations,Lower Shore WIA,Maryland Separations by Education,2016Q3,E1,Less than High school,1985
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,1911
@@ -3932,7 +3932,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2019Q2,E2,"High sc
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q2,E2,"High school or equivalent, no college",3100
 Separations,Lower Shore WIA,Maryland Separations by Education,2018Q2,E2,"High school or equivalent, no college",3091
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q3,E2,"High school or equivalent, no college",3337
-Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",0
+Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Separations,Lower Shore WIA,Maryland Separations by Education,2016Q3,E2,"High school or equivalent, no college",3354
 Separations,Lower Shore WIA,Maryland Separations by Education,2019Q3,E2,"High school or equivalent, no college",3313
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",3369
@@ -3953,7 +3953,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2018Q1,E3,Some col
 Separations,Lower Shore WIA,Maryland Separations by Education,2018Q2,E3,Some college or Associate degree,2952
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q3,E3,Some college or Associate degree,3103
 Separations,Lower Shore WIA,Maryland Separations by Education,2016Q3,E3,Some college or Associate degree,3083
-Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,0
+Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,TBD
 Separations,Lower Shore WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,2989
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q2,E3,Some college or Associate degree,2984
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q3,E3,Some college or Associate degree,3144
@@ -3975,7 +3975,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2016Q2,E4,Bachelor
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q2,E4,Bachelor's degree or advanced degree,1944
 Separations,Lower Shore WIA,Maryland Separations by Education,2018Q2,E4,Bachelor's degree or advanced degree,1993
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q3,E4,Bachelor's degree or advanced degree,2119
-Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Separations,Lower Shore WIA,Maryland Separations by Education,2019Q2,E4,Bachelor's degree or advanced degree,2073
 Separations,Lower Shore WIA,Maryland Separations by Education,2016Q3,E4,Bachelor's degree or advanced degree,2077
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q3,E4,Bachelor's degree or advanced degree,2133
@@ -3997,7 +3997,7 @@ Separations,Lower Shore WIA,Maryland Separations by Education,2016Q2,E5,Educatio
 Separations,Lower Shore WIA,Maryland Separations by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),4347
 Separations,Lower Shore WIA,Maryland Separations by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),4407
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),4643
-Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Separations,Lower Shore WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Separations,Lower Shore WIA,Maryland Separations by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),10097
 Separations,Lower Shore WIA,Maryland Separations by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),9855
 Separations,Lower Shore WIA,Maryland Separations by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),10089
@@ -4020,7 +4020,7 @@ Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q2,E5,Educat
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),5988
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),5727
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-3143
-Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),-3025
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-3210
 Job Change,Lower Shore WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-3694
@@ -4035,13 +4035,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q1,E5,Education
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),0.189,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educational attainment not available (workers aged 24 or younger),0.198,
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.199,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),0.197,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),0.206,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),0.195,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),0.206,
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.323,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.315,
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.303,
@@ -4057,7 +4057,7 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,3784
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,3938
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,3769
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,3832
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,3275
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,3402
@@ -4081,10 +4081,10 @@ Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,All Ages,3784
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,3938
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,3769
-Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Lower Shore WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,3832
 Separations,Lower Shore WIA,Maryland Separations by Age All,2019Q2,A00,All Ages,14340
-Separations,Lower Shore WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
+Separations,Lower Shore WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,TBD
 Separations,Lower Shore WIA,Maryland Separations by Age All,2017Q2,A00,All Ages,14531
 Separations,Lower Shore WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,14237
 Separations,Lower Shore WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,20325
@@ -4102,13 +4102,13 @@ Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All E
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.086
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.087
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.078
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.08
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2017Q2,E0,All Education Categories,0.083
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.083
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.08
-Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
+Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,TBD
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.144
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.129
 Turnover,Lower Shore WIA,Maryland Turnover Rate by Education All,2019Q3,E0,All Education Categories,0.144
