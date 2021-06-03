@@ -9,7 +9,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,72,Accommod
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,72,Accommodation and Food Services,2062
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,72,Accommodation and Food Services,2329
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,72,Accommodation and Food Services,2257
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,72,Accommodation and Food Services,2234
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,72,Accommodation and Food Services,2265
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,72,Accommodation and Food Services,2307
@@ -31,7 +31,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,72,Accommod
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,72,Accommodation and Food Services,1730
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,72,Accommodation and Food Services,2114
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,72,Accommodation and Food Services,1824
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,72,Accommodation and Food Services,1516
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,72,Accommodation and Food Services,-518
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,72,Accommodation and Food Services,-836
@@ -75,7 +75,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,72,Accommodat
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,72,Accommodation and Food Services,9022
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,72,Accommodation and Food Services,9073
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,72,Accommodation and Food Services,9013
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,72,Accommodation and Food Services,11057
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,72,Accommodation and Food Services,8802
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,72,Accommodation and Food Services,11172
@@ -92,14 +92,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodati
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,72,Accommodation and Food Services,14.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,72,Accommodation and Food Services,14.000000000000002
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,14.2
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,15.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommodation and Food Services,14.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,14.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,72,Accommodation and Food Services,13.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,72,Accommodation and Food Services,14.099999999999998
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,72,Accommodation and Food Services,14.7
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,72,Accommodation and Food Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,72,Accommodation and Food Services,14.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q3,72,Accommodation and Food Services,14.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,72,Accommodation and Food Services,15.4
@@ -143,7 +143,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,62,Health C
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,62,Health Care and Social Assistance,4773
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,62,Health Care and Social Assistance,4905
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,62,Health Care and Social Assistance,4559
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,62,Health Care and Social Assistance,4784
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,62,Health Care and Social Assistance,4623
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,62,Health Care and Social Assistance,4760
@@ -164,7 +164,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,62,Health C
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,62,Health Care and Social Assistance,521
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,62,Health Care and Social Assistance,438
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,62,Health Care and Social Assistance,622
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,62,Health Care and Social Assistance,674
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,62,Health Care and Social Assistance,448
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,62,Health Care and Social Assistance,464
@@ -208,7 +208,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,62,Health Car
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,62,Health Care and Social Assistance,6771
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,62,Health Care and Social Assistance,7332
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,62,Health Care and Social Assistance,6850
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,62,Health Care and Social Assistance,7836
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,62,Health Care and Social Assistance,7786
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,62,Health Care and Social Assistance,7458
@@ -228,14 +228,14 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2018Q4,62,Health Car
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,62,Health Care and Social Assistance,8.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,7.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,62,Health Care and Social Assistance,10.9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,8.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,62,Health Care and Social Assistance,7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health Care and Social Assistance,7.9
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,62,Health Care and Social Assistance,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,62,Health Care and Social Assistance,7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,62,Health Care and Social Assistance,7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,62,Health Care and Social Assistance,7.3999999999999995
@@ -279,7 +279,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q1,56,Administ
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,4055
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,4200
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,4116
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,3680
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,3856
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,3945
@@ -303,7 +303,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,56,Administ
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,1803
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,-114
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,-686
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,-101
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,56,Administrative and Support and Waste Management and Remediation Services,-1097
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,-1035
@@ -344,7 +344,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,56,Administra
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,8393
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,8308
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,7851
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,8789
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,8152
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,56,Administrative and Support and Waste Management and Remediation Services,8475
@@ -361,9 +361,9 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,56,Administrat
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,12.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,12.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,12.1
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,12.1
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,56,Administrative and Support and Waste Management and Remediation Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,12
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,56,Administrative and Support and Waste Management and Remediation Services,14.399999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,56,Administrative and Support and Waste Management and Remediation Services,13.4
@@ -410,7 +410,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,11,"Agricul
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",2939
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",4623
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",2702
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",2313
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",2631
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,11,"Agriculture, Forestry, Fishing and Hunting",2900
@@ -433,7 +433,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q1,11,"Agricul
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",89
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",58
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",127
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",3
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",13
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",1
@@ -477,7 +477,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,11,"Agricultu
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",154
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",41
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q4,11,"Agriculture, Forestry, Fishing and Hunting",81
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",74
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",99
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",85
@@ -492,12 +492,12 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,11,"Agricultur
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",6.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.4
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",8.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",11
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",10
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,11,"Agriculture, Forestry, Fishing and Hunting",8.6
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",19.400000000000002
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",11.799999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",10.4
@@ -553,7 +553,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q4,71,"Arts, E
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q4,71,"Arts, Entertainment, and Recreation",2587
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q4,71,"Arts, Entertainment, and Recreation",2873
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q1,71,"Arts, Entertainment, and Recreation",178
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q4,71,"Arts, Entertainment, and Recreation",2781
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",124
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",172
@@ -564,7 +564,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,71,"Arts, E
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",3485
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",3401
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",3583
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",-2679
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",2914
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",-2375
@@ -609,7 +609,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,71,"Arts, Ent
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",1819
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1771
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",5156
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",1667
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",5074
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",5635
@@ -624,7 +624,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2019Q4,71,"Arts, Ent
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",12.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,71,"Arts, Entertainment, and Recreation",11.600000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Entertainment, and Recreation",11.799999999999999
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",12
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",12.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",12.4
@@ -632,7 +632,7 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Ente
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",12.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",11
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,71,"Arts, Entertainment, and Recreation",18.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,71,"Arts, Entertainment, and Recreation",17.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,71,"Arts, Entertainment, and Recreation",17.599999999999998
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,71,"Arts, Entertainment, and Recreation",17.2
@@ -673,7 +673,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q1,23,Construc
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,23,Construction,5355
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,23,Construction,5408
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,23,Construction,5712
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,23,Construction,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,23,Construction,5726
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,23,Construction,6014
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,23,Construction,5353
@@ -697,7 +697,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q1,23,Construc
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,23,Construction,1511
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,23,Construction,312
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,23,Construction,817
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,23,Construction,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,23,Construction,1241
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,23,Construction,350
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,23,Construction,416
@@ -740,7 +740,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,23,Constructi
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,23,Construction,4493
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,23,Construction,3594
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,23,Construction,3434
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,23,Construction,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,23,Construction,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,23,Construction,4569
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,23,Construction,3704
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,23,Construction,3946
@@ -757,13 +757,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,23,Constructio
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,23,Construction,9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,23,Construction,7.9
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,23,Construction,8.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,8.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,23,Construction,8.799999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,23,Construction,8.799999999999999
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,23,Construction,10.299999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,23,Construction,10.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,23,Construction,10.6
@@ -806,7 +806,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,61,Educatio
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,61,Educational Services,6001
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,61,Educational Services,5412
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,61,Educational Services,5606
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,61,Educational Services,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,61,Educational Services,5523
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,61,Educational Services,3158
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,61,Educational Services,4104
@@ -831,7 +831,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,61,Educatio
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,61,Educational Services,-104
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,61,Educational Services,-394
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,61,Educational Services,-587
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,61,Educational Services,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,61,Educational Services,-611
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q3,61,Educational Services,-598
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,61,Educational Services,-486
@@ -876,7 +876,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,61,Educationa
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,61,Educational Services,4966
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,61,Educational Services,4367
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,61,Educational Services,4562
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,61,Educational Services,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,61,Educational Services,4466
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,61,Educational Services,4732
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q4,61,Educational Services,2641
@@ -889,13 +889,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,61,Educational Services,5.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,5.6000000000000005
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,4.1000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,4.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educational Services,4.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,4.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,61,Educational Services,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,61,Educational Services,3.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,61,Educational Services,3.1
@@ -944,7 +944,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q3,52,Finance 
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,52,Finance and Insurance,10486
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,52,Finance and Insurance,8735
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,52,Finance and Insurance,9396
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,52,Finance and Insurance,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q4,52,Finance and Insurance,9702
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q4,52,Finance and Insurance,10181
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q4,52,Finance and Insurance,11018
@@ -961,7 +961,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,52,Finance 
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,52,Finance and Insurance,75
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,52,Finance and Insurance,182
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,52,Finance and Insurance,556
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,52,Finance and Insurance,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,52,Finance and Insurance,-92
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,52,Finance and Insurance,-33
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,52,Finance and Insurance,-151
@@ -1004,7 +1004,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,52,Finance an
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,52,Finance and Insurance,1297
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,52,Finance and Insurance,2247
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,52,Finance and Insurance,1393
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,52,Finance and Insurance,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,52,Finance and Insurance,1497
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,52,Finance and Insurance,1628
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,52,Finance and Insurance,1778
@@ -1022,13 +1022,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,52,Finance and
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,5.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,6.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,5.4
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,6.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,5.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,5.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,52,Finance and Insurance,6.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,6
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,52,Finance and Insurance,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,52,Finance and Insurance,6.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,52,Finance and Insurance,6.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q3,52,Finance and Insurance,6.2
@@ -1071,7 +1071,7 @@ Workers,Montgomery WIA,Maryland Workers by Industry,2016Q4,52,Finance and Insura
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,51,Information,8866
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,51,Information,10068
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,51,Information,8299
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,51,Information,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,51,Information,7614
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,51,Information,8170
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,51,Information,8428
@@ -1092,7 +1092,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,51,Informat
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,51,Information,14
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,51,Information,107
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,51,Information,-250
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,51,Information,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,51,Information,-322
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,51,Information,-149
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,51,Information,940
@@ -1138,7 +1138,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,51,Informatio
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,51,Information,1028
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,51,Information,1583
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,51,Information,1337
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,51,Information,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,51,Information,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,51,Information,1107
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,51,Information,1326
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,51,Information,1132
@@ -1153,13 +1153,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,51,Information,11
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,8.6
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,5.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,5.8999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,6.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,6.4
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,51,Information,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,51,Information,6.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,51,Information,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,6.2
@@ -1202,7 +1202,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,55,Manageme
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,55,Management of Companies and Enterprises,8441
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,55,Management of Companies and Enterprises,9294
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,55,Management of Companies and Enterprises,9569
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,55,Management of Companies and Enterprises,8411
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,55,Management of Companies and Enterprises,10243
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,55,Management of Companies and Enterprises,8188
@@ -1225,7 +1225,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,55,Manageme
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,55,Management of Companies and Enterprises,89
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,55,Management of Companies and Enterprises,177
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,55,Management of Companies and Enterprises,-76
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,55,Management of Companies and Enterprises,142
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,55,Management of Companies and Enterprises,-137
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,55,Management of Companies and Enterprises,-106
@@ -1270,7 +1270,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,55,Management
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,55,Management of Companies and Enterprises,500
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,55,Management of Companies and Enterprises,540
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,55,Management of Companies and Enterprises,489
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,55,Management of Companies and Enterprises,551
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,55,Management of Companies and Enterprises,581
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,55,Management of Companies and Enterprises,591
@@ -1285,12 +1285,12 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,55,Management 
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,4.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,55,Management of Companies and Enterprises,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,5.1
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,4.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,55,Management of Companies and Enterprises,5.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,5.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,55,Management of Companies and Enterprises,4.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,55,Management of Companies and Enterprises,5.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,55,Management of Companies and Enterprises,4.8
@@ -1335,7 +1335,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,31-33,Manuf
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,31-33,Manufacturing,9284
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,31-33,Manufacturing,10433
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,31-33,Manufacturing,9470
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,31-33,Manufacturing,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,31-33,Manufacturing,8595
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,31-33,Manufacturing,9190
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,31-33,Manufacturing,8817
@@ -1358,7 +1358,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,31-33,Manuf
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,31-33,Manufacturing,231
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,31-33,Manufacturing,241
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,31-33,Manufacturing,115
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,31-33,Manufacturing,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,31-33,Manufacturing,-262
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,31-33,Manufacturing,-15
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,31-33,Manufacturing,-115
@@ -1402,7 +1402,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,31-33,Manufac
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,31-33,Manufacturing,826
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,31-33,Manufacturing,860
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,31-33,Manufacturing,923
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,31-33,Manufacturing,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,31-33,Manufacturing,1045
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,31-33,Manufacturing,1054
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,31-33,Manufacturing,1128
@@ -1417,13 +1417,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufact
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,31-33,Manufacturing,5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,31-33,Manufacturing,4.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,4.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manufacturing,5.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,31-33,Manufacturing,5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,5.3
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,31-33,Manufacturing,5.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,31-33,Manufacturing,5.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q3,31-33,Manufacturing,5.4
@@ -1466,7 +1466,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,21,"Mining,
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5124
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5326
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5602
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5875
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5535
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5199
@@ -1494,7 +1494,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,21,"Mining,
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-3
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",2
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
@@ -1507,64 +1507,64 @@ New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q1,21,"Mining, Quarr
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",10
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
-Separations,Montgomery WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Montgomery WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",10
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6
-Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Montgomery WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Separations,Montgomery WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",6
-Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",3
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",4
-Separations,Montgomery WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",6.9
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",7.3999999999999995
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",1.9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",10.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",11.799999999999999
-New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",0
+New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",8.799999999999999
 Workers,Montgomery WIA,Maryland Workers by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",46
 Workers,Montgomery WIA,Maryland Workers by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",54
@@ -1599,7 +1599,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,81,Other Se
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,81,Other Services (except Public Administration),4255
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,81,Other Services (except Public Administration),4180
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,81,Other Services (except Public Administration),4209
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,81,Other Services (except Public Administration),4066
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,81,Other Services (except Public Administration),4366
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,81,Other Services (except Public Administration),4513
@@ -1621,7 +1621,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,81,Other Se
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,81,Other Services (except Public Administration),252
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,81,Other Services (except Public Administration),599
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,81,Other Services (except Public Administration),441
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,81,Other Services (except Public Administration),-535
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,81,Other Services (except Public Administration),-210
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,81,Other Services (except Public Administration),-121
@@ -1664,7 +1664,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,81,Other Serv
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,81,Other Services (except Public Administration),3372
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,81,Other Services (except Public Administration),2631
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,81,Other Services (except Public Administration),2658
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,81,Other Services (except Public Administration),3696
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,81,Other Services (except Public Administration),3513
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,81,Other Services (except Public Administration),3321
@@ -1680,14 +1680,14 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2019Q4,81,Other Serv
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,81,Other Services (except Public Administration),7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),6.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),8.799999999999999
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.200000000000001
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q4,81,Other Services (except Public Administration),2680
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),8.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,81,Other Services (except Public Administration),8.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,81,Other Services (except Public Administration),8.3
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,81,Other Services (except Public Administration),TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,81,Other Services (except Public Administration),8.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,81,Other Services (except Public Administration),8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,81,Other Services (except Public Administration),7.8
@@ -1731,7 +1731,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,54,"Profess
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",8136
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",8206
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8788
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",8487
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",7883
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",8153
@@ -1753,7 +1753,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,54,"Profess
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",985
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",898
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",1175
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",465
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",40
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",-2
@@ -1798,7 +1798,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,54,"Professio
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",7351
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8063
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",7739
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,54,"Professional, Scientific, and Technical Services",7691
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7194
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,54,"Professional, Scientific, and Technical Services",7883
@@ -1813,13 +1813,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Profession
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Professional, Scientific, and Technical Services",7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",8.200000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",7.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",7.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",7.199999999999999
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,54,"Professional, Scientific, and Technical Services",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,54,"Professional, Scientific, and Technical Services",7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q3,54,"Professional, Scientific, and Technical Services",8.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,54,"Professional, Scientific, and Technical Services",8.200000000000001
@@ -1863,7 +1863,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q1,92,Public A
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,92,Public Administration,5810
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,92,Public Administration,5353
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,92,Public Administration,5479
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,92,Public Administration,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,92,Public Administration,5984
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,92,Public Administration,5043
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,92,Public Administration,6024
@@ -1884,7 +1884,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,92,Public A
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,92,Public Administration,753
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,92,Public Administration,544
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,92,Public Administration,-937
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,92,Public Administration,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,92,Public Administration,-835
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,92,Public Administration,462
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,92,Public Administration,-484
@@ -1930,7 +1930,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,92,Public Adm
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,92,Public Administration,895
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,92,Public Administration,758
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,92,Public Administration,3073
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,92,Public Administration,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,92,Public Administration,3092
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,92,Public Administration,3031
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,92,Public Administration,3206
@@ -1945,14 +1945,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Admi
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.6999999999999997
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,3.5999999999999996
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,3.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,4.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,4.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,92,Public Administration,4.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,4.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,92,Public Administration,4.1000000000000005
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,92,Public Administration,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,92,Public Administration,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,92,Public Administration,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,92,Public Administration,3.4000000000000004
@@ -1995,7 +1995,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,53,Real Est
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,53,Real Estate and Rental and Leasing,5930
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,53,Real Estate and Rental and Leasing,6111
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,53,Real Estate and Rental and Leasing,6502
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,53,Real Estate and Rental and Leasing,6503
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,53,Real Estate and Rental and Leasing,6353
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q3,53,Real Estate and Rental and Leasing,6385
@@ -2016,7 +2016,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,53,Real Est
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,53,Real Estate and Rental and Leasing,200
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q2,53,Real Estate and Rental and Leasing,402
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,53,Real Estate and Rental and Leasing,146
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,53,Real Estate and Rental and Leasing,-100
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q1,53,Real Estate and Rental and Leasing,-33
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,14
@@ -2061,7 +2061,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,53,Real Estat
 Separations,Montgomery WIA,Maryland Separations by Industry,2020Q1,53,Real Estate and Rental and Leasing,1470
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,53,Real Estate and Rental and Leasing,1073
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,53,Real Estate and Rental and Leasing,1146
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,53,Real Estate and Rental and Leasing,1275
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,53,Real Estate and Rental and Leasing,1255
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,53,Real Estate and Rental and Leasing,1225
@@ -2077,13 +2077,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,6.800000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,53,Real Estate and Rental and Leasing,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,53,Real Estate and Rental and Leasing,7.199999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,53,Real Estate and Rental and Leasing,6.800000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,53,Real Estate and Rental and Leasing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,53,Real Estate and Rental and Leasing,7.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,53,Real Estate and Rental and Leasing,8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,53,Real Estate and Rental and Leasing,8.200000000000001
@@ -2126,7 +2126,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,44-45,Retai
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q1,44-45,Retail Trade,3466
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,44-45,Retail Trade,3102
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,44-45,Retail Trade,3140
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,44-45,Retail Trade,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,44-45,Retail Trade,3045
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,44-45,Retail Trade,3227
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,44-45,Retail Trade,3194
@@ -2151,7 +2151,7 @@ Job change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,44-45,Retai
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,44-45,Retail Trade,851
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,44-45,Retail Trade,-531
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,44-45,Retail Trade,-362
-Job change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,0
+Job change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,44-45,Retail Trade,TBD
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,44-45,Retail Trade,-371
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q3,44-45,Retail Trade,-449
 Job change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,44-45,Retail Trade,-474
@@ -2193,7 +2193,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,44-45,Retail 
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,44-45,Retail Trade,7886
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,44-45,Retail Trade,7540
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,44-45,Retail Trade,7416
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,44-45,Retail Trade,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,44-45,Retail Trade,9384
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,44-45,Retail Trade,9588
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,44-45,Retail Trade,8728
@@ -2209,14 +2209,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail T
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,44-45,Retail Trade,11.600000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Retail Trade,11.200000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,9.700000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.200000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,9.700000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,9.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,44-45,Retail Trade,9.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,44-45,Retail Trade,9.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,44-45,Retail Trade,10.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,44-45,Retail Trade,10.299999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,44-45,Retail Trade,10.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q3,44-45,Retail Trade,10.6
@@ -2263,7 +2263,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,48-49,Trans
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q3,48-49,Transportation and Warehousing,4021
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,48-49,Transportation and Warehousing,4009
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,48-49,Transportation and Warehousing,4152
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q3,48-49,Transportation and Warehousing,4110
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q4,48-49,Transportation and Warehousing,5048
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q4,48-49,Transportation and Warehousing,5607
@@ -2281,7 +2281,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q2,48-49,Trans
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,48-49,Transportation and Warehousing,231
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,48-49,Transportation and Warehousing,70
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,48-49,Transportation and Warehousing,366
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,-51
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,48-49,Transportation and Warehousing,105
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,-110
@@ -2322,7 +2322,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2018Q1,48-49,Transpo
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,48-49,Transportation and Warehousing,696
 Separations,Montgomery WIA,Maryland Separations by Industry,2020Q1,48-49,Transportation and Warehousing,2055
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q2,48-49,Transportation and Warehousing,733
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,48-49,Transportation and Warehousing,688
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,48-49,Transportation and Warehousing,994
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,48-49,Transportation and Warehousing,731
@@ -2340,14 +2340,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transpor
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q4,48-49,Transportation and Warehousing,1078
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Transportation and Warehousing,7.3999999999999995
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,9.700000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,5.8999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,6.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,48-49,Transportation and Warehousing,7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,6.9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,7.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,48-49,Transportation and Warehousing,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,48-49,Transportation and Warehousing,8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,48-49,Transportation and Warehousing,7.7
@@ -2388,7 +2388,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q1,22,Utilitie
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q1,22,Utilities,10660
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,22,Utilities,7894
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q2,22,Utilities,7882
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,22,Utilities,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,22,Utilities,8888
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,22,Utilities,8226
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q3,22,Utilities,10665
@@ -2414,7 +2414,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,22,Utilitie
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,22,Utilities,-10
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,22,Utilities,7
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,22,Utilities,-5
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,22,Utilities,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,22,Utilities,-9
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,22,Utilities,1
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,22,Utilities,-18
@@ -2457,7 +2457,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2016Q2,22,Utilities,
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q2,22,Utilities,25
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,22,Utilities,36
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,22,Utilities,50
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,22,Utilities,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,22,Utilities,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,22,Utilities,22
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,22,Utilities,32
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,22,Utilities,29
@@ -2472,14 +2472,14 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2019Q4,22,Utilities,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utilities,3.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,2.7
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,5.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,22,Utilities,8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,22,Utilities,3.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,22,Utilities,5.3
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,22,Utilities,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utilities,5.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,22,Utilities,3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,22,Utilities,2.7
@@ -2522,7 +2522,7 @@ Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q1,42,Wholesal
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q2,42,Wholesale Trade,8387
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,42,Wholesale Trade,8348
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2018Q2,42,Wholesale Trade,8541
-Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,0
+Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q2,42,Wholesale Trade,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2019Q2,42,Wholesale Trade,8525
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2015Q3,42,Wholesale Trade,9645
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2016Q3,42,Wholesale Trade,9872
@@ -2546,7 +2546,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q2,42,Wholesal
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2019Q2,42,Wholesale Trade,130
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q2,42,Wholesale Trade,-2
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2015Q3,42,Wholesale Trade,1
-Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2020Q2,42,Wholesale Trade,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2016Q3,42,Wholesale Trade,-52
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2017Q3,42,Wholesale Trade,-52
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2018Q3,42,Wholesale Trade,172
@@ -2591,7 +2591,7 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2018Q2,42,Wholesale 
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q2,42,Wholesale Trade,764
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q3,42,Wholesale Trade,815
 Separations,Montgomery WIA,Maryland Separations by Industry,2015Q3,42,Wholesale Trade,834
-Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,0
+Separations,Montgomery WIA,Maryland Separations by Industry,2020Q2,42,Wholesale Trade,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2018Q3,42,Wholesale Trade,832
 Separations,Montgomery WIA,Maryland Separations by Industry,2016Q3,42,Wholesale Trade,828
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,42,Wholesale Trade,787
@@ -2606,12 +2606,12 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale T
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,7.199999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,42,Wholesale Trade,6.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,7.3999999999999995
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,6.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,42,Wholesale Trade,7.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,42,Wholesale Trade,6.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,7.199999999999999
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,42,Wholesale Trade,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q3,42,Wholesale Trade,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q3,42,Wholesale Trade,8.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q3,42,Wholesale Trade,6.9
@@ -2655,7 +2655,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A01,14-1
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A01,14-18,771
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A01,14-18,840
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A01,14-18,811
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A01,14-18,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A01,14-18,800
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A01,14-18,879
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A01,14-18,890
@@ -2674,7 +2674,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q1,A02,19-2
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q1,A02,19-21,1556
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q2,A02,19-21,1231
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A02,19-21,1405
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A02,19-21,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A02,19-21,1471
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A02,19-21,1347
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A02,19-21,1284
@@ -2696,7 +2696,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q1,A03,22-2
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q1,A03,22-24,3041
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A03,22-24,2426
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q2,A03,22-24,2372
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A03,22-24,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A03,22-24,2778
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A03,22-24,2642
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A03,22-24,2514
@@ -2721,7 +2721,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A04,25-3
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A04,25-34,4284
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A04,25-34,4557
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A04,25-34,4413
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A04,25-34,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A04,25-34,3986
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A04,25-34,4265
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A04,25-34,4192
@@ -2742,7 +2742,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A05,35-4
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A05,35-44,6247
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A05,35-44,6311
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A05,35-44,6443
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A05,35-44,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A05,35-44,6259
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A05,35-44,5760
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A05,35-44,6007
@@ -2763,7 +2763,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q1,A06,45-5
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q2,A06,45-54,6894
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A06,45-54,7067
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A06,45-54,6974
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A06,45-54,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A06,45-54,7301
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A06,45-54,7128
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A06,45-54,7130
@@ -2788,7 +2788,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A07,55-6
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A07,55-64,7080
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A07,55-64,6889
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A07,55-64,6363
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A07,55-64,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A07,55-64,6771
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q3,A07,55-64,6669
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q3,A07,55-64,6957
@@ -2963,7 +2963,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2020Q1,A01,14-18,4092
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A01,14-18,2490
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A01,14-18,2641
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A01,14-18,2694
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A01,14-18,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A01,14-18,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A01,14-18,8327
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A01,14-18,7988
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q3,A01,14-18,8477
@@ -2985,7 +2985,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2015Q2,A02,19-21,4941
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A02,19-21,4593
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A02,19-21,4782
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A02,19-21,4915
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A02,19-21,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A02,19-21,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A02,19-21,10893
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A02,19-21,10753
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q3,A02,19-21,10589
@@ -3007,7 +3007,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A03,22-24,5602
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A03,22-24,6033
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A03,22-24,5969
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A03,22-24,5894
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A03,22-24,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A03,22-24,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A03,22-24,7867
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A03,22-24,7641
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q3,A03,22-24,7150
@@ -3028,7 +3028,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A04,25-34,15615
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A04,25-34,15343
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q2,A04,25-34,16448
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A04,25-34,15376
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A04,25-34,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A04,25-34,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A04,25-34,16174
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A04,25-34,17165
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A04,25-34,16941
@@ -3051,7 +3051,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A05,35-44,10414
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A05,35-44,11668
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A05,35-44,10369
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A05,35-44,10133
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A05,35-44,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A05,35-44,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A05,35-44,10719
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q3,A05,35-44,10801
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q3,A05,35-44,10212
@@ -3073,7 +3073,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A06,45-54,9126
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A06,45-54,8799
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A06,45-54,8844
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A06,45-54,9372
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A06,45-54,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A06,45-54,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A06,45-54,9236
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A06,45-54,9052
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q3,A06,45-54,8635
@@ -3095,7 +3095,7 @@ Separations,Montgomery WIA,Maryland Separations by Age,2016Q2,A07,55-64,6286
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A07,55-64,6621
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A07,55-64,6295
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A07,55-64,6994
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A07,55-64,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A07,55-64,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2015Q3,A07,55-64,6008
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A07,55-64,6248
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q3,A07,55-64,5917
@@ -3118,7 +3118,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2017Q2,1,Mal
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2018Q2,1,Male,6809
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q2,1,Male,6985
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2015Q3,1,Male,6318
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,1,Male,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2016Q3,1,Male,6870
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2018Q3,1,Male,6716
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2017Q3,1,Male,6611
@@ -3136,7 +3136,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q1,2,Fem
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2016Q2,2,Female,4684
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q1,2,Female,6035
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2018Q2,2,Female,4807
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2020Q2,2,Female,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2019Q2,2,Female,4937
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2017Q2,2,Female,4726
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2016Q3,2,Female,4576
@@ -3207,7 +3207,7 @@ Separations,Montgomery WIA,Maryland Separations by Gender,2018Q2,1,Male,28037
 Separations,Montgomery WIA,Maryland Separations by Gender,2016Q3,1,Male,35622
 Separations,Montgomery WIA,Maryland Separations by Gender,2018Q3,1,Male,35184
 Separations,Montgomery WIA,Maryland Separations by Gender,2015Q3,1,Male,35781
-Separations,Montgomery WIA,Maryland Separations by Gender,2020Q2,1,Male,0
+Separations,Montgomery WIA,Maryland Separations by Gender,2020Q2,1,Male,TBD
 Separations,Montgomery WIA,Maryland Separations by Gender,2017Q3,1,Male,34547
 Separations,Montgomery WIA,Maryland Separations by Gender,2019Q2,1,Male,29462
 Separations,Montgomery WIA,Maryland Separations by Gender,2015Q4,1,Male,32260
@@ -3228,7 +3228,7 @@ Separations,Montgomery WIA,Maryland Separations by Gender,2017Q2,2,Female,29769
 Separations,Montgomery WIA,Maryland Separations by Gender,2018Q2,2,Female,29692
 Separations,Montgomery WIA,Maryland Separations by Gender,2019Q2,2,Female,31817
 Separations,Montgomery WIA,Maryland Separations by Gender,2015Q3,2,Female,37158
-Separations,Montgomery WIA,Maryland Separations by Gender,2020Q2,2,Female,0
+Separations,Montgomery WIA,Maryland Separations by Gender,2020Q2,2,Female,TBD
 Separations,Montgomery WIA,Maryland Separations by Gender,2016Q3,2,Female,37820
 Separations,Montgomery WIA,Maryland Separations by Gender,2017Q3,2,Female,36375
 Separations,Montgomery WIA,Maryland Separations by Gender,2018Q3,2,Female,37435
@@ -3248,7 +3248,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q2,E1,Less th
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q2,E1,Less than High school,530
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q2,E1,Less than High school,647
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q2,E1,Less than High school,548
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E1,Less than High school,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q2,E1,Less than High school,649
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q3,E1,Less than High school,112
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q3,E1,Less than High school,135
@@ -3271,7 +3271,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q2,E2,"High s
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q2,E2,"High school or equivalent, no college",453
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q2,E2,"High school or equivalent, no college",374
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q2,E2,"High school or equivalent, no college",413
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",0
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q3,E2,"High school or equivalent, no college",109
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q3,E2,"High school or equivalent, no college",-89
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q3,E2,"High school or equivalent, no college",177
@@ -3293,7 +3293,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q2,E3,Some co
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q2,E3,Some college or Associate degree,107
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q2,E3,Some college or Associate degree,169
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q2,E3,Some college or Associate degree,277
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E3,Some college or Associate degree,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q3,E3,Some college or Associate degree,-112
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q3,E3,Some college or Associate degree,164
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q3,E3,Some college or Associate degree,81
@@ -3317,7 +3317,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q2,E4,Bachelo
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q2,E4,Bachelor's degree or advanced degree,-596
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q3,E4,Bachelor's degree or advanced degree,99
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q3,E4,Bachelor's degree or advanced degree,-445
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q3,E4,Bachelor's degree or advanced degree,-83
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q3,E4,Bachelor's degree or advanced degree,-446
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q3,E4,Bachelor's degree or advanced degree,-730
@@ -3422,11 +3422,11 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q1,E1,Less than 
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q2,E1,Less than High school,0.087
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q2,E1,Less than High school,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q2,E1,Less than High school,0.084
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E1,Less than High school,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q2,E1,Less than High school,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q2,E1,Less than High school,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q3,E1,Less than High school,0.093
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E1,Less than High school,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q3,E1,Less than High school,0.088
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q3,E1,Less than High school,0.091
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q3,E1,Less than High school,0.089
@@ -3442,14 +3442,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q1,E2,"High scho
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.078
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q1,E2,"High school or equivalent, no college",0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q2,E2,"High school or equivalent, no college",0.077
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E2,"High school or equivalent, no college",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q2,E2,"High school or equivalent, no college",0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q2,E2,"High school or equivalent, no college",0.075
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q2,E2,"High school or equivalent, no college",0.076
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q2,E2,"High school or equivalent, no college",0.078
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q3,E2,"High school or equivalent, no college",0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q3,E2,"High school or equivalent, no college",0.082
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q3,E2,"High school or equivalent, no college",0.08
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q3,E2,"High school or equivalent, no college",0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q3,E2,"High school or equivalent, no college",0.084
@@ -3463,13 +3463,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q1,E3,Some colle
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q1,E3,Some college or Associate degree,0.073
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q1,E3,Some college or Associate degree,0.076
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q1,E3,Some college or Associate degree,0.073
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E3,Some college or Associate degree,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q2,E3,Some college or Associate degree,0.076
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q2,E3,Some college or Associate degree,0.072
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q2,E3,Some college or Associate degree,0.073
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q2,E3,Some college or Associate degree,0.069
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q2,E3,Some college or Associate degree,0.071
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E3,Some college or Associate degree,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q3,E3,Some college or Associate degree,0.076
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q3,E3,Some college or Associate degree,0.075
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q3,E3,Some college or Associate degree,0.074
@@ -3483,13 +3483,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q4,E3,Some colle
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q1,E4,Bachelor's degree or advanced degree,0.07
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q1,E4,Bachelor's degree or advanced degree,0.063
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q1,E4,Bachelor's degree or advanced degree,0.062
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q1,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q1,E4,Bachelor's degree or advanced degree,0.061
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q2,E4,Bachelor's degree or advanced degree,0.06
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q2,E4,Bachelor's degree or advanced degree,0.065
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q2,E4,Bachelor's degree or advanced degree,0.058
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q3,E4,Bachelor's degree or advanced degree,0.064
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q2,E4,Bachelor's degree or advanced degree,0.061
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q2,E4,Bachelor's degree or advanced degree,0.059
@@ -3513,7 +3513,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2016Q2,1,Male,6675
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2017Q2,1,Male,7098
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2019Q2,1,Male,5970
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2018Q2,1,Male,7025
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2020Q2,1,Male,TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2019Q3,1,Male,-3426
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2017Q3,1,Male,-2916
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2018Q3,1,Male,-3184
@@ -3534,7 +3534,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2015Q2,0
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2016Q2,0,All,5649
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2017Q2,0,All,5659
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2018Q2,0,All,5750
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2020Q2,0,All,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2019Q2,0,All,5898
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2015Q3,0,All,5247
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender All,2016Q3,0,All,5686
@@ -3551,13 +3551,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2016Q1,1,Male,0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2017Q1,1,Male,0.08
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2019Q1,1,Male,0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2018Q1,1,Male,0.081
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q1,1,Male,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2016Q2,1,Male,0.083
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2015Q2,1,Male,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2017Q2,1,Male,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2019Q2,1,Male,0.083
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2018Q2,1,Male,0.082
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q2,1,Male,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2016Q3,1,Male,0.089
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2015Q3,1,Male,0.093
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2017Q3,1,Male,0.088
@@ -3575,10 +3575,10 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2018Q1,2,Female,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2015Q2,2,Female,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2019Q1,2,Female,0.085
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2016Q2,2,Female,0.089
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q1,2,Female,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2017Q2,2,Female,0.079
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2018Q2,2,Female,0.08
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2020Q2,2,Female,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2019Q2,2,Female,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2015Q3,2,Female,0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender,2016Q3,2,Female,0.083
@@ -3601,7 +3601,7 @@ Separations,Montgomery WIA,Maryland Separations by Gender All,2016Q2,0,All,58161
 Separations,Montgomery WIA,Maryland Separations by Gender All,2017Q2,0,All,57960
 Separations,Montgomery WIA,Maryland Separations by Gender All,2018Q2,0,All,57729
 Separations,Montgomery WIA,Maryland Separations by Gender All,2019Q2,0,All,61279
-Separations,Montgomery WIA,Maryland Separations by Gender All,2020Q2,0,All,0
+Separations,Montgomery WIA,Maryland Separations by Gender All,2020Q2,0,All,TBD
 Separations,Montgomery WIA,Maryland Separations by Gender All,2015Q3,0,All,72939
 Separations,Montgomery WIA,Maryland Separations by Gender All,2016Q3,0,All,73442
 Separations,Montgomery WIA,Maryland Separations by Gender All,2017Q3,0,All,70922
@@ -3618,13 +3618,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2019Q1,0,All,0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2017Q1,0,All,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2018Q1,0,All,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2015Q2,0,All,0.082
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2020Q1,0,All,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2016Q2,0,All,0.086
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2017Q2,0,All,0.08
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2018Q2,0,All,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2015Q3,0,All,0.088
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2019Q2,0,All,0.083
-Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2020Q2,0,All,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2016Q3,0,All,0.086
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2017Q3,0,All,0.085
 Turnover,Montgomery WIA,Maryland Turnover Rate by Gender All,2018Q3,0,All,0.086
@@ -3695,7 +3695,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2018Q2,2,Female,5085
 Workers,Montgomery WIA,Maryland Workers by Age All,2019Q1,A00,All Ages,439532
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2019Q2,2,Female,4519
 Workers,Montgomery WIA,Maryland Workers by Age All,2015Q2,A00,All Ages,430991
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2020Q2,2,Female,TBD
 Workers,Montgomery WIA,Maryland Workers by Age All,2020Q1,A00,All Ages,447345
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2015Q3,2,Female,-1710
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2017Q3,2,Female,-2095
@@ -3725,7 +3725,7 @@ Workers,Montgomery WIA,Maryland Workers by Age All,2016Q3,A00,All Ages,432807
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2017Q2,0,All,12089
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2018Q2,0,All,12115
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2019Q2,0,All,10492
-Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,0
+Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,TBD
 Workers,Montgomery WIA,Maryland Workers by Age All,2017Q3,A00,All Ages,435150
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2015Q3,0,All,-3835
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2016Q3,0,All,-4538
@@ -3773,7 +3773,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2015Q4,0,All,329
 Separations,Montgomery WIA,Maryland Separations by Age,2018Q2,A08,65-99,3629
 Separations,Montgomery WIA,Maryland Separations by Age,2017Q2,A08,65-99,3579
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2016Q4,0,All,1921
-Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A08,65-99,0
+Separations,Montgomery WIA,Maryland Separations by Age,2020Q2,A08,65-99,TBD
 Separations,Montgomery WIA,Maryland Separations by Age,2019Q2,A08,65-99,3755
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2017Q4,0,All,2352
 Separations,Montgomery WIA,Maryland Separations by Age,2016Q3,A08,65-99,3472
@@ -3843,7 +3843,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q2,A08,65-9
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q2,A08,65-99,5428
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2019Q2,A08,65-99,5451
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2017Q2,A08,65-99,5517
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2020Q2,A08,65-99,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2015Q3,A08,65-99,4986
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2016Q3,A08,65-99,5433
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2018Q3,A08,65-99,5280
@@ -3864,7 +3864,7 @@ Job change,Montgomery WIA,Maryland Job Net Change by Education All,2015Q2,E0,All
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2016Q2,E0,All Education Categories,11881
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2017Q2,E0,All Education Categories,12089
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2018Q2,E0,All Education Categories,12115
-Job change,Montgomery WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,0
+Job change,Montgomery WIA,Maryland Job Net Change by Education All,2020Q2,E0,All Education Categories,TBD
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2019Q2,E0,All Education Categories,10492
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2015Q3,E0,All Education Categories,-3835
 Job change,Montgomery WIA,Maryland Job Net Change by Education All,2018Q3,E0,All Education Categories,-5978
@@ -3887,7 +3887,7 @@ Separations,Montgomery WIA,Maryland Separations by Education All,2017Q2,E0,All E
 Separations,Montgomery WIA,Maryland Separations by Education All,2016Q2,E0,All Education Categories,58161
 Separations,Montgomery WIA,Maryland Separations by Education All,2018Q2,E0,All Education Categories,57729
 Separations,Montgomery WIA,Maryland Separations by Education All,2019Q2,E0,All Education Categories,61279
-Separations,Montgomery WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,0
+Separations,Montgomery WIA,Maryland Separations by Education All,2020Q2,E0,All Education Categories,TBD
 Separations,Montgomery WIA,Maryland Separations by Education All,2015Q3,E0,All Education Categories,72939
 Separations,Montgomery WIA,Maryland Separations by Education All,2016Q3,E0,All Education Categories,73442
 Separations,Montgomery WIA,Maryland Separations by Education All,2018Q3,E0,All Education Categories,72618
@@ -3909,7 +3909,7 @@ Separations,Montgomery WIA,Maryland Separations by Education,2016Q2,E1,Less than
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q2,E1,Less than High school,7724
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q2,E1,Less than High school,7696
 Separations,Montgomery WIA,Maryland Separations by Education,2019Q2,E1,Less than High school,8200
-Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,0
+Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E1,Less than High school,TBD
 Separations,Montgomery WIA,Maryland Separations by Education,2015Q3,E1,Less than High school,8081
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q3,E1,Less than High school,8203
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q3,E1,Less than High school,7889
@@ -3931,7 +3931,7 @@ Separations,Montgomery WIA,Maryland Separations by Education,2016Q2,E2,"High sch
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q2,E2,"High school or equivalent, no college",10585
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q2,E2,"High school or equivalent, no college",10756
 Separations,Montgomery WIA,Maryland Separations by Education,2019Q2,E2,"High school or equivalent, no college",11454
-Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",0
+Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E2,"High school or equivalent, no college",TBD
 Separations,Montgomery WIA,Maryland Separations by Education,2015Q3,E2,"High school or equivalent, no college",11072
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q3,E2,"High school or equivalent, no college",11333
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q3,E2,"High school or equivalent, no college",10836
@@ -3953,7 +3953,7 @@ Separations,Montgomery WIA,Maryland Separations by Education,2016Q2,E3,Some coll
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q2,E3,Some college or Associate degree,12113
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q2,E3,Some college or Associate degree,12442
 Separations,Montgomery WIA,Maryland Separations by Education,2019Q2,E3,Some college or Associate degree,13362
-Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,0
+Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E3,Some college or Associate degree,TBD
 Separations,Montgomery WIA,Maryland Separations by Education,2015Q3,E3,Some college or Associate degree,12784
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q3,E3,Some college or Associate degree,12916
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q3,E3,Some college or Associate degree,12287
@@ -3975,7 +3975,7 @@ Separations,Montgomery WIA,Maryland Separations by Education,2016Q2,E4,Bachelor'
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q2,E4,Bachelor's degree or advanced degree,13727
 Separations,Montgomery WIA,Maryland Separations by Education,2015Q3,E4,Bachelor's degree or advanced degree,14254
 Separations,Montgomery WIA,Maryland Separations by Education,2019Q2,E4,Bachelor's degree or advanced degree,14947
-Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,0
+Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E4,Bachelor's degree or advanced degree,TBD
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q2,E4,Bachelor's degree or advanced degree,13946
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q3,E4,Bachelor's degree or advanced degree,14268
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q3,E4,Bachelor's degree or advanced degree,13929
@@ -3999,7 +3999,7 @@ Separations,Montgomery WIA,Maryland Separations by Education,2015Q3,E5,Education
 Separations,Montgomery WIA,Maryland Separations by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),13316
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),26722
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),12889
-Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Separations,Montgomery WIA,Maryland Separations by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Separations,Montgomery WIA,Maryland Separations by Education,2018Q3,E5,Educational attainment not available (workers aged 24 or younger),26401
 Separations,Montgomery WIA,Maryland Separations by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),26463
 Separations,Montgomery WIA,Maryland Separations by Education,2016Q4,E5,Educational attainment not available (workers aged 24 or younger),14040
@@ -4020,7 +4020,7 @@ Job Change,Montgomery WIA,Maryland Job Net Change by Education,2018Q2,E5,Educati
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),10896
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),11206
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),-4227
-Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0
+Job Change,Montgomery WIA,Maryland Job Net Change by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),-4019
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),-5365
 Job Change,Montgomery WIA,Maryland Job Net Change by Education,2019Q3,E5,Educational attainment not available (workers aged 24 or younger),-4656
@@ -4035,13 +4035,13 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q1,E5,Educationa
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q1,E5,Educational attainment not available (workers aged 24 or younger),0.188,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q1,E5,Educational attainment not available (workers aged 24 or younger),0.19,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q1,E5,Educational attainment not available (workers aged 24 or younger),0.184,
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q1,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q2,E5,Educational attainment not available (workers aged 24 or younger),0.203,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q2,E5,Educational attainment not available (workers aged 24 or younger),0.206,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q2,E5,Educational attainment not available (workers aged 24 or younger),0.205,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2015Q3,E5,Educational attainment not available (workers aged 24 or younger),0.215,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q2,E5,Educational attainment not available (workers aged 24 or younger),0.201,
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),0,
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2020Q2,E5,Educational attainment not available (workers aged 24 or younger),TBD,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2019Q2,E5,Educational attainment not available (workers aged 24 or younger),0.205,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q3,E5,Educational attainment not available (workers aged 24 or younger),0.213,
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2017Q3,E5,Educational attainment not available (workers aged 24 or younger),0.209,
@@ -4058,7 +4058,7 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,5659
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,5750
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5898
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2015Q3,A00,All Ages,5247
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2016Q3,A00,All Ages,5686
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2017Q3,A00,All Ages,5508
@@ -4080,7 +4080,7 @@ Separations,Montgomery WIA,Maryland Separations by Age All,2016Q2,A00,All Ages,5
 Separations,Montgomery WIA,Maryland Separations by Age All,2017Q2,A00,All Ages,57960
 Separations,Montgomery WIA,Maryland Separations by Age All,2018Q2,A00,All Ages,57729
 Separations,Montgomery WIA,Maryland Separations by Age All,2019Q2,A00,All Ages,61279
-Separations,Montgomery WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,0
+Separations,Montgomery WIA,Maryland Separations by Age All,2020Q2,A00,All Ages,TBD
 Separations,Montgomery WIA,Maryland Separations by Age All,2015Q3,A00,All Ages,72939
 Separations,Montgomery WIA,Maryland Separations by Age All,2016Q3,A00,All Ages,73442
 Separations,Montgomery WIA,Maryland Separations by Age All,2017Q3,A00,All Ages,70922
@@ -4095,14 +4095,14 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2015Q1,E0,All Ed
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2016Q1,E0,All Education Categories,0.085
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2017Q1,E0,All Education Categories,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2018Q1,E0,All Education Categories,0.081
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2020Q1,E0,All Education Categories,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2019Q1,E0,All Education Categories,0.084
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2015Q2,E0,All Education Categories,0.082
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2016Q2,E0,All Education Categories,0.086
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2017Q2,E0,All Education Categories,0.08
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2018Q2,E0,All Education Categories,0.081
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2019Q2,E0,All Education Categories,0.083
-Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,0
+Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2020Q2,E0,All Education Categories,TBD
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2015Q3,E0,All Education Categories,0.088
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2016Q3,E0,All Education Categories,0.086
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education All,2017Q3,E0,All Education Categories,0.085
@@ -4117,5 +4117,5 @@ Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2016Q2,A00,
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2017Q2,A00,All Ages,5659
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2018Q2,A00,All Ages,5750
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2019Q2,A00,All Ages,5898
-Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,0
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2020Q2,A00,All Ages,TBD
 Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age All,2015Q2,A00,All Ages,5578
