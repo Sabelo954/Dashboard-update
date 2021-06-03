@@ -1,5 +1,5 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
-Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",12
+Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2020Q2,11,"Agriculture, Forestry, Fishing and Hunting",TBD
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2016Q3,11,"Agriculture, Forestry, Fishing and Hunting",-1
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2015Q3,11,"Agriculture, Forestry, Fishing and Hunting",-2
 Job Change,Baltimore City WIA,Maryland Job Net Change by Industry,2017Q3,11,"Agriculture, Forestry, Fishing and Hunting",2
@@ -38,7 +38,7 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2016Q1,11,"Agric
 Separations,Baltimore City WIA,Maryland Separations by Industry,2018Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
 Separations,Baltimore City WIA,Maryland Separations by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
-Separations,Baltimore City WIA,Maryland Separations by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Separations,Baltimore City WIA,Maryland Separations by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",S
 Separations,Baltimore City WIA,Maryland Separations by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
 Separations,Baltimore City WIA,Maryland Separations by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
 Separations,Baltimore City WIA,Maryland Separations by Industry,2018Q2,11,"Agriculture, Forestry, Fishing and Hunting",S
@@ -1527,7 +1527,7 @@ Separations,Baltimore City WIA,Maryland Separations by Industry,2016Q1,21,"Minin
 Separations,Baltimore City WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Separations,Baltimore City WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Separations,Baltimore City WIA,Maryland Separations by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",S
 Separations,Baltimore City WIA,Maryland Separations by Industry,2017Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Separations,Baltimore City WIA,Maryland Separations by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
